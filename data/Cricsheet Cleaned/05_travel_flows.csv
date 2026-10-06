@@ -1,0 +1,668 @@
+team,abbrev,colour,season,season_label,home_venue,home_lat,home_lon,venue,venue_lat,venue_lon,trips,km_one_way
+Adelaide Strikers,STR,#0085CA,2011/12,BBL|01,Adelaide Oval,-34.9156,138.5961,Melbourne Cricket Ground,-37.82,144.9834,1,657
+Adelaide Strikers,STR,#0085CA,2011/12,BBL|01,Adelaide Oval,-34.9156,138.5961,Stadium Australia,-33.847,151.0634,1,1150
+Adelaide Strikers,STR,#0085CA,2011/12,BBL|01,Adelaide Oval,-34.9156,138.5961,WACA Ground,-31.96,115.8797,1,2129
+Adelaide Strikers,STR,#0085CA,2012/13,BBL|02,Adelaide Oval,-34.9156,138.5961,Docklands Stadium,-37.8165,144.9475,1,654
+Adelaide Strikers,STR,#0085CA,2012/13,BBL|02,Adelaide Oval,-34.9156,138.5961,Stadium Australia,-33.847,151.0634,1,1150
+Adelaide Strikers,STR,#0085CA,2012/13,BBL|02,Adelaide Oval,-34.9156,138.5961,WACA Ground,-31.96,115.8797,1,2129
+Adelaide Strikers,STR,#0085CA,2013/14,BBL|03,Adelaide Oval,-34.9156,138.5961,Bellerive Oval,-42.877,147.373,1,1165
+Adelaide Strikers,STR,#0085CA,2013/14,BBL|03,Adelaide Oval,-34.9156,138.5961,Melbourne Cricket Ground,-37.82,144.9834,1,657
+Adelaide Strikers,STR,#0085CA,2013/14,BBL|03,Adelaide Oval,-34.9156,138.5961,Stadium Australia,-33.847,151.0634,1,1150
+Adelaide Strikers,STR,#0085CA,2013/14,BBL|03,Adelaide Oval,-34.9156,138.5961,WACA Ground,-31.96,115.8797,1,2129
+Adelaide Strikers,STR,#0085CA,2014/15,BBL|04,Adelaide Oval,-34.9156,138.5961,Docklands Stadium,-37.8165,144.9475,1,654
+Adelaide Strikers,STR,#0085CA,2014/15,BBL|04,Adelaide Oval,-34.9156,138.5961,Sydney Cricket Ground,-33.8915,151.2249,1,1163
+Adelaide Strikers,STR,#0085CA,2014/15,BBL|04,Adelaide Oval,-34.9156,138.5961,The Gabba,-27.4858,153.0381,1,1600
+Adelaide Strikers,STR,#0085CA,2014/15,BBL|04,Adelaide Oval,-34.9156,138.5961,WACA Ground,-31.96,115.8797,1,2129
+Adelaide Strikers,STR,#0085CA,2015/16,BBL|05,Adelaide Oval,-34.9156,138.5961,Docklands Stadium,-37.8165,144.9475,1,654
+Adelaide Strikers,STR,#0085CA,2015/16,BBL|05,Adelaide Oval,-34.9156,138.5961,Sydney Showground Stadium,-33.843,151.067,1,1150
+Adelaide Strikers,STR,#0085CA,2015/16,BBL|05,Adelaide Oval,-34.9156,138.5961,The Gabba,-27.4858,153.0381,1,1600
+Adelaide Strikers,STR,#0085CA,2015/16,BBL|05,Adelaide Oval,-34.9156,138.5961,WACA Ground,-31.96,115.8797,1,2129
+Adelaide Strikers,STR,#0085CA,2016/17,BBL|06,Adelaide Oval,-34.9156,138.5961,Bellerive Oval,-42.877,147.373,1,1165
+Adelaide Strikers,STR,#0085CA,2016/17,BBL|06,Adelaide Oval,-34.9156,138.5961,Melbourne Cricket Ground,-37.82,144.9834,1,657
+Adelaide Strikers,STR,#0085CA,2016/17,BBL|06,Adelaide Oval,-34.9156,138.5961,Sydney Showground Stadium,-33.843,151.067,1,1150
+Adelaide Strikers,STR,#0085CA,2016/17,BBL|06,Adelaide Oval,-34.9156,138.5961,WACA Ground,-31.96,115.8797,1,2129
+Adelaide Strikers,STR,#0085CA,2017/18,BBL|07,Adelaide Oval,-34.9156,138.5961,Bellerive Oval,-42.877,147.373,1,1165
+Adelaide Strikers,STR,#0085CA,2017/18,BBL|07,Adelaide Oval,-34.9156,138.5961,Docklands Stadium,-37.8165,144.9475,1,654
+Adelaide Strikers,STR,#0085CA,2017/18,BBL|07,Adelaide Oval,-34.9156,138.5961,Sydney Cricket Ground,-33.8915,151.2249,1,1163
+Adelaide Strikers,STR,#0085CA,2017/18,BBL|07,Adelaide Oval,-34.9156,138.5961,Sydney Showground Stadium,-33.843,151.067,1,1150
+Adelaide Strikers,STR,#0085CA,2017/18,BBL|07,Adelaide Oval,-34.9156,138.5961,Traeger Park,-23.704,133.872,1,1328
+Adelaide Strikers,STR,#0085CA,2017/18,BBL|07,Adelaide Oval,-34.9156,138.5961,WACA Ground,-31.96,115.8797,1,2129
+Adelaide Strikers,STR,#0085CA,2018/19,BBL|08,Adelaide Oval,-34.9156,138.5961,Kardinia Park,-38.158,144.3546,1,628
+Adelaide Strikers,STR,#0085CA,2018/19,BBL|08,Adelaide Oval,-34.9156,138.5961,Perth Stadium,-31.9512,115.889,1,2128
+Adelaide Strikers,STR,#0085CA,2018/19,BBL|08,Adelaide Oval,-34.9156,138.5961,Sydney Cricket Ground,-33.8915,151.2249,1,1163
+Adelaide Strikers,STR,#0085CA,2018/19,BBL|08,Adelaide Oval,-34.9156,138.5961,Sydney Showground Stadium,-33.843,151.067,1,1150
+Adelaide Strikers,STR,#0085CA,2018/19,BBL|08,Adelaide Oval,-34.9156,138.5961,Ted Summerton Reserve,-38.173,146.255,1,774
+Adelaide Strikers,STR,#0085CA,2018/19,BBL|08,Adelaide Oval,-34.9156,138.5961,The Gabba,-27.4858,153.0381,1,1600
+Adelaide Strikers,STR,#0085CA,2018/19,BBL|08,Adelaide Oval,-34.9156,138.5961,York Park,-41.4258,147.1388,1,1039
+Adelaide Strikers,STR,#0085CA,2019/20,BBL|09,Adelaide Oval,-34.9156,138.5961,C.ex Coffs International Stadium,-30.3196,153.1003,1,1450
+Adelaide Strikers,STR,#0085CA,2019/20,BBL|09,Adelaide Oval,-34.9156,138.5961,Carrara Oval,-28.0063,153.3667,1,1595
+Adelaide Strikers,STR,#0085CA,2019/20,BBL|09,Adelaide Oval,-34.9156,138.5961,Docklands Stadium,-37.8165,144.9475,1,654
+Adelaide Strikers,STR,#0085CA,2019/20,BBL|09,Adelaide Oval,-34.9156,138.5961,Manuka Oval,-35.3181,149.1347,1,959
+Adelaide Strikers,STR,#0085CA,2019/20,BBL|09,Adelaide Oval,-34.9156,138.5961,Perth Stadium,-31.9512,115.889,1,2128
+Adelaide Strikers,STR,#0085CA,2019/20,BBL|09,Adelaide Oval,-34.9156,138.5961,The Gabba,-27.4858,153.0381,1,1600
+Adelaide Strikers,STR,#0085CA,2019/20,BBL|09,Adelaide Oval,-34.9156,138.5961,York Park,-41.4258,147.1388,1,1039
+Adelaide Strikers,STR,#0085CA,2020/21,BBL|10,Adelaide Oval,-34.9156,138.5961,Bellerive Oval,-42.877,147.373,2,1165
+Adelaide Strikers,STR,#0085CA,2020/21,BBL|10,Adelaide Oval,-34.9156,138.5961,Carrara Oval,-28.0063,153.3667,1,1595
+Adelaide Strikers,STR,#0085CA,2020/21,BBL|10,Adelaide Oval,-34.9156,138.5961,Melbourne Cricket Ground,-37.82,144.9834,1,657
+Adelaide Strikers,STR,#0085CA,2020/21,BBL|10,Adelaide Oval,-34.9156,138.5961,The Gabba,-27.4858,153.0381,2,1600
+Adelaide Strikers,STR,#0085CA,2020/21,BBL|10,Adelaide Oval,-34.9156,138.5961,York Park,-41.4258,147.1388,1,1039
+Adelaide Strikers,STR,#0085CA,2021/22,BBL|11,Adelaide Oval,-34.9156,138.5961,Bellerive Oval,-42.877,147.373,1,1165
+Adelaide Strikers,STR,#0085CA,2021/22,BBL|11,Adelaide Oval,-34.9156,138.5961,Docklands Stadium,-37.8165,144.9475,1,654
+Adelaide Strikers,STR,#0085CA,2021/22,BBL|11,Adelaide Oval,-34.9156,138.5961,Melbourne Cricket Ground,-37.82,144.9834,3,657
+Adelaide Strikers,STR,#0085CA,2021/22,BBL|11,Adelaide Oval,-34.9156,138.5961,Sydney Cricket Ground,-33.8915,151.2249,2,1163
+Adelaide Strikers,STR,#0085CA,2021/22,BBL|11,Adelaide Oval,-34.9156,138.5961,Sydney Showground Stadium,-33.843,151.067,2,1150
+Adelaide Strikers,STR,#0085CA,2021/22,BBL|11,Adelaide Oval,-34.9156,138.5961,The Gabba,-27.4858,153.0381,1,1600
+Adelaide Strikers,STR,#0085CA,2022/23,BBL|12,Adelaide Oval,-34.9156,138.5961,Bellerive Oval,-42.877,147.373,1,1165
+Adelaide Strikers,STR,#0085CA,2022/23,BBL|12,Adelaide Oval,-34.9156,138.5961,C.ex Coffs International Stadium,-30.3196,153.1003,1,1450
+Adelaide Strikers,STR,#0085CA,2022/23,BBL|12,Adelaide Oval,-34.9156,138.5961,Docklands Stadium,-37.8165,144.9475,1,654
+Adelaide Strikers,STR,#0085CA,2022/23,BBL|12,Adelaide Oval,-34.9156,138.5961,Melbourne Cricket Ground,-37.82,144.9834,1,657
+Adelaide Strikers,STR,#0085CA,2022/23,BBL|12,Adelaide Oval,-34.9156,138.5961,Perth Stadium,-31.9512,115.889,1,2128
+Adelaide Strikers,STR,#0085CA,2022/23,BBL|12,Adelaide Oval,-34.9156,138.5961,Sydney Showground Stadium,-33.843,151.067,1,1150
+Adelaide Strikers,STR,#0085CA,2022/23,BBL|12,Adelaide Oval,-34.9156,138.5961,The Gabba,-27.4858,153.0381,1,1600
+Adelaide Strikers,STR,#0085CA,2023/24,BBL|13,Adelaide Oval,-34.9156,138.5961,Bellerive Oval,-42.877,147.373,1,1165
+Adelaide Strikers,STR,#0085CA,2023/24,BBL|13,Adelaide Oval,-34.9156,138.5961,Carrara Oval,-28.0063,153.3667,1,1595
+Adelaide Strikers,STR,#0085CA,2023/24,BBL|13,Adelaide Oval,-34.9156,138.5961,Docklands Stadium,-37.8165,144.9475,1,654
+Adelaide Strikers,STR,#0085CA,2023/24,BBL|13,Adelaide Oval,-34.9156,138.5961,Manuka Oval,-35.3181,149.1347,1,959
+Adelaide Strikers,STR,#0085CA,2023/24,BBL|13,Adelaide Oval,-34.9156,138.5961,Perth Stadium,-31.9512,115.889,2,2128
+Adelaide Strikers,STR,#0085CA,2023/24,BBL|13,Adelaide Oval,-34.9156,138.5961,Sydney Cricket Ground,-33.8915,151.2249,1,1163
+Adelaide Strikers,STR,#0085CA,2024/25,BBL|14,Adelaide Oval,-34.9156,138.5961,Bellerive Oval,-42.877,147.373,1,1165
+Adelaide Strikers,STR,#0085CA,2024/25,BBL|14,Adelaide Oval,-34.9156,138.5961,Docklands Stadium,-37.8165,144.9475,1,654
+Adelaide Strikers,STR,#0085CA,2024/25,BBL|14,Adelaide Oval,-34.9156,138.5961,Manuka Oval,-35.3181,149.1347,1,959
+Adelaide Strikers,STR,#0085CA,2024/25,BBL|14,Adelaide Oval,-34.9156,138.5961,Perth Stadium,-31.9512,115.889,1,2128
+Adelaide Strikers,STR,#0085CA,2024/25,BBL|14,Adelaide Oval,-34.9156,138.5961,The Gabba,-27.4858,153.0381,1,1600
+Adelaide Strikers,STR,#0085CA,2025/26,BBL|15,Adelaide Oval,-34.9156,138.5961,Bellerive Oval,-42.877,147.373,1,1165
+Adelaide Strikers,STR,#0085CA,2025/26,BBL|15,Adelaide Oval,-34.9156,138.5961,Melbourne Cricket Ground,-37.82,144.9834,1,657
+Adelaide Strikers,STR,#0085CA,2025/26,BBL|15,Adelaide Oval,-34.9156,138.5961,Perth Stadium,-31.9512,115.889,1,2128
+Adelaide Strikers,STR,#0085CA,2025/26,BBL|15,Adelaide Oval,-34.9156,138.5961,Sydney Cricket Ground,-33.8915,151.2249,1,1163
+Adelaide Strikers,STR,#0085CA,2025/26,BBL|15,Adelaide Oval,-34.9156,138.5961,The Gabba,-27.4858,153.0381,1,1600
+Brisbane Heat,HEA,#00B2A9,2011/12,BBL|01,The Gabba,-27.4858,153.0381,Docklands Stadium,-37.8165,144.9475,1,1375
+Brisbane Heat,HEA,#00B2A9,2011/12,BBL|01,The Gabba,-27.4858,153.0381,Sydney Cricket Ground,-33.8915,151.2249,1,733
+Brisbane Heat,HEA,#00B2A9,2011/12,BBL|01,The Gabba,-27.4858,153.0381,WACA Ground,-31.96,115.8797,1,3605
+Brisbane Heat,HEA,#00B2A9,2012/13,BBL|02,The Gabba,-27.4858,153.0381,Adelaide Oval,-34.9156,138.5961,1,1600
+Brisbane Heat,HEA,#00B2A9,2012/13,BBL|02,The Gabba,-27.4858,153.0381,Docklands Stadium,-37.8165,144.9475,2,1375
+Brisbane Heat,HEA,#00B2A9,2012/13,BBL|02,The Gabba,-27.4858,153.0381,Stadium Australia,-33.847,151.0634,1,732
+Brisbane Heat,HEA,#00B2A9,2012/13,BBL|02,The Gabba,-27.4858,153.0381,WACA Ground,-31.96,115.8797,1,3605
+Brisbane Heat,HEA,#00B2A9,2013/14,BBL|03,The Gabba,-27.4858,153.0381,Adelaide Oval,-34.9156,138.5961,1,1600
+Brisbane Heat,HEA,#00B2A9,2013/14,BBL|03,The Gabba,-27.4858,153.0381,Bellerive Oval,-42.877,147.373,1,1786
+Brisbane Heat,HEA,#00B2A9,2013/14,BBL|03,The Gabba,-27.4858,153.0381,Docklands Stadium,-37.8165,144.9475,1,1375
+Brisbane Heat,HEA,#00B2A9,2013/14,BBL|03,The Gabba,-27.4858,153.0381,Stadium Australia,-33.847,151.0634,1,732
+Brisbane Heat,HEA,#00B2A9,2014/15,BBL|04,The Gabba,-27.4858,153.0381,Bellerive Oval,-42.877,147.373,1,1786
+Brisbane Heat,HEA,#00B2A9,2014/15,BBL|04,The Gabba,-27.4858,153.0381,Docklands Stadium,-37.8165,144.9475,1,1375
+Brisbane Heat,HEA,#00B2A9,2014/15,BBL|04,The Gabba,-27.4858,153.0381,Stadium Australia,-33.847,151.0634,1,732
+Brisbane Heat,HEA,#00B2A9,2014/15,BBL|04,The Gabba,-27.4858,153.0381,WACA Ground,-31.96,115.8797,1,3605
+Brisbane Heat,HEA,#00B2A9,2015/16,BBL|05,The Gabba,-27.4858,153.0381,Bellerive Oval,-42.877,147.373,1,1786
+Brisbane Heat,HEA,#00B2A9,2015/16,BBL|05,The Gabba,-27.4858,153.0381,Melbourne Cricket Ground,-37.82,144.9834,1,1373
+Brisbane Heat,HEA,#00B2A9,2015/16,BBL|05,The Gabba,-27.4858,153.0381,Sydney Cricket Ground,-33.8915,151.2249,1,733
+Brisbane Heat,HEA,#00B2A9,2015/16,BBL|05,The Gabba,-27.4858,153.0381,WACA Ground,-31.96,115.8797,1,3605
+Brisbane Heat,HEA,#00B2A9,2016/17,BBL|06,The Gabba,-27.4858,153.0381,Adelaide Oval,-34.9156,138.5961,1,1600
+Brisbane Heat,HEA,#00B2A9,2016/17,BBL|06,The Gabba,-27.4858,153.0381,Melbourne Cricket Ground,-37.82,144.9834,1,1373
+Brisbane Heat,HEA,#00B2A9,2016/17,BBL|06,The Gabba,-27.4858,153.0381,Sydney Showground Stadium,-33.843,151.067,1,732
+Brisbane Heat,HEA,#00B2A9,2016/17,BBL|06,The Gabba,-27.4858,153.0381,WACA Ground,-31.96,115.8797,1,3605
+Brisbane Heat,HEA,#00B2A9,2017/18,BBL|07,The Gabba,-27.4858,153.0381,Adelaide Oval,-34.9156,138.5961,1,1600
+Brisbane Heat,HEA,#00B2A9,2017/18,BBL|07,The Gabba,-27.4858,153.0381,Bellerive Oval,-42.877,147.373,1,1786
+Brisbane Heat,HEA,#00B2A9,2017/18,BBL|07,The Gabba,-27.4858,153.0381,Docklands Stadium,-37.8165,144.9475,1,1375
+Brisbane Heat,HEA,#00B2A9,2017/18,BBL|07,The Gabba,-27.4858,153.0381,Melbourne Cricket Ground,-37.82,144.9834,1,1373
+Brisbane Heat,HEA,#00B2A9,2017/18,BBL|07,The Gabba,-27.4858,153.0381,Sydney Cricket Ground,-33.8915,151.2249,1,733
+Brisbane Heat,HEA,#00B2A9,2018/19,BBL|08,The Gabba,-27.4858,153.0381,Adelaide Oval,-34.9156,138.5961,1,1600
+Brisbane Heat,HEA,#00B2A9,2018/19,BBL|08,The Gabba,-27.4858,153.0381,Bellerive Oval,-42.877,147.373,1,1786
+Brisbane Heat,HEA,#00B2A9,2018/19,BBL|08,The Gabba,-27.4858,153.0381,Carrara Oval,-28.0063,153.3667,2,66
+Brisbane Heat,HEA,#00B2A9,2018/19,BBL|08,The Gabba,-27.4858,153.0381,Kardinia Park,-38.158,144.3546,1,1436
+Brisbane Heat,HEA,#00B2A9,2018/19,BBL|08,The Gabba,-27.4858,153.0381,Melbourne Cricket Ground,-37.82,144.9834,1,1373
+Brisbane Heat,HEA,#00B2A9,2018/19,BBL|08,The Gabba,-27.4858,153.0381,Perth Stadium,-31.9512,115.889,1,3604
+Brisbane Heat,HEA,#00B2A9,2018/19,BBL|08,The Gabba,-27.4858,153.0381,Sydney Cricket Ground,-33.8915,151.2249,1,733
+Brisbane Heat,HEA,#00B2A9,2018/19,BBL|08,The Gabba,-27.4858,153.0381,Sydney Showground Stadium,-33.843,151.067,1,732
+Brisbane Heat,HEA,#00B2A9,2019/20,BBL|09,The Gabba,-27.4858,153.0381,Adelaide Oval,-34.9156,138.5961,1,1600
+Brisbane Heat,HEA,#00B2A9,2019/20,BBL|09,The Gabba,-27.4858,153.0381,Bellerive Oval,-42.877,147.373,1,1786
+Brisbane Heat,HEA,#00B2A9,2019/20,BBL|09,The Gabba,-27.4858,153.0381,Carrara Oval,-28.0063,153.3667,2,66
+Brisbane Heat,HEA,#00B2A9,2019/20,BBL|09,The Gabba,-27.4858,153.0381,Docklands Stadium,-37.8165,144.9475,1,1375
+Brisbane Heat,HEA,#00B2A9,2019/20,BBL|09,The Gabba,-27.4858,153.0381,Melbourne Cricket Ground,-37.82,144.9834,1,1373
+Brisbane Heat,HEA,#00B2A9,2019/20,BBL|09,The Gabba,-27.4858,153.0381,Perth Stadium,-31.9512,115.889,1,3604
+Brisbane Heat,HEA,#00B2A9,2019/20,BBL|09,The Gabba,-27.4858,153.0381,Sydney Cricket Ground,-33.8915,151.2249,1,733
+Brisbane Heat,HEA,#00B2A9,2019/20,BBL|09,The Gabba,-27.4858,153.0381,Sydney Showground Stadium,-33.843,151.067,1,732
+Brisbane Heat,HEA,#00B2A9,2020/21,BBL|10,The Gabba,-27.4858,153.0381,Adelaide Oval,-34.9156,138.5961,2,1600
+Brisbane Heat,HEA,#00B2A9,2020/21,BBL|10,The Gabba,-27.4858,153.0381,Carrara Oval,-28.0063,153.3667,2,66
+Brisbane Heat,HEA,#00B2A9,2020/21,BBL|10,The Gabba,-27.4858,153.0381,Docklands Stadium,-37.8165,144.9475,2,1375
+Brisbane Heat,HEA,#00B2A9,2020/21,BBL|10,The Gabba,-27.4858,153.0381,Manuka Oval,-35.3181,149.1347,5,946
+Brisbane Heat,HEA,#00B2A9,2021/22,BBL|11,The Gabba,-27.4858,153.0381,Adelaide Oval,-34.9156,138.5961,1,1600
+Brisbane Heat,HEA,#00B2A9,2021/22,BBL|11,The Gabba,-27.4858,153.0381,Bellerive Oval,-42.877,147.373,1,1786
+Brisbane Heat,HEA,#00B2A9,2021/22,BBL|11,The Gabba,-27.4858,153.0381,Carrara Oval,-28.0063,153.3667,1,66
+Brisbane Heat,HEA,#00B2A9,2021/22,BBL|11,The Gabba,-27.4858,153.0381,Docklands Stadium,-37.8165,144.9475,1,1375
+Brisbane Heat,HEA,#00B2A9,2021/22,BBL|11,The Gabba,-27.4858,153.0381,Kardinia Park,-38.158,144.3546,1,1436
+Brisbane Heat,HEA,#00B2A9,2021/22,BBL|11,The Gabba,-27.4858,153.0381,Manuka Oval,-35.3181,149.1347,1,946
+Brisbane Heat,HEA,#00B2A9,2021/22,BBL|11,The Gabba,-27.4858,153.0381,Melbourne Cricket Ground,-37.82,144.9834,1,1373
+Brisbane Heat,HEA,#00B2A9,2021/22,BBL|11,The Gabba,-27.4858,153.0381,Perth Stadium,-31.9512,115.889,1,3604
+Brisbane Heat,HEA,#00B2A9,2021/22,BBL|11,The Gabba,-27.4858,153.0381,Sydney Cricket Ground,-33.8915,151.2249,1,733
+Brisbane Heat,HEA,#00B2A9,2022/23,BBL|12,The Gabba,-27.4858,153.0381,Adelaide Oval,-34.9156,138.5961,1,1600
+Brisbane Heat,HEA,#00B2A9,2022/23,BBL|12,The Gabba,-27.4858,153.0381,Carrara Oval,-28.0063,153.3667,1,66
+Brisbane Heat,HEA,#00B2A9,2022/23,BBL|12,The Gabba,-27.4858,153.0381,Cazaly's Stadium,-16.936,145.749,1,1392
+Brisbane Heat,HEA,#00B2A9,2022/23,BBL|12,The Gabba,-27.4858,153.0381,Docklands Stadium,-37.8165,144.9475,1,1375
+Brisbane Heat,HEA,#00B2A9,2022/23,BBL|12,The Gabba,-27.4858,153.0381,Kardinia Park,-38.158,144.3546,1,1436
+Brisbane Heat,HEA,#00B2A9,2022/23,BBL|12,The Gabba,-27.4858,153.0381,Melbourne Cricket Ground,-37.82,144.9834,1,1373
+Brisbane Heat,HEA,#00B2A9,2022/23,BBL|12,The Gabba,-27.4858,153.0381,North Sydney Oval,-33.836,151.2075,1,727
+Brisbane Heat,HEA,#00B2A9,2022/23,BBL|12,The Gabba,-27.4858,153.0381,Perth Stadium,-31.9512,115.889,2,3604
+Brisbane Heat,HEA,#00B2A9,2022/23,BBL|12,The Gabba,-27.4858,153.0381,Sydney Cricket Ground,-33.8915,151.2249,1,733
+Brisbane Heat,HEA,#00B2A9,2022/23,BBL|12,The Gabba,-27.4858,153.0381,Sydney Showground Stadium,-33.843,151.067,2,732
+Brisbane Heat,HEA,#00B2A9,2022/23,BBL|12,The Gabba,-27.4858,153.0381,York Park,-41.4258,147.1388,1,1641
+Brisbane Heat,HEA,#00B2A9,2023/24,BBL|13,The Gabba,-27.4858,153.0381,C.ex Coffs International Stadium,-30.3196,153.1003,1,315
+Brisbane Heat,HEA,#00B2A9,2023/24,BBL|13,The Gabba,-27.4858,153.0381,Carrara Oval,-28.0063,153.3667,2,66
+Brisbane Heat,HEA,#00B2A9,2023/24,BBL|13,The Gabba,-27.4858,153.0381,Docklands Stadium,-37.8165,144.9475,1,1375
+Brisbane Heat,HEA,#00B2A9,2023/24,BBL|13,The Gabba,-27.4858,153.0381,Manuka Oval,-35.3181,149.1347,1,946
+Brisbane Heat,HEA,#00B2A9,2023/24,BBL|13,The Gabba,-27.4858,153.0381,Perth Stadium,-31.9512,115.889,1,3604
+Brisbane Heat,HEA,#00B2A9,2023/24,BBL|13,The Gabba,-27.4858,153.0381,Sydney Cricket Ground,-33.8915,151.2249,1,733
+Brisbane Heat,HEA,#00B2A9,2024/25,BBL|14,The Gabba,-27.4858,153.0381,Adelaide Oval,-34.9156,138.5961,1,1600
+Brisbane Heat,HEA,#00B2A9,2024/25,BBL|14,The Gabba,-27.4858,153.0381,Docklands Stadium,-37.8165,144.9475,1,1375
+Brisbane Heat,HEA,#00B2A9,2024/25,BBL|14,The Gabba,-27.4858,153.0381,Melbourne Cricket Ground,-37.82,144.9834,1,1373
+Brisbane Heat,HEA,#00B2A9,2024/25,BBL|14,The Gabba,-27.4858,153.0381,Perth Stadium,-31.9512,115.889,1,3604
+Brisbane Heat,HEA,#00B2A9,2025/26,BBL|15,The Gabba,-27.4858,153.0381,Adelaide Oval,-34.9156,138.5961,1,1600
+Brisbane Heat,HEA,#00B2A9,2025/26,BBL|15,The Gabba,-27.4858,153.0381,Bellerive Oval,-42.877,147.373,1,1786
+Brisbane Heat,HEA,#00B2A9,2025/26,BBL|15,The Gabba,-27.4858,153.0381,C.ex Coffs International Stadium,-30.3196,153.1003,1,315
+Brisbane Heat,HEA,#00B2A9,2025/26,BBL|15,The Gabba,-27.4858,153.0381,Kardinia Park,-38.158,144.3546,1,1436
+Brisbane Heat,HEA,#00B2A9,2025/26,BBL|15,The Gabba,-27.4858,153.0381,Manuka Oval,-35.3181,149.1347,1,946
+Hobart Hurricanes,HUR,#6A2C91,2011/12,BBL|01,Bellerive Oval,-42.877,147.373,Adelaide Oval,-34.9156,138.5961,1,1165
+Hobart Hurricanes,HUR,#6A2C91,2011/12,BBL|01,Bellerive Oval,-42.877,147.373,WACA Ground,-31.96,115.8797,1,3012
+Hobart Hurricanes,HUR,#6A2C91,2012/13,BBL|02,Bellerive Oval,-42.877,147.373,Docklands Stadium,-37.8165,144.9475,1,599
+Hobart Hurricanes,HUR,#6A2C91,2012/13,BBL|02,Bellerive Oval,-42.877,147.373,Melbourne Cricket Ground,-37.82,144.9834,1,598
+Hobart Hurricanes,HUR,#6A2C91,2012/13,BBL|02,Bellerive Oval,-42.877,147.373,Sydney Cricket Ground,-33.8915,151.2249,1,1054
+Hobart Hurricanes,HUR,#6A2C91,2012/13,BBL|02,Bellerive Oval,-42.877,147.373,The Gabba,-27.4858,153.0381,1,1786
+Hobart Hurricanes,HUR,#6A2C91,2013/14,BBL|03,Bellerive Oval,-42.877,147.373,Melbourne Cricket Ground,-37.82,144.9834,2,598
+Hobart Hurricanes,HUR,#6A2C91,2013/14,BBL|03,Bellerive Oval,-42.877,147.373,Sydney Cricket Ground,-33.8915,151.2249,1,1054
+Hobart Hurricanes,HUR,#6A2C91,2013/14,BBL|03,Bellerive Oval,-42.877,147.373,The Gabba,-27.4858,153.0381,1,1786
+Hobart Hurricanes,HUR,#6A2C91,2013/14,BBL|03,Bellerive Oval,-42.877,147.373,WACA Ground,-31.96,115.8797,2,3012
+Hobart Hurricanes,HUR,#6A2C91,2014/15,BBL|04,Bellerive Oval,-42.877,147.373,Adelaide Oval,-34.9156,138.5961,1,1165
+Hobart Hurricanes,HUR,#6A2C91,2014/15,BBL|04,Bellerive Oval,-42.877,147.373,Melbourne Cricket Ground,-37.82,144.9834,1,598
+Hobart Hurricanes,HUR,#6A2C91,2014/15,BBL|04,Bellerive Oval,-42.877,147.373,The Gabba,-27.4858,153.0381,1,1786
+Hobart Hurricanes,HUR,#6A2C91,2015/16,BBL|05,Bellerive Oval,-42.877,147.373,Adelaide Oval,-34.9156,138.5961,1,1165
+Hobart Hurricanes,HUR,#6A2C91,2015/16,BBL|05,Bellerive Oval,-42.877,147.373,Melbourne Cricket Ground,-37.82,144.9834,1,598
+Hobart Hurricanes,HUR,#6A2C91,2015/16,BBL|05,Bellerive Oval,-42.877,147.373,Sydney Cricket Ground,-33.8915,151.2249,1,1054
+Hobart Hurricanes,HUR,#6A2C91,2015/16,BBL|05,Bellerive Oval,-42.877,147.373,The Gabba,-27.4858,153.0381,1,1786
+Hobart Hurricanes,HUR,#6A2C91,2016/17,BBL|06,Bellerive Oval,-42.877,147.373,Adelaide Oval,-34.9156,138.5961,1,1165
+Hobart Hurricanes,HUR,#6A2C91,2016/17,BBL|06,Bellerive Oval,-42.877,147.373,Docklands Stadium,-37.8165,144.9475,1,599
+Hobart Hurricanes,HUR,#6A2C91,2016/17,BBL|06,Bellerive Oval,-42.877,147.373,Sydney Cricket Ground,-33.8915,151.2249,1,1054
+Hobart Hurricanes,HUR,#6A2C91,2016/17,BBL|06,Bellerive Oval,-42.877,147.373,The Gabba,-27.4858,153.0381,1,1786
+Hobart Hurricanes,HUR,#6A2C91,2017/18,BBL|07,Bellerive Oval,-42.877,147.373,Adelaide Oval,-34.9156,138.5961,2,1165
+Hobart Hurricanes,HUR,#6A2C91,2017/18,BBL|07,Bellerive Oval,-42.877,147.373,Melbourne Cricket Ground,-37.82,144.9834,1,598
+Hobart Hurricanes,HUR,#6A2C91,2017/18,BBL|07,Bellerive Oval,-42.877,147.373,Perth Stadium,-31.9512,115.889,1,3012
+Hobart Hurricanes,HUR,#6A2C91,2017/18,BBL|07,Bellerive Oval,-42.877,147.373,Sydney Showground Stadium,-33.843,151.067,1,1055
+Hobart Hurricanes,HUR,#6A2C91,2017/18,BBL|07,Bellerive Oval,-42.877,147.373,The Gabba,-27.4858,153.0381,1,1786
+Hobart Hurricanes,HUR,#6A2C91,2017/18,BBL|07,Bellerive Oval,-42.877,147.373,WACA Ground,-31.96,115.8797,1,3012
+Hobart Hurricanes,HUR,#6A2C91,2017/18,BBL|07,Bellerive Oval,-42.877,147.373,York Park,-41.4258,147.1388,1,163
+Hobart Hurricanes,HUR,#6A2C91,2018/19,BBL|08,Bellerive Oval,-42.877,147.373,Adelaide Oval,-34.9156,138.5961,1,1165
+Hobart Hurricanes,HUR,#6A2C91,2018/19,BBL|08,Bellerive Oval,-42.877,147.373,Carrara Oval,-28.0063,153.3667,1,1739
+Hobart Hurricanes,HUR,#6A2C91,2018/19,BBL|08,Bellerive Oval,-42.877,147.373,Docklands Stadium,-37.8165,144.9475,1,599
+Hobart Hurricanes,HUR,#6A2C91,2018/19,BBL|08,Bellerive Oval,-42.877,147.373,Manuka Oval,-35.3181,149.1347,1,854
+Hobart Hurricanes,HUR,#6A2C91,2018/19,BBL|08,Bellerive Oval,-42.877,147.373,Melbourne Cricket Ground,-37.82,144.9834,1,598
+Hobart Hurricanes,HUR,#6A2C91,2018/19,BBL|08,Bellerive Oval,-42.877,147.373,Perth Stadium,-31.9512,115.889,1,3012
+Hobart Hurricanes,HUR,#6A2C91,2018/19,BBL|08,Bellerive Oval,-42.877,147.373,Sydney Cricket Ground,-33.8915,151.2249,1,1054
+Hobart Hurricanes,HUR,#6A2C91,2018/19,BBL|08,Bellerive Oval,-42.877,147.373,York Park,-41.4258,147.1388,2,163
+Hobart Hurricanes,HUR,#6A2C91,2019/20,BBL|09,Bellerive Oval,-42.877,147.373,Adelaide Oval,-34.9156,138.5961,1,1165
+Hobart Hurricanes,HUR,#6A2C91,2019/20,BBL|09,Bellerive Oval,-42.877,147.373,Docklands Stadium,-37.8165,144.9475,1,599
+Hobart Hurricanes,HUR,#6A2C91,2019/20,BBL|09,Bellerive Oval,-42.877,147.373,Perth Stadium,-31.9512,115.889,1,3012
+Hobart Hurricanes,HUR,#6A2C91,2019/20,BBL|09,Bellerive Oval,-42.877,147.373,Sydney Cricket Ground,-33.8915,151.2249,1,1054
+Hobart Hurricanes,HUR,#6A2C91,2019/20,BBL|09,Bellerive Oval,-42.877,147.373,Sydney Showground Stadium,-33.843,151.067,1,1055
+Hobart Hurricanes,HUR,#6A2C91,2019/20,BBL|09,Bellerive Oval,-42.877,147.373,Ted Summerton Reserve,-38.173,146.255,1,532
+Hobart Hurricanes,HUR,#6A2C91,2019/20,BBL|09,Bellerive Oval,-42.877,147.373,The Gabba,-27.4858,153.0381,1,1786
+Hobart Hurricanes,HUR,#6A2C91,2019/20,BBL|09,Bellerive Oval,-42.877,147.373,Traeger Park,-23.704,133.872,1,2467
+Hobart Hurricanes,HUR,#6A2C91,2019/20,BBL|09,Bellerive Oval,-42.877,147.373,York Park,-41.4258,147.1388,2,163
+Hobart Hurricanes,HUR,#6A2C91,2020/21,BBL|10,Bellerive Oval,-42.877,147.373,Docklands Stadium,-37.8165,144.9475,1,599
+Hobart Hurricanes,HUR,#6A2C91,2020/21,BBL|10,Bellerive Oval,-42.877,147.373,Manuka Oval,-35.3181,149.1347,1,854
+Hobart Hurricanes,HUR,#6A2C91,2020/21,BBL|10,Bellerive Oval,-42.877,147.373,Melbourne Cricket Ground,-37.82,144.9834,2,598
+Hobart Hurricanes,HUR,#6A2C91,2020/21,BBL|10,Bellerive Oval,-42.877,147.373,Perth Stadium,-31.9512,115.889,2,3012
+Hobart Hurricanes,HUR,#6A2C91,2020/21,BBL|10,Bellerive Oval,-42.877,147.373,The Gabba,-27.4858,153.0381,2,1786
+Hobart Hurricanes,HUR,#6A2C91,2020/21,BBL|10,Bellerive Oval,-42.877,147.373,York Park,-41.4258,147.1388,1,163
+Hobart Hurricanes,HUR,#6A2C91,2021/22,BBL|11,Bellerive Oval,-42.877,147.373,Adelaide Oval,-34.9156,138.5961,1,1165
+Hobart Hurricanes,HUR,#6A2C91,2021/22,BBL|11,Bellerive Oval,-42.877,147.373,Docklands Stadium,-37.8165,144.9475,3,599
+Hobart Hurricanes,HUR,#6A2C91,2021/22,BBL|11,Bellerive Oval,-42.877,147.373,Melbourne Cricket Ground,-37.82,144.9834,3,598
+Hobart Hurricanes,HUR,#6A2C91,2021/22,BBL|11,Bellerive Oval,-42.877,147.373,Sydney Cricket Ground,-33.8915,151.2249,1,1054
+Hobart Hurricanes,HUR,#6A2C91,2021/22,BBL|11,Bellerive Oval,-42.877,147.373,The Gabba,-27.4858,153.0381,1,1786
+Hobart Hurricanes,HUR,#6A2C91,2021/22,BBL|11,Bellerive Oval,-42.877,147.373,York Park,-41.4258,147.1388,1,163
+Hobart Hurricanes,HUR,#6A2C91,2022/23,BBL|12,Bellerive Oval,-42.877,147.373,Adelaide Oval,-34.9156,138.5961,1,1165
+Hobart Hurricanes,HUR,#6A2C91,2022/23,BBL|12,Bellerive Oval,-42.877,147.373,Docklands Stadium,-37.8165,144.9475,1,599
+Hobart Hurricanes,HUR,#6A2C91,2022/23,BBL|12,Bellerive Oval,-42.877,147.373,Lavington Sports Oval,-36.0423,146.9417,1,761
+Hobart Hurricanes,HUR,#6A2C91,2022/23,BBL|12,Bellerive Oval,-42.877,147.373,Melbourne Cricket Ground,-37.82,144.9834,1,598
+Hobart Hurricanes,HUR,#6A2C91,2022/23,BBL|12,Bellerive Oval,-42.877,147.373,Perth Stadium,-31.9512,115.889,1,3012
+Hobart Hurricanes,HUR,#6A2C91,2022/23,BBL|12,Bellerive Oval,-42.877,147.373,Sydney Cricket Ground,-33.8915,151.2249,1,1054
+Hobart Hurricanes,HUR,#6A2C91,2022/23,BBL|12,Bellerive Oval,-42.877,147.373,The Gabba,-27.4858,153.0381,1,1786
+Hobart Hurricanes,HUR,#6A2C91,2022/23,BBL|12,Bellerive Oval,-42.877,147.373,York Park,-41.4258,147.1388,2,163
+Hobart Hurricanes,HUR,#6A2C91,2023/24,BBL|13,Bellerive Oval,-42.877,147.373,Adelaide Oval,-34.9156,138.5961,1,1165
+Hobart Hurricanes,HUR,#6A2C91,2023/24,BBL|13,Bellerive Oval,-42.877,147.373,Docklands Stadium,-37.8165,144.9475,1,599
+Hobart Hurricanes,HUR,#6A2C91,2023/24,BBL|13,Bellerive Oval,-42.877,147.373,Melbourne Cricket Ground,-37.82,144.9834,1,598
+Hobart Hurricanes,HUR,#6A2C91,2023/24,BBL|13,Bellerive Oval,-42.877,147.373,Perth Stadium,-31.9512,115.889,1,3012
+Hobart Hurricanes,HUR,#6A2C91,2023/24,BBL|13,Bellerive Oval,-42.877,147.373,The Gabba,-27.4858,153.0381,1,1786
+Hobart Hurricanes,HUR,#6A2C91,2023/24,BBL|13,Bellerive Oval,-42.877,147.373,York Park,-41.4258,147.1388,1,163
+Hobart Hurricanes,HUR,#6A2C91,2024/25,BBL|14,Bellerive Oval,-42.877,147.373,Adelaide Oval,-34.9156,138.5961,1,1165
+Hobart Hurricanes,HUR,#6A2C91,2024/25,BBL|14,Bellerive Oval,-42.877,147.373,Kardinia Park,-38.158,144.3546,1,583
+Hobart Hurricanes,HUR,#6A2C91,2024/25,BBL|14,Bellerive Oval,-42.877,147.373,Melbourne Cricket Ground,-37.82,144.9834,1,598
+Hobart Hurricanes,HUR,#6A2C91,2024/25,BBL|14,Bellerive Oval,-42.877,147.373,The Gabba,-27.4858,153.0381,1,1786
+Hobart Hurricanes,HUR,#6A2C91,2025/26,BBL|15,Bellerive Oval,-42.877,147.373,Kardinia Park,-38.158,144.3546,1,583
+Hobart Hurricanes,HUR,#6A2C91,2025/26,BBL|15,Bellerive Oval,-42.877,147.373,Melbourne Cricket Ground,-37.82,144.9834,1,598
+Hobart Hurricanes,HUR,#6A2C91,2025/26,BBL|15,Bellerive Oval,-42.877,147.373,Perth Stadium,-31.9512,115.889,1,3012
+Hobart Hurricanes,HUR,#6A2C91,2025/26,BBL|15,Bellerive Oval,-42.877,147.373,Sydney Cricket Ground,-33.8915,151.2249,2,1054
+Hobart Hurricanes,HUR,#6A2C91,2025/26,BBL|15,Bellerive Oval,-42.877,147.373,Sydney Showground Stadium,-33.843,151.067,1,1055
+Melbourne Renegades,REN,#E4002B,2011/12,BBL|01,Docklands Stadium,-37.8165,144.9475,Adelaide Oval,-34.9156,138.5961,1,654
+Melbourne Renegades,REN,#E4002B,2011/12,BBL|01,Docklands Stadium,-37.8165,144.9475,Bellerive Oval,-42.877,147.373,1,599
+Melbourne Renegades,REN,#E4002B,2011/12,BBL|01,Docklands Stadium,-37.8165,144.9475,Stadium Australia,-33.847,151.0634,1,706
+Melbourne Renegades,REN,#E4002B,2012/13,BBL|02,Docklands Stadium,-37.8165,144.9475,Melbourne Cricket Ground,-37.82,144.9834,1,3
+Melbourne Renegades,REN,#E4002B,2012/13,BBL|02,Docklands Stadium,-37.8165,144.9475,Stadium Australia,-33.847,151.0634,1,706
+Melbourne Renegades,REN,#E4002B,2012/13,BBL|02,Docklands Stadium,-37.8165,144.9475,WACA Ground,-31.96,115.8797,1,2718
+Melbourne Renegades,REN,#E4002B,2013/14,BBL|03,Docklands Stadium,-37.8165,144.9475,Adelaide Oval,-34.9156,138.5961,1,654
+Melbourne Renegades,REN,#E4002B,2013/14,BBL|03,Docklands Stadium,-37.8165,144.9475,Bellerive Oval,-42.877,147.373,1,599
+Melbourne Renegades,REN,#E4002B,2013/14,BBL|03,Docklands Stadium,-37.8165,144.9475,Melbourne Cricket Ground,-37.82,144.9834,1,3
+Melbourne Renegades,REN,#E4002B,2013/14,BBL|03,Docklands Stadium,-37.8165,144.9475,WACA Ground,-31.96,115.8797,1,2718
+Melbourne Renegades,REN,#E4002B,2014/15,BBL|04,Docklands Stadium,-37.8165,144.9475,Bellerive Oval,-42.877,147.373,1,599
+Melbourne Renegades,REN,#E4002B,2014/15,BBL|04,Docklands Stadium,-37.8165,144.9475,Melbourne Cricket Ground,-37.82,144.9834,1,3
+Melbourne Renegades,REN,#E4002B,2014/15,BBL|04,Docklands Stadium,-37.8165,144.9475,Sydney Cricket Ground,-33.8915,151.2249,1,714
+Melbourne Renegades,REN,#E4002B,2014/15,BBL|04,Docklands Stadium,-37.8165,144.9475,WACA Ground,-31.96,115.8797,1,2718
+Melbourne Renegades,REN,#E4002B,2015/16,BBL|05,Docklands Stadium,-37.8165,144.9475,Bellerive Oval,-42.877,147.373,1,599
+Melbourne Renegades,REN,#E4002B,2015/16,BBL|05,Docklands Stadium,-37.8165,144.9475,Melbourne Cricket Ground,-37.82,144.9834,1,3
+Melbourne Renegades,REN,#E4002B,2015/16,BBL|05,Docklands Stadium,-37.8165,144.9475,Sydney Showground Stadium,-33.843,151.067,1,707
+Melbourne Renegades,REN,#E4002B,2015/16,BBL|05,Docklands Stadium,-37.8165,144.9475,The Gabba,-27.4858,153.0381,1,1375
+Melbourne Renegades,REN,#E4002B,2016/17,BBL|06,Docklands Stadium,-37.8165,144.9475,Adelaide Oval,-34.9156,138.5961,1,654
+Melbourne Renegades,REN,#E4002B,2016/17,BBL|06,Docklands Stadium,-37.8165,144.9475,Melbourne Cricket Ground,-37.82,144.9834,1,3
+Melbourne Renegades,REN,#E4002B,2016/17,BBL|06,Docklands Stadium,-37.8165,144.9475,Sydney Cricket Ground,-33.8915,151.2249,1,714
+Melbourne Renegades,REN,#E4002B,2016/17,BBL|06,Docklands Stadium,-37.8165,144.9475,The Gabba,-27.4858,153.0381,1,1375
+Melbourne Renegades,REN,#E4002B,2017/18,BBL|07,Docklands Stadium,-37.8165,144.9475,Adelaide Oval,-34.9156,138.5961,1,654
+Melbourne Renegades,REN,#E4002B,2017/18,BBL|07,Docklands Stadium,-37.8165,144.9475,Bellerive Oval,-42.877,147.373,1,599
+Melbourne Renegades,REN,#E4002B,2017/18,BBL|07,Docklands Stadium,-37.8165,144.9475,Kardinia Park,-38.158,144.3546,1,64
+Melbourne Renegades,REN,#E4002B,2017/18,BBL|07,Docklands Stadium,-37.8165,144.9475,Manuka Oval,-35.3181,149.1347,1,466
+Melbourne Renegades,REN,#E4002B,2017/18,BBL|07,Docklands Stadium,-37.8165,144.9475,Melbourne Cricket Ground,-37.82,144.9834,1,3
+Melbourne Renegades,REN,#E4002B,2017/18,BBL|07,Docklands Stadium,-37.8165,144.9475,The Gabba,-27.4858,153.0381,1,1375
+Melbourne Renegades,REN,#E4002B,2017/18,BBL|07,Docklands Stadium,-37.8165,144.9475,WACA Ground,-31.96,115.8797,1,2718
+Melbourne Renegades,REN,#E4002B,2018/19,BBL|08,Docklands Stadium,-37.8165,144.9475,Adelaide Oval,-34.9156,138.5961,1,654
+Melbourne Renegades,REN,#E4002B,2018/19,BBL|08,Docklands Stadium,-37.8165,144.9475,Bellerive Oval,-42.877,147.373,1,599
+Melbourne Renegades,REN,#E4002B,2018/19,BBL|08,Docklands Stadium,-37.8165,144.9475,Kardinia Park,-38.158,144.3546,2,64
+Melbourne Renegades,REN,#E4002B,2018/19,BBL|08,Docklands Stadium,-37.8165,144.9475,Melbourne Cricket Ground,-37.82,144.9834,1,3
+Melbourne Renegades,REN,#E4002B,2018/19,BBL|08,Docklands Stadium,-37.8165,144.9475,Perth Stadium,-31.9512,115.889,1,2718
+Melbourne Renegades,REN,#E4002B,2018/19,BBL|08,Docklands Stadium,-37.8165,144.9475,Sydney Cricket Ground,-33.8915,151.2249,1,714
+Melbourne Renegades,REN,#E4002B,2018/19,BBL|08,Docklands Stadium,-37.8165,144.9475,Sydney Showground Stadium,-33.843,151.067,1,707
+Melbourne Renegades,REN,#E4002B,2018/19,BBL|08,Docklands Stadium,-37.8165,144.9475,The Gabba,-27.4858,153.0381,1,1375
+Melbourne Renegades,REN,#E4002B,2019/20,BBL|09,Docklands Stadium,-37.8165,144.9475,Adelaide Oval,-34.9156,138.5961,1,654
+Melbourne Renegades,REN,#E4002B,2019/20,BBL|09,Docklands Stadium,-37.8165,144.9475,Bellerive Oval,-42.877,147.373,1,599
+Melbourne Renegades,REN,#E4002B,2019/20,BBL|09,Docklands Stadium,-37.8165,144.9475,Kardinia Park,-38.158,144.3546,2,64
+Melbourne Renegades,REN,#E4002B,2019/20,BBL|09,Docklands Stadium,-37.8165,144.9475,Manuka Oval,-35.3181,149.1347,1,466
+Melbourne Renegades,REN,#E4002B,2019/20,BBL|09,Docklands Stadium,-37.8165,144.9475,Melbourne Cricket Ground,-37.82,144.9834,1,3
+Melbourne Renegades,REN,#E4002B,2019/20,BBL|09,Docklands Stadium,-37.8165,144.9475,Perth Stadium,-31.9512,115.889,1,2718
+Melbourne Renegades,REN,#E4002B,2019/20,BBL|09,Docklands Stadium,-37.8165,144.9475,Sydney Cricket Ground,-33.8915,151.2249,1,714
+Melbourne Renegades,REN,#E4002B,2019/20,BBL|09,Docklands Stadium,-37.8165,144.9475,The Gabba,-27.4858,153.0381,1,1375
+Melbourne Renegades,REN,#E4002B,2020/21,BBL|10,Docklands Stadium,-37.8165,144.9475,Adelaide Oval,-34.9156,138.5961,2,654
+Melbourne Renegades,REN,#E4002B,2020/21,BBL|10,Docklands Stadium,-37.8165,144.9475,Bellerive Oval,-42.877,147.373,3,599
+Melbourne Renegades,REN,#E4002B,2020/21,BBL|10,Docklands Stadium,-37.8165,144.9475,Carrara Oval,-28.0063,153.3667,2,1343
+Melbourne Renegades,REN,#E4002B,2020/21,BBL|10,Docklands Stadium,-37.8165,144.9475,Manuka Oval,-35.3181,149.1347,2,466
+Melbourne Renegades,REN,#E4002B,2020/21,BBL|10,Docklands Stadium,-37.8165,144.9475,Melbourne Cricket Ground,-37.82,144.9834,2,3
+Melbourne Renegades,REN,#E4002B,2020/21,BBL|10,Docklands Stadium,-37.8165,144.9475,Perth Stadium,-31.9512,115.889,1,2718
+Melbourne Renegades,REN,#E4002B,2021/22,BBL|11,Docklands Stadium,-37.8165,144.9475,Adelaide Oval,-34.9156,138.5961,1,654
+Melbourne Renegades,REN,#E4002B,2021/22,BBL|11,Docklands Stadium,-37.8165,144.9475,Carrara Oval,-28.0063,153.3667,1,1343
+Melbourne Renegades,REN,#E4002B,2021/22,BBL|11,Docklands Stadium,-37.8165,144.9475,Kardinia Park,-38.158,144.3546,2,64
+Melbourne Renegades,REN,#E4002B,2021/22,BBL|11,Docklands Stadium,-37.8165,144.9475,Melbourne Cricket Ground,-37.82,144.9834,2,3
+Melbourne Renegades,REN,#E4002B,2022/23,BBL|12,Docklands Stadium,-37.8165,144.9475,Adelaide Oval,-34.9156,138.5961,1,654
+Melbourne Renegades,REN,#E4002B,2022/23,BBL|12,Docklands Stadium,-37.8165,144.9475,Bellerive Oval,-42.877,147.373,1,599
+Melbourne Renegades,REN,#E4002B,2022/23,BBL|12,Docklands Stadium,-37.8165,144.9475,Cazaly's Stadium,-16.936,145.749,1,2323
+Melbourne Renegades,REN,#E4002B,2022/23,BBL|12,Docklands Stadium,-37.8165,144.9475,Kardinia Park,-38.158,144.3546,2,64
+Melbourne Renegades,REN,#E4002B,2022/23,BBL|12,Docklands Stadium,-37.8165,144.9475,Manuka Oval,-35.3181,149.1347,1,466
+Melbourne Renegades,REN,#E4002B,2022/23,BBL|12,Docklands Stadium,-37.8165,144.9475,Melbourne Cricket Ground,-37.82,144.9834,1,3
+Melbourne Renegades,REN,#E4002B,2022/23,BBL|12,Docklands Stadium,-37.8165,144.9475,Perth Stadium,-31.9512,115.889,1,2718
+Melbourne Renegades,REN,#E4002B,2022/23,BBL|12,Docklands Stadium,-37.8165,144.9475,Sydney Cricket Ground,-33.8915,151.2249,1,714
+Melbourne Renegades,REN,#E4002B,2023/24,BBL|13,Docklands Stadium,-37.8165,144.9475,Bellerive Oval,-42.877,147.373,1,599
+Melbourne Renegades,REN,#E4002B,2023/24,BBL|13,Docklands Stadium,-37.8165,144.9475,Kardinia Park,-38.158,144.3546,1,64
+Melbourne Renegades,REN,#E4002B,2023/24,BBL|13,Docklands Stadium,-37.8165,144.9475,Melbourne Cricket Ground,-37.82,144.9834,1,3
+Melbourne Renegades,REN,#E4002B,2023/24,BBL|13,Docklands Stadium,-37.8165,144.9475,Perth Stadium,-31.9512,115.889,1,2718
+Melbourne Renegades,REN,#E4002B,2023/24,BBL|13,Docklands Stadium,-37.8165,144.9475,Sydney Cricket Ground,-33.8915,151.2249,1,714
+Melbourne Renegades,REN,#E4002B,2024/25,BBL|14,Docklands Stadium,-37.8165,144.9475,Bellerive Oval,-42.877,147.373,1,599
+Melbourne Renegades,REN,#E4002B,2024/25,BBL|14,Docklands Stadium,-37.8165,144.9475,Kardinia Park,-38.158,144.3546,1,64
+Melbourne Renegades,REN,#E4002B,2024/25,BBL|14,Docklands Stadium,-37.8165,144.9475,Melbourne Cricket Ground,-37.82,144.9834,1,3
+Melbourne Renegades,REN,#E4002B,2024/25,BBL|14,Docklands Stadium,-37.8165,144.9475,Perth Stadium,-31.9512,115.889,1,2718
+Melbourne Renegades,REN,#E4002B,2024/25,BBL|14,Docklands Stadium,-37.8165,144.9475,Sydney Cricket Ground,-33.8915,151.2249,1,714
+Melbourne Renegades,REN,#E4002B,2024/25,BBL|14,Docklands Stadium,-37.8165,144.9475,Sydney Showground Stadium,-33.843,151.067,1,707
+Melbourne Renegades,REN,#E4002B,2025/26,BBL|15,Docklands Stadium,-37.8165,144.9475,Adelaide Oval,-34.9156,138.5961,1,654
+Melbourne Renegades,REN,#E4002B,2025/26,BBL|15,Docklands Stadium,-37.8165,144.9475,Bellerive Oval,-42.877,147.373,1,599
+Melbourne Renegades,REN,#E4002B,2025/26,BBL|15,Docklands Stadium,-37.8165,144.9475,Kardinia Park,-38.158,144.3546,2,64
+Melbourne Renegades,REN,#E4002B,2025/26,BBL|15,Docklands Stadium,-37.8165,144.9475,Melbourne Cricket Ground,-37.82,144.9834,1,3
+Melbourne Renegades,REN,#E4002B,2025/26,BBL|15,Docklands Stadium,-37.8165,144.9475,Perth Stadium,-31.9512,115.889,1,2718
+Melbourne Renegades,REN,#E4002B,2025/26,BBL|15,Docklands Stadium,-37.8165,144.9475,Sydney Showground Stadium,-33.843,151.067,1,707
+Melbourne Stars,STA,#00843D,2011/12,BBL|01,Melbourne Cricket Ground,-37.82,144.9834,Bellerive Oval,-42.877,147.373,1,598
+Melbourne Stars,STA,#00843D,2011/12,BBL|01,Melbourne Cricket Ground,-37.82,144.9834,Sydney Cricket Ground,-33.8915,151.2249,1,712
+Melbourne Stars,STA,#00843D,2011/12,BBL|01,Melbourne Cricket Ground,-37.82,144.9834,The Gabba,-27.4858,153.0381,1,1373
+Melbourne Stars,STA,#00843D,2011/12,BBL|01,Melbourne Cricket Ground,-37.82,144.9834,WACA Ground,-31.96,115.8797,1,2721
+Melbourne Stars,STA,#00843D,2012/13,BBL|02,Melbourne Cricket Ground,-37.82,144.9834,Adelaide Oval,-34.9156,138.5961,1,657
+Melbourne Stars,STA,#00843D,2012/13,BBL|02,Melbourne Cricket Ground,-37.82,144.9834,Docklands Stadium,-37.8165,144.9475,1,3
+Melbourne Stars,STA,#00843D,2012/13,BBL|02,Melbourne Cricket Ground,-37.82,144.9834,WACA Ground,-31.96,115.8797,2,2721
+Melbourne Stars,STA,#00843D,2013/14,BBL|03,Melbourne Cricket Ground,-37.82,144.9834,Docklands Stadium,-37.8165,144.9475,1,3
+Melbourne Stars,STA,#00843D,2013/14,BBL|03,Melbourne Cricket Ground,-37.82,144.9834,Stadium Australia,-33.847,151.0634,1,704
+Melbourne Stars,STA,#00843D,2013/14,BBL|03,Melbourne Cricket Ground,-37.82,144.9834,Sydney Cricket Ground,-33.8915,151.2249,1,712
+Melbourne Stars,STA,#00843D,2013/14,BBL|03,Melbourne Cricket Ground,-37.82,144.9834,The Gabba,-27.4858,153.0381,1,1373
+Melbourne Stars,STA,#00843D,2014/15,BBL|04,Melbourne Cricket Ground,-37.82,144.9834,Adelaide Oval,-34.9156,138.5961,1,657
+Melbourne Stars,STA,#00843D,2014/15,BBL|04,Melbourne Cricket Ground,-37.82,144.9834,Docklands Stadium,-37.8165,144.9475,1,3
+Melbourne Stars,STA,#00843D,2014/15,BBL|04,Melbourne Cricket Ground,-37.82,144.9834,Sydney Showground Stadium,-33.843,151.067,1,704
+Melbourne Stars,STA,#00843D,2014/15,BBL|04,Melbourne Cricket Ground,-37.82,144.9834,The Gabba,-27.4858,153.0381,1,1373
+Melbourne Stars,STA,#00843D,2014/15,BBL|04,Melbourne Cricket Ground,-37.82,144.9834,WACA Ground,-31.96,115.8797,1,2721
+Melbourne Stars,STA,#00843D,2015/16,BBL|05,Melbourne Cricket Ground,-37.82,144.9834,Adelaide Oval,-34.9156,138.5961,1,657
+Melbourne Stars,STA,#00843D,2015/16,BBL|05,Melbourne Cricket Ground,-37.82,144.9834,Docklands Stadium,-37.8165,144.9475,1,3
+Melbourne Stars,STA,#00843D,2015/16,BBL|05,Melbourne Cricket Ground,-37.82,144.9834,Sydney Cricket Ground,-33.8915,151.2249,1,712
+Melbourne Stars,STA,#00843D,2016/17,BBL|06,Melbourne Cricket Ground,-37.82,144.9834,Bellerive Oval,-42.877,147.373,1,598
+Melbourne Stars,STA,#00843D,2016/17,BBL|06,Melbourne Cricket Ground,-37.82,144.9834,Docklands Stadium,-37.8165,144.9475,1,3
+Melbourne Stars,STA,#00843D,2016/17,BBL|06,Melbourne Cricket Ground,-37.82,144.9834,Sydney Showground Stadium,-33.843,151.067,1,704
+Melbourne Stars,STA,#00843D,2016/17,BBL|06,Melbourne Cricket Ground,-37.82,144.9834,WACA Ground,-31.96,115.8797,2,2721
+Melbourne Stars,STA,#00843D,2017/18,BBL|07,Melbourne Cricket Ground,-37.82,144.9834,Adelaide Oval,-34.9156,138.5961,1,657
+Melbourne Stars,STA,#00843D,2017/18,BBL|07,Melbourne Cricket Ground,-37.82,144.9834,Docklands Stadium,-37.8165,144.9475,1,3
+Melbourne Stars,STA,#00843D,2017/18,BBL|07,Melbourne Cricket Ground,-37.82,144.9834,Sydney Cricket Ground,-33.8915,151.2249,1,712
+Melbourne Stars,STA,#00843D,2017/18,BBL|07,Melbourne Cricket Ground,-37.82,144.9834,The Gabba,-27.4858,153.0381,1,1373
+Melbourne Stars,STA,#00843D,2017/18,BBL|07,Melbourne Cricket Ground,-37.82,144.9834,WACA Ground,-31.96,115.8797,1,2721
+Melbourne Stars,STA,#00843D,2018/19,BBL|08,Melbourne Cricket Ground,-37.82,144.9834,Adelaide Oval,-34.9156,138.5961,1,657
+Melbourne Stars,STA,#00843D,2018/19,BBL|08,Melbourne Cricket Ground,-37.82,144.9834,Bellerive Oval,-42.877,147.373,2,598
+Melbourne Stars,STA,#00843D,2018/19,BBL|08,Melbourne Cricket Ground,-37.82,144.9834,Carrara Oval,-28.0063,153.3667,1,1341
+Melbourne Stars,STA,#00843D,2018/19,BBL|08,Melbourne Cricket Ground,-37.82,144.9834,Docklands Stadium,-37.8165,144.9475,2,3
+Melbourne Stars,STA,#00843D,2018/19,BBL|08,Melbourne Cricket Ground,-37.82,144.9834,Manuka Oval,-35.3181,149.1347,1,463
+Melbourne Stars,STA,#00843D,2018/19,BBL|08,Melbourne Cricket Ground,-37.82,144.9834,Perth Stadium,-31.9512,115.889,1,2721
+Melbourne Stars,STA,#00843D,2018/19,BBL|08,Melbourne Cricket Ground,-37.82,144.9834,Sydney Cricket Ground,-33.8915,151.2249,1,712
+Melbourne Stars,STA,#00843D,2018/19,BBL|08,Melbourne Cricket Ground,-37.82,144.9834,Ted Summerton Reserve,-38.173,146.255,1,118
+Melbourne Stars,STA,#00843D,2018/19,BBL|08,Melbourne Cricket Ground,-37.82,144.9834,The Gabba,-27.4858,153.0381,1,1373
+Melbourne Stars,STA,#00843D,2019/20,BBL|09,Melbourne Cricket Ground,-37.82,144.9834,Adelaide Oval,-34.9156,138.5961,1,657
+Melbourne Stars,STA,#00843D,2019/20,BBL|09,Melbourne Cricket Ground,-37.82,144.9834,Carrara Oval,-28.0063,153.3667,2,1341
+Melbourne Stars,STA,#00843D,2019/20,BBL|09,Melbourne Cricket Ground,-37.82,144.9834,Docklands Stadium,-37.8165,144.9475,1,3
+Melbourne Stars,STA,#00843D,2019/20,BBL|09,Melbourne Cricket Ground,-37.82,144.9834,Perth Stadium,-31.9512,115.889,1,2721
+Melbourne Stars,STA,#00843D,2019/20,BBL|09,Melbourne Cricket Ground,-37.82,144.9834,Sydney Cricket Ground,-33.8915,151.2249,2,712
+Melbourne Stars,STA,#00843D,2019/20,BBL|09,Melbourne Cricket Ground,-37.82,144.9834,Sydney Showground Stadium,-33.843,151.067,1,704
+Melbourne Stars,STA,#00843D,2019/20,BBL|09,Melbourne Cricket Ground,-37.82,144.9834,Ted Summerton Reserve,-38.173,146.255,1,118
+Melbourne Stars,STA,#00843D,2019/20,BBL|09,Melbourne Cricket Ground,-37.82,144.9834,York Park,-41.4258,147.1388,1,441
+Melbourne Stars,STA,#00843D,2020/21,BBL|10,Melbourne Cricket Ground,-37.82,144.9834,Adelaide Oval,-34.9156,138.5961,1,657
+Melbourne Stars,STA,#00843D,2020/21,BBL|10,Melbourne Cricket Ground,-37.82,144.9834,Bellerive Oval,-42.877,147.373,2,598
+Melbourne Stars,STA,#00843D,2020/21,BBL|10,Melbourne Cricket Ground,-37.82,144.9834,Carrara Oval,-28.0063,153.3667,2,1341
+Melbourne Stars,STA,#00843D,2020/21,BBL|10,Melbourne Cricket Ground,-37.82,144.9834,Docklands Stadium,-37.8165,144.9475,1,3
+Melbourne Stars,STA,#00843D,2020/21,BBL|10,Melbourne Cricket Ground,-37.82,144.9834,Manuka Oval,-35.3181,149.1347,3,463
+Melbourne Stars,STA,#00843D,2020/21,BBL|10,Melbourne Cricket Ground,-37.82,144.9834,York Park,-41.4258,147.1388,1,441
+Melbourne Stars,STA,#00843D,2021/22,BBL|11,Melbourne Cricket Ground,-37.82,144.9834,Adelaide Oval,-34.9156,138.5961,1,657
+Melbourne Stars,STA,#00843D,2021/22,BBL|11,Melbourne Cricket Ground,-37.82,144.9834,Bellerive Oval,-42.877,147.373,1,598
+Melbourne Stars,STA,#00843D,2021/22,BBL|11,Melbourne Cricket Ground,-37.82,144.9834,Docklands Stadium,-37.8165,144.9475,1,3
+Melbourne Stars,STA,#00843D,2021/22,BBL|11,Melbourne Cricket Ground,-37.82,144.9834,Junction Oval,-37.8545,144.979,1,4
+Melbourne Stars,STA,#00843D,2021/22,BBL|11,Melbourne Cricket Ground,-37.82,144.9834,Kardinia Park,-38.158,144.3546,1,67
+Melbourne Stars,STA,#00843D,2021/22,BBL|11,Melbourne Cricket Ground,-37.82,144.9834,Sydney Cricket Ground,-33.8915,151.2249,1,712
+Melbourne Stars,STA,#00843D,2021/22,BBL|11,Melbourne Cricket Ground,-37.82,144.9834,Sydney Showground Stadium,-33.843,151.067,1,704
+Melbourne Stars,STA,#00843D,2021/22,BBL|11,Melbourne Cricket Ground,-37.82,144.9834,The Gabba,-27.4858,153.0381,1,1373
+Melbourne Stars,STA,#00843D,2022/23,BBL|12,Melbourne Cricket Ground,-37.82,144.9834,Adelaide Oval,-34.9156,138.5961,1,657
+Melbourne Stars,STA,#00843D,2022/23,BBL|12,Melbourne Cricket Ground,-37.82,144.9834,Bellerive Oval,-42.877,147.373,1,598
+Melbourne Stars,STA,#00843D,2022/23,BBL|12,Melbourne Cricket Ground,-37.82,144.9834,Docklands Stadium,-37.8165,144.9475,1,3
+Melbourne Stars,STA,#00843D,2022/23,BBL|12,Melbourne Cricket Ground,-37.82,144.9834,Junction Oval,-37.8545,144.979,1,4
+Melbourne Stars,STA,#00843D,2022/23,BBL|12,Melbourne Cricket Ground,-37.82,144.9834,Manuka Oval,-35.3181,149.1347,1,463
+Melbourne Stars,STA,#00843D,2022/23,BBL|12,Melbourne Cricket Ground,-37.82,144.9834,Perth Stadium,-31.9512,115.889,1,2721
+Melbourne Stars,STA,#00843D,2022/23,BBL|12,Melbourne Cricket Ground,-37.82,144.9834,Sydney Cricket Ground,-33.8915,151.2249,1,712
+Melbourne Stars,STA,#00843D,2022/23,BBL|12,Melbourne Cricket Ground,-37.82,144.9834,The Gabba,-27.4858,153.0381,1,1373
+Melbourne Stars,STA,#00843D,2023/24,BBL|13,Melbourne Cricket Ground,-37.82,144.9834,Adelaide Oval,-34.9156,138.5961,1,657
+Melbourne Stars,STA,#00843D,2023/24,BBL|13,Melbourne Cricket Ground,-37.82,144.9834,Bellerive Oval,-42.877,147.373,1,598
+Melbourne Stars,STA,#00843D,2023/24,BBL|13,Melbourne Cricket Ground,-37.82,144.9834,Docklands Stadium,-37.8165,144.9475,1,3
+Melbourne Stars,STA,#00843D,2023/24,BBL|13,Melbourne Cricket Ground,-37.82,144.9834,Lavington Sports Oval,-36.0423,146.9417,1,263
+Melbourne Stars,STA,#00843D,2023/24,BBL|13,Melbourne Cricket Ground,-37.82,144.9834,Sydney Cricket Ground,-33.8915,151.2249,1,712
+Melbourne Stars,STA,#00843D,2023/24,BBL|13,Melbourne Cricket Ground,-37.82,144.9834,The Gabba,-27.4858,153.0381,1,1373
+Melbourne Stars,STA,#00843D,2024/25,BBL|14,Melbourne Cricket Ground,-37.82,144.9834,Adelaide Oval,-34.9156,138.5961,1,657
+Melbourne Stars,STA,#00843D,2024/25,BBL|14,Melbourne Cricket Ground,-37.82,144.9834,Docklands Stadium,-37.8165,144.9475,1,3
+Melbourne Stars,STA,#00843D,2024/25,BBL|14,Melbourne Cricket Ground,-37.82,144.9834,Manuka Oval,-35.3181,149.1347,1,463
+Melbourne Stars,STA,#00843D,2024/25,BBL|14,Melbourne Cricket Ground,-37.82,144.9834,Perth Stadium,-31.9512,115.889,1,2721
+Melbourne Stars,STA,#00843D,2024/25,BBL|14,Melbourne Cricket Ground,-37.82,144.9834,Sydney Cricket Ground,-33.8915,151.2249,1,712
+Melbourne Stars,STA,#00843D,2024/25,BBL|14,Melbourne Cricket Ground,-37.82,144.9834,Sydney Showground Stadium,-33.843,151.067,1,704
+Melbourne Stars,STA,#00843D,2024/25,BBL|14,Melbourne Cricket Ground,-37.82,144.9834,The Gabba,-27.4858,153.0381,1,1373
+Melbourne Stars,STA,#00843D,2025/26,BBL|15,Melbourne Cricket Ground,-37.82,144.9834,Adelaide Oval,-34.9156,138.5961,1,657
+Melbourne Stars,STA,#00843D,2025/26,BBL|15,Melbourne Cricket Ground,-37.82,144.9834,Bellerive Oval,-42.877,147.373,1,598
+Melbourne Stars,STA,#00843D,2025/26,BBL|15,Melbourne Cricket Ground,-37.82,144.9834,Docklands Stadium,-37.8165,144.9475,1,3
+Melbourne Stars,STA,#00843D,2025/26,BBL|15,Melbourne Cricket Ground,-37.82,144.9834,Manuka Oval,-35.3181,149.1347,1,463
+Melbourne Stars,STA,#00843D,2025/26,BBL|15,Melbourne Cricket Ground,-37.82,144.9834,Perth Stadium,-31.9512,115.889,1,2721
+Melbourne Stars,STA,#00843D,2025/26,BBL|15,Melbourne Cricket Ground,-37.82,144.9834,Sydney Cricket Ground,-33.8915,151.2249,1,712
+Melbourne Stars,STA,#00843D,2025/26,BBL|15,Melbourne Cricket Ground,-37.82,144.9834,The Gabba,-27.4858,153.0381,1,1373
+Perth Scorchers,SCO,#F58220,2011/12,BBL|01,Perth Stadium,-31.9512,115.889,Docklands Stadium,-37.8165,144.9475,1,2718
+Perth Scorchers,SCO,#F58220,2011/12,BBL|01,Perth Stadium,-31.9512,115.889,Melbourne Cricket Ground,-37.82,144.9834,1,2721
+Perth Scorchers,SCO,#F58220,2011/12,BBL|01,Perth Stadium,-31.9512,115.889,Sydney Cricket Ground,-33.8915,151.2249,1,3289
+Perth Scorchers,SCO,#F58220,2011/12,BBL|01,Perth Stadium,-31.9512,115.889,WACA Ground,-31.96,115.8797,5,1
+Perth Scorchers,SCO,#F58220,2012/13,BBL|02,Perth Stadium,-31.9512,115.889,Adelaide Oval,-34.9156,138.5961,1,2128
+Perth Scorchers,SCO,#F58220,2012/13,BBL|02,Perth Stadium,-31.9512,115.889,Sydney Cricket Ground,-33.8915,151.2249,1,3289
+Perth Scorchers,SCO,#F58220,2012/13,BBL|02,Perth Stadium,-31.9512,115.889,The Gabba,-27.4858,153.0381,1,3604
+Perth Scorchers,SCO,#F58220,2012/13,BBL|02,Perth Stadium,-31.9512,115.889,WACA Ground,-31.96,115.8797,6,1
+Perth Scorchers,SCO,#F58220,2013/14,BBL|03,Perth Stadium,-31.9512,115.889,Melbourne Cricket Ground,-37.82,144.9834,1,2721
+Perth Scorchers,SCO,#F58220,2013/14,BBL|03,Perth Stadium,-31.9512,115.889,Sydney Cricket Ground,-33.8915,151.2249,2,3289
+Perth Scorchers,SCO,#F58220,2013/14,BBL|03,Perth Stadium,-31.9512,115.889,The Gabba,-27.4858,153.0381,1,3604
+Perth Scorchers,SCO,#F58220,2013/14,BBL|03,Perth Stadium,-31.9512,115.889,WACA Ground,-31.96,115.8797,5,1
+Perth Scorchers,SCO,#F58220,2014/15,BBL|04,Perth Stadium,-31.9512,115.889,Adelaide Oval,-34.9156,138.5961,1,2128
+Perth Scorchers,SCO,#F58220,2014/15,BBL|04,Perth Stadium,-31.9512,115.889,Bellerive Oval,-42.877,147.373,1,3012
+Perth Scorchers,SCO,#F58220,2014/15,BBL|04,Perth Stadium,-31.9512,115.889,Manuka Oval,-35.3181,149.1347,1,3086
+Perth Scorchers,SCO,#F58220,2014/15,BBL|04,Perth Stadium,-31.9512,115.889,Melbourne Cricket Ground,-37.82,144.9834,1,2721
+Perth Scorchers,SCO,#F58220,2014/15,BBL|04,Perth Stadium,-31.9512,115.889,Sydney Cricket Ground,-33.8915,151.2249,1,3289
+Perth Scorchers,SCO,#F58220,2014/15,BBL|04,Perth Stadium,-31.9512,115.889,WACA Ground,-31.96,115.8797,5,1
+Perth Scorchers,SCO,#F58220,2015/16,BBL|05,Perth Stadium,-31.9512,115.889,Adelaide Oval,-34.9156,138.5961,1,2128
+Perth Scorchers,SCO,#F58220,2015/16,BBL|05,Perth Stadium,-31.9512,115.889,Bellerive Oval,-42.877,147.373,1,3012
+Perth Scorchers,SCO,#F58220,2015/16,BBL|05,Perth Stadium,-31.9512,115.889,Docklands Stadium,-37.8165,144.9475,1,2718
+Perth Scorchers,SCO,#F58220,2015/16,BBL|05,Perth Stadium,-31.9512,115.889,Melbourne Cricket Ground,-37.82,144.9834,1,2721
+Perth Scorchers,SCO,#F58220,2015/16,BBL|05,Perth Stadium,-31.9512,115.889,Sydney Showground Stadium,-33.843,151.067,1,3275
+Perth Scorchers,SCO,#F58220,2015/16,BBL|05,Perth Stadium,-31.9512,115.889,WACA Ground,-31.96,115.8797,3,1
+Perth Scorchers,SCO,#F58220,2016/17,BBL|06,Perth Stadium,-31.9512,115.889,Bellerive Oval,-42.877,147.373,1,3012
+Perth Scorchers,SCO,#F58220,2016/17,BBL|06,Perth Stadium,-31.9512,115.889,Docklands Stadium,-37.8165,144.9475,1,2718
+Perth Scorchers,SCO,#F58220,2016/17,BBL|06,Perth Stadium,-31.9512,115.889,Sydney Cricket Ground,-33.8915,151.2249,1,3289
+Perth Scorchers,SCO,#F58220,2016/17,BBL|06,Perth Stadium,-31.9512,115.889,The Gabba,-27.4858,153.0381,1,3604
+Perth Scorchers,SCO,#F58220,2016/17,BBL|06,Perth Stadium,-31.9512,115.889,WACA Ground,-31.96,115.8797,6,1
+Perth Scorchers,SCO,#F58220,2017/18,BBL|07,Perth Stadium,-31.9512,115.889,Docklands Stadium,-37.8165,144.9475,1,2718
+Perth Scorchers,SCO,#F58220,2017/18,BBL|07,Perth Stadium,-31.9512,115.889,Sydney Cricket Ground,-33.8915,151.2249,1,3289
+Perth Scorchers,SCO,#F58220,2017/18,BBL|07,Perth Stadium,-31.9512,115.889,Sydney Showground Stadium,-33.843,151.067,1,3275
+Perth Scorchers,SCO,#F58220,2017/18,BBL|07,Perth Stadium,-31.9512,115.889,The Gabba,-27.4858,153.0381,1,3604
+Perth Scorchers,SCO,#F58220,2017/18,BBL|07,Perth Stadium,-31.9512,115.889,Traeger Park,-23.704,133.872,1,1988
+Perth Scorchers,SCO,#F58220,2017/18,BBL|07,Perth Stadium,-31.9512,115.889,WACA Ground,-31.96,115.8797,5,1
+Perth Scorchers,SCO,#F58220,2018/19,BBL|08,Perth Stadium,-31.9512,115.889,Adelaide Oval,-34.9156,138.5961,1,2128
+Perth Scorchers,SCO,#F58220,2018/19,BBL|08,Perth Stadium,-31.9512,115.889,Docklands Stadium,-37.8165,144.9475,1,2718
+Perth Scorchers,SCO,#F58220,2018/19,BBL|08,Perth Stadium,-31.9512,115.889,Melbourne Cricket Ground,-37.82,144.9834,1,2721
+Perth Scorchers,SCO,#F58220,2018/19,BBL|08,Perth Stadium,-31.9512,115.889,Sydney Cricket Ground,-33.8915,151.2249,1,3289
+Perth Scorchers,SCO,#F58220,2018/19,BBL|08,Perth Stadium,-31.9512,115.889,Sydney Showground Stadium,-33.843,151.067,1,3275
+Perth Scorchers,SCO,#F58220,2018/19,BBL|08,Perth Stadium,-31.9512,115.889,The Gabba,-27.4858,153.0381,1,3604
+Perth Scorchers,SCO,#F58220,2018/19,BBL|08,Perth Stadium,-31.9512,115.889,York Park,-41.4258,147.1388,1,2959
+Perth Scorchers,SCO,#F58220,2019/20,BBL|09,Perth Stadium,-31.9512,115.889,Adelaide Oval,-34.9156,138.5961,1,2128
+Perth Scorchers,SCO,#F58220,2019/20,BBL|09,Perth Stadium,-31.9512,115.889,Bellerive Oval,-42.877,147.373,1,3012
+Perth Scorchers,SCO,#F58220,2019/20,BBL|09,Perth Stadium,-31.9512,115.889,Carrara Oval,-28.0063,153.3667,1,3618
+Perth Scorchers,SCO,#F58220,2019/20,BBL|09,Perth Stadium,-31.9512,115.889,Kardinia Park,-38.158,144.3546,1,2670
+Perth Scorchers,SCO,#F58220,2019/20,BBL|09,Perth Stadium,-31.9512,115.889,Melbourne Cricket Ground,-37.82,144.9834,1,2721
+Perth Scorchers,SCO,#F58220,2019/20,BBL|09,Perth Stadium,-31.9512,115.889,Sydney Cricket Ground,-33.8915,151.2249,1,3289
+Perth Scorchers,SCO,#F58220,2019/20,BBL|09,Perth Stadium,-31.9512,115.889,Sydney Showground Stadium,-33.843,151.067,1,3275
+Perth Scorchers,SCO,#F58220,2020/21,BBL|10,Perth Stadium,-31.9512,115.889,Adelaide Oval,-34.9156,138.5961,3,2128
+Perth Scorchers,SCO,#F58220,2020/21,BBL|10,Perth Stadium,-31.9512,115.889,Bellerive Oval,-42.877,147.373,1,3012
+Perth Scorchers,SCO,#F58220,2020/21,BBL|10,Perth Stadium,-31.9512,115.889,Docklands Stadium,-37.8165,144.9475,2,2718
+Perth Scorchers,SCO,#F58220,2020/21,BBL|10,Perth Stadium,-31.9512,115.889,Manuka Oval,-35.3181,149.1347,4,3086
+Perth Scorchers,SCO,#F58220,2020/21,BBL|10,Perth Stadium,-31.9512,115.889,Melbourne Cricket Ground,-37.82,144.9834,1,2721
+Perth Scorchers,SCO,#F58220,2020/21,BBL|10,Perth Stadium,-31.9512,115.889,Sydney Cricket Ground,-33.8915,151.2249,1,3289
+Perth Scorchers,SCO,#F58220,2020/21,BBL|10,Perth Stadium,-31.9512,115.889,York Park,-41.4258,147.1388,1,2959
+Perth Scorchers,SCO,#F58220,2021/22,BBL|11,Perth Stadium,-31.9512,115.889,Adelaide Oval,-34.9156,138.5961,1,2128
+Perth Scorchers,SCO,#F58220,2021/22,BBL|11,Perth Stadium,-31.9512,115.889,Bellerive Oval,-42.877,147.373,2,3012
+Perth Scorchers,SCO,#F58220,2021/22,BBL|11,Perth Stadium,-31.9512,115.889,C.ex Coffs International Stadium,-30.3196,153.1003,1,3529
+Perth Scorchers,SCO,#F58220,2021/22,BBL|11,Perth Stadium,-31.9512,115.889,Carrara Oval,-28.0063,153.3667,2,3618
+Perth Scorchers,SCO,#F58220,2021/22,BBL|11,Perth Stadium,-31.9512,115.889,Docklands Stadium,-37.8165,144.9475,5,2718
+Perth Scorchers,SCO,#F58220,2021/22,BBL|11,Perth Stadium,-31.9512,115.889,Junction Oval,-37.8545,144.979,1,2721
+Perth Scorchers,SCO,#F58220,2021/22,BBL|11,Perth Stadium,-31.9512,115.889,Kardinia Park,-38.158,144.3546,1,2670
+Perth Scorchers,SCO,#F58220,2021/22,BBL|11,Perth Stadium,-31.9512,115.889,Manuka Oval,-35.3181,149.1347,1,3086
+Perth Scorchers,SCO,#F58220,2021/22,BBL|11,Perth Stadium,-31.9512,115.889,Sydney Showground Stadium,-33.843,151.067,1,3275
+Perth Scorchers,SCO,#F58220,2022/23,BBL|12,Perth Stadium,-31.9512,115.889,Adelaide Oval,-34.9156,138.5961,1,2128
+Perth Scorchers,SCO,#F58220,2022/23,BBL|12,Perth Stadium,-31.9512,115.889,Docklands Stadium,-37.8165,144.9475,1,2718
+Perth Scorchers,SCO,#F58220,2022/23,BBL|12,Perth Stadium,-31.9512,115.889,Junction Oval,-37.8545,144.979,1,2721
+Perth Scorchers,SCO,#F58220,2022/23,BBL|12,Perth Stadium,-31.9512,115.889,Sydney Cricket Ground,-33.8915,151.2249,1,3289
+Perth Scorchers,SCO,#F58220,2022/23,BBL|12,Perth Stadium,-31.9512,115.889,Sydney Showground Stadium,-33.843,151.067,1,3275
+Perth Scorchers,SCO,#F58220,2022/23,BBL|12,Perth Stadium,-31.9512,115.889,The Gabba,-27.4858,153.0381,1,3604
+Perth Scorchers,SCO,#F58220,2022/23,BBL|12,Perth Stadium,-31.9512,115.889,York Park,-41.4258,147.1388,1,2959
+Perth Scorchers,SCO,#F58220,2023/24,BBL|13,Perth Stadium,-31.9512,115.889,Adelaide Oval,-34.9156,138.5961,1,2128
+Perth Scorchers,SCO,#F58220,2023/24,BBL|13,Perth Stadium,-31.9512,115.889,Kardinia Park,-38.158,144.3546,1,2670
+Perth Scorchers,SCO,#F58220,2023/24,BBL|13,Perth Stadium,-31.9512,115.889,Melbourne Cricket Ground,-37.82,144.9834,1,2721
+Perth Scorchers,SCO,#F58220,2023/24,BBL|13,Perth Stadium,-31.9512,115.889,Sydney Showground Stadium,-33.843,151.067,1,3275
+Perth Scorchers,SCO,#F58220,2023/24,BBL|13,Perth Stadium,-31.9512,115.889,The Gabba,-27.4858,153.0381,1,3604
+Perth Scorchers,SCO,#F58220,2024/25,BBL|14,Perth Stadium,-31.9512,115.889,Adelaide Oval,-34.9156,138.5961,1,2128
+Perth Scorchers,SCO,#F58220,2024/25,BBL|14,Perth Stadium,-31.9512,115.889,Bellerive Oval,-42.877,147.373,1,3012
+Perth Scorchers,SCO,#F58220,2024/25,BBL|14,Perth Stadium,-31.9512,115.889,Docklands Stadium,-37.8165,144.9475,1,2718
+Perth Scorchers,SCO,#F58220,2024/25,BBL|14,Perth Stadium,-31.9512,115.889,Sydney Cricket Ground,-33.8915,151.2249,1,3289
+Perth Scorchers,SCO,#F58220,2024/25,BBL|14,Perth Stadium,-31.9512,115.889,Sydney Showground Stadium,-33.843,151.067,1,3275
+Perth Scorchers,SCO,#F58220,2025/26,BBL|15,Perth Stadium,-31.9512,115.889,Adelaide Oval,-34.9156,138.5961,1,2128
+Perth Scorchers,SCO,#F58220,2025/26,BBL|15,Perth Stadium,-31.9512,115.889,Bellerive Oval,-42.877,147.373,1,3012
+Perth Scorchers,SCO,#F58220,2025/26,BBL|15,Perth Stadium,-31.9512,115.889,Docklands Stadium,-37.8165,144.9475,1,2718
+Perth Scorchers,SCO,#F58220,2025/26,BBL|15,Perth Stadium,-31.9512,115.889,Sydney Showground Stadium,-33.843,151.067,1,3275
+Perth Scorchers,SCO,#F58220,2025/26,BBL|15,Perth Stadium,-31.9512,115.889,The Gabba,-27.4858,153.0381,1,3604
+Sydney Sixers,SIX,#E5007E,2011/12,BBL|01,Sydney Cricket Ground,-33.8915,151.2249,Adelaide Oval,-34.9156,138.5961,1,1163
+Sydney Sixers,SIX,#E5007E,2011/12,BBL|01,Sydney Cricket Ground,-33.8915,151.2249,Bellerive Oval,-42.877,147.373,2,1054
+Sydney Sixers,SIX,#E5007E,2011/12,BBL|01,Sydney Cricket Ground,-33.8915,151.2249,Docklands Stadium,-37.8165,144.9475,1,714
+Sydney Sixers,SIX,#E5007E,2011/12,BBL|01,Sydney Cricket Ground,-33.8915,151.2249,Stadium Australia,-33.847,151.0634,1,16
+Sydney Sixers,SIX,#E5007E,2011/12,BBL|01,Sydney Cricket Ground,-33.8915,151.2249,WACA Ground,-31.96,115.8797,1,3290
+Sydney Sixers,SIX,#E5007E,2012/13,BBL|02,Sydney Cricket Ground,-33.8915,151.2249,Adelaide Oval,-34.9156,138.5961,1,1163
+Sydney Sixers,SIX,#E5007E,2012/13,BBL|02,Sydney Cricket Ground,-33.8915,151.2249,Stadium Australia,-33.847,151.0634,1,16
+Sydney Sixers,SIX,#E5007E,2012/13,BBL|02,Sydney Cricket Ground,-33.8915,151.2249,The Gabba,-27.4858,153.0381,1,733
+Sydney Sixers,SIX,#E5007E,2013/14,BBL|03,Sydney Cricket Ground,-33.8915,151.2249,Adelaide Oval,-34.9156,138.5961,1,1163
+Sydney Sixers,SIX,#E5007E,2013/14,BBL|03,Sydney Cricket Ground,-33.8915,151.2249,Docklands Stadium,-37.8165,144.9475,1,714
+Sydney Sixers,SIX,#E5007E,2013/14,BBL|03,Sydney Cricket Ground,-33.8915,151.2249,Stadium Australia,-33.847,151.0634,1,16
+Sydney Sixers,SIX,#E5007E,2013/14,BBL|03,Sydney Cricket Ground,-33.8915,151.2249,The Gabba,-27.4858,153.0381,1,733
+Sydney Sixers,SIX,#E5007E,2014/15,BBL|04,Sydney Cricket Ground,-33.8915,151.2249,Adelaide Oval,-34.9156,138.5961,1,1163
+Sydney Sixers,SIX,#E5007E,2014/15,BBL|04,Sydney Cricket Ground,-33.8915,151.2249,Bellerive Oval,-42.877,147.373,1,1054
+Sydney Sixers,SIX,#E5007E,2014/15,BBL|04,Sydney Cricket Ground,-33.8915,151.2249,Manuka Oval,-35.3181,149.1347,1,249
+Sydney Sixers,SIX,#E5007E,2014/15,BBL|04,Sydney Cricket Ground,-33.8915,151.2249,Melbourne Cricket Ground,-37.82,144.9834,1,712
+Sydney Sixers,SIX,#E5007E,2014/15,BBL|04,Sydney Cricket Ground,-33.8915,151.2249,Stadium Australia,-33.847,151.0634,1,16
+Sydney Sixers,SIX,#E5007E,2014/15,BBL|04,Sydney Cricket Ground,-33.8915,151.2249,The Gabba,-27.4858,153.0381,1,733
+Sydney Sixers,SIX,#E5007E,2015/16,BBL|05,Sydney Cricket Ground,-33.8915,151.2249,Adelaide Oval,-34.9156,138.5961,1,1163
+Sydney Sixers,SIX,#E5007E,2015/16,BBL|05,Sydney Cricket Ground,-33.8915,151.2249,Docklands Stadium,-37.8165,144.9475,1,714
+Sydney Sixers,SIX,#E5007E,2015/16,BBL|05,Sydney Cricket Ground,-33.8915,151.2249,WACA Ground,-31.96,115.8797,1,3290
+Sydney Sixers,SIX,#E5007E,2016/17,BBL|06,Sydney Cricket Ground,-33.8915,151.2249,Adelaide Oval,-34.9156,138.5961,1,1163
+Sydney Sixers,SIX,#E5007E,2016/17,BBL|06,Sydney Cricket Ground,-33.8915,151.2249,Melbourne Cricket Ground,-37.82,144.9834,1,712
+Sydney Sixers,SIX,#E5007E,2016/17,BBL|06,Sydney Cricket Ground,-33.8915,151.2249,Sydney Showground Stadium,-33.843,151.067,1,16
+Sydney Sixers,SIX,#E5007E,2016/17,BBL|06,Sydney Cricket Ground,-33.8915,151.2249,The Gabba,-27.4858,153.0381,2,733
+Sydney Sixers,SIX,#E5007E,2016/17,BBL|06,Sydney Cricket Ground,-33.8915,151.2249,WACA Ground,-31.96,115.8797,1,3290
+Sydney Sixers,SIX,#E5007E,2017/18,BBL|07,Sydney Cricket Ground,-33.8915,151.2249,Bellerive Oval,-42.877,147.373,1,1054
+Sydney Sixers,SIX,#E5007E,2017/18,BBL|07,Sydney Cricket Ground,-33.8915,151.2249,Kardinia Park,-38.158,144.3546,1,779
+Sydney Sixers,SIX,#E5007E,2017/18,BBL|07,Sydney Cricket Ground,-33.8915,151.2249,Melbourne Cricket Ground,-37.82,144.9834,1,712
+Sydney Sixers,SIX,#E5007E,2017/18,BBL|07,Sydney Cricket Ground,-33.8915,151.2249,Sydney Showground Stadium,-33.843,151.067,1,16
+Sydney Sixers,SIX,#E5007E,2017/18,BBL|07,Sydney Cricket Ground,-33.8915,151.2249,WACA Ground,-31.96,115.8797,1,3290
+Sydney Sixers,SIX,#E5007E,2018/19,BBL|08,Sydney Cricket Ground,-33.8915,151.2249,Adelaide Oval,-34.9156,138.5961,1,1163
+Sydney Sixers,SIX,#E5007E,2018/19,BBL|08,Sydney Cricket Ground,-33.8915,151.2249,Bellerive Oval,-42.877,147.373,1,1054
+Sydney Sixers,SIX,#E5007E,2018/19,BBL|08,Sydney Cricket Ground,-33.8915,151.2249,Carrara Oval,-28.0063,153.3667,1,685
+Sydney Sixers,SIX,#E5007E,2018/19,BBL|08,Sydney Cricket Ground,-33.8915,151.2249,Docklands Stadium,-37.8165,144.9475,2,714
+Sydney Sixers,SIX,#E5007E,2018/19,BBL|08,Sydney Cricket Ground,-33.8915,151.2249,Melbourne Cricket Ground,-37.82,144.9834,1,712
+Sydney Sixers,SIX,#E5007E,2018/19,BBL|08,Sydney Cricket Ground,-33.8915,151.2249,Perth Stadium,-31.9512,115.889,1,3289
+Sydney Sixers,SIX,#E5007E,2018/19,BBL|08,Sydney Cricket Ground,-33.8915,151.2249,Sydney Showground Stadium,-33.843,151.067,1,16
+Sydney Sixers,SIX,#E5007E,2019/20,BBL|09,Sydney Cricket Ground,-33.8915,151.2249,Adelaide Oval,-34.9156,138.5961,1,1163
+Sydney Sixers,SIX,#E5007E,2019/20,BBL|09,Sydney Cricket Ground,-33.8915,151.2249,C.ex Coffs International Stadium,-30.3196,153.1003,1,435
+Sydney Sixers,SIX,#E5007E,2019/20,BBL|09,Sydney Cricket Ground,-33.8915,151.2249,Docklands Stadium,-37.8165,144.9475,1,714
+Sydney Sixers,SIX,#E5007E,2019/20,BBL|09,Sydney Cricket Ground,-33.8915,151.2249,Melbourne Cricket Ground,-37.82,144.9834,2,712
+Sydney Sixers,SIX,#E5007E,2019/20,BBL|09,Sydney Cricket Ground,-33.8915,151.2249,Perth Stadium,-31.9512,115.889,1,3289
+Sydney Sixers,SIX,#E5007E,2019/20,BBL|09,Sydney Cricket Ground,-33.8915,151.2249,Sydney Showground Stadium,-33.843,151.067,1,16
+Sydney Sixers,SIX,#E5007E,2019/20,BBL|09,Sydney Cricket Ground,-33.8915,151.2249,The Gabba,-27.4858,153.0381,1,733
+Sydney Sixers,SIX,#E5007E,2019/20,BBL|09,Sydney Cricket Ground,-33.8915,151.2249,Traeger Park,-23.704,133.872,1,2030
+Sydney Sixers,SIX,#E5007E,2020/21,BBL|10,Sydney Cricket Ground,-33.8915,151.2249,Adelaide Oval,-34.9156,138.5961,1,1163
+Sydney Sixers,SIX,#E5007E,2020/21,BBL|10,Sydney Cricket Ground,-33.8915,151.2249,Bellerive Oval,-42.877,147.373,3,1054
+Sydney Sixers,SIX,#E5007E,2020/21,BBL|10,Sydney Cricket Ground,-33.8915,151.2249,Carrara Oval,-28.0063,153.3667,4,685
+Sydney Sixers,SIX,#E5007E,2020/21,BBL|10,Sydney Cricket Ground,-33.8915,151.2249,Manuka Oval,-35.3181,149.1347,3,249
+Sydney Sixers,SIX,#E5007E,2020/21,BBL|10,Sydney Cricket Ground,-33.8915,151.2249,Melbourne Cricket Ground,-37.82,144.9834,2,712
+Sydney Sixers,SIX,#E5007E,2020/21,BBL|10,Sydney Cricket Ground,-33.8915,151.2249,Perth Stadium,-31.9512,115.889,1,3289
+Sydney Sixers,SIX,#E5007E,2020/21,BBL|10,Sydney Cricket Ground,-33.8915,151.2249,The Gabba,-27.4858,153.0381,1,733
+Sydney Sixers,SIX,#E5007E,2021/22,BBL|11,Sydney Cricket Ground,-33.8915,151.2249,Adelaide Oval,-34.9156,138.5961,1,1163
+Sydney Sixers,SIX,#E5007E,2021/22,BBL|11,Sydney Cricket Ground,-33.8915,151.2249,C.ex Coffs International Stadium,-30.3196,153.1003,1,435
+Sydney Sixers,SIX,#E5007E,2021/22,BBL|11,Sydney Cricket Ground,-33.8915,151.2249,Carrara Oval,-28.0063,153.3667,1,685
+Sydney Sixers,SIX,#E5007E,2021/22,BBL|11,Sydney Cricket Ground,-33.8915,151.2249,Docklands Stadium,-37.8165,144.9475,2,714
+Sydney Sixers,SIX,#E5007E,2021/22,BBL|11,Sydney Cricket Ground,-33.8915,151.2249,Kardinia Park,-38.158,144.3546,1,779
+Sydney Sixers,SIX,#E5007E,2021/22,BBL|11,Sydney Cricket Ground,-33.8915,151.2249,Melbourne Cricket Ground,-37.82,144.9834,1,712
+Sydney Sixers,SIX,#E5007E,2021/22,BBL|11,Sydney Cricket Ground,-33.8915,151.2249,Sydney Showground Stadium,-33.843,151.067,1,16
+Sydney Sixers,SIX,#E5007E,2021/22,BBL|11,Sydney Cricket Ground,-33.8915,151.2249,The Gabba,-27.4858,153.0381,1,733
+Sydney Sixers,SIX,#E5007E,2021/22,BBL|11,Sydney Cricket Ground,-33.8915,151.2249,York Park,-41.4258,147.1388,1,911
+Sydney Sixers,SIX,#E5007E,2022/23,BBL|12,Sydney Cricket Ground,-33.8915,151.2249,Adelaide Oval,-34.9156,138.5961,1,1163
+Sydney Sixers,SIX,#E5007E,2022/23,BBL|12,Sydney Cricket Ground,-33.8915,151.2249,Bellerive Oval,-42.877,147.373,1,1054
+Sydney Sixers,SIX,#E5007E,2022/23,BBL|12,Sydney Cricket Ground,-33.8915,151.2249,C.ex Coffs International Stadium,-30.3196,153.1003,1,435
+Sydney Sixers,SIX,#E5007E,2022/23,BBL|12,Sydney Cricket Ground,-33.8915,151.2249,Kardinia Park,-38.158,144.3546,1,779
+Sydney Sixers,SIX,#E5007E,2022/23,BBL|12,Sydney Cricket Ground,-33.8915,151.2249,Melbourne Cricket Ground,-37.82,144.9834,1,712
+Sydney Sixers,SIX,#E5007E,2022/23,BBL|12,Sydney Cricket Ground,-33.8915,151.2249,North Sydney Oval,-33.836,151.2075,1,6
+Sydney Sixers,SIX,#E5007E,2022/23,BBL|12,Sydney Cricket Ground,-33.8915,151.2249,Perth Stadium,-31.9512,115.889,2,3289
+Sydney Sixers,SIX,#E5007E,2022/23,BBL|12,Sydney Cricket Ground,-33.8915,151.2249,Sydney Showground Stadium,-33.843,151.067,1,16
+Sydney Sixers,SIX,#E5007E,2022/23,BBL|12,Sydney Cricket Ground,-33.8915,151.2249,The Gabba,-27.4858,153.0381,1,733
+Sydney Sixers,SIX,#E5007E,2023/24,BBL|13,Sydney Cricket Ground,-33.8915,151.2249,C.ex Coffs International Stadium,-30.3196,153.1003,1,435
+Sydney Sixers,SIX,#E5007E,2023/24,BBL|13,Sydney Cricket Ground,-33.8915,151.2249,Carrara Oval,-28.0063,153.3667,1,685
+Sydney Sixers,SIX,#E5007E,2023/24,BBL|13,Sydney Cricket Ground,-33.8915,151.2249,Melbourne Cricket Ground,-37.82,144.9834,1,712
+Sydney Sixers,SIX,#E5007E,2023/24,BBL|13,Sydney Cricket Ground,-33.8915,151.2249,Perth Stadium,-31.9512,115.889,1,3289
+Sydney Sixers,SIX,#E5007E,2023/24,BBL|13,Sydney Cricket Ground,-33.8915,151.2249,Sydney Showground Stadium,-33.843,151.067,1,16
+Sydney Sixers,SIX,#E5007E,2023/24,BBL|13,Sydney Cricket Ground,-33.8915,151.2249,York Park,-41.4258,147.1388,1,911
+Sydney Sixers,SIX,#E5007E,2024/25,BBL|14,Sydney Cricket Ground,-33.8915,151.2249,Adelaide Oval,-34.9156,138.5961,1,1163
+Sydney Sixers,SIX,#E5007E,2024/25,BBL|14,Sydney Cricket Ground,-33.8915,151.2249,Bellerive Oval,-42.877,147.373,2,1054
+Sydney Sixers,SIX,#E5007E,2024/25,BBL|14,Sydney Cricket Ground,-33.8915,151.2249,Melbourne Cricket Ground,-37.82,144.9834,1,712
+Sydney Sixers,SIX,#E5007E,2024/25,BBL|14,Sydney Cricket Ground,-33.8915,151.2249,Sydney Showground Stadium,-33.843,151.067,1,16
+Sydney Sixers,SIX,#E5007E,2024/25,BBL|14,Sydney Cricket Ground,-33.8915,151.2249,The Gabba,-27.4858,153.0381,1,733
+Sydney Sixers,SIX,#E5007E,2025/26,BBL|15,Sydney Cricket Ground,-33.8915,151.2249,C.ex Coffs International Stadium,-30.3196,153.1003,1,435
+Sydney Sixers,SIX,#E5007E,2025/26,BBL|15,Sydney Cricket Ground,-33.8915,151.2249,Docklands Stadium,-37.8165,144.9475,1,714
+Sydney Sixers,SIX,#E5007E,2025/26,BBL|15,Sydney Cricket Ground,-33.8915,151.2249,Melbourne Cricket Ground,-37.82,144.9834,1,712
+Sydney Sixers,SIX,#E5007E,2025/26,BBL|15,Sydney Cricket Ground,-33.8915,151.2249,Perth Stadium,-31.9512,115.889,3,3289
+Sydney Sixers,SIX,#E5007E,2025/26,BBL|15,Sydney Cricket Ground,-33.8915,151.2249,Sydney Showground Stadium,-33.843,151.067,1,16
+Sydney Sixers,SIX,#E5007E,2025/26,BBL|15,Sydney Cricket Ground,-33.8915,151.2249,The Gabba,-27.4858,153.0381,1,733
+Sydney Thunder,THU,#B5D334,2011/12,BBL|01,Sydney Showground Stadium,-33.843,151.067,Bellerive Oval,-42.877,147.373,1,1055
+Sydney Thunder,THU,#B5D334,2011/12,BBL|01,Sydney Showground Stadium,-33.843,151.067,Melbourne Cricket Ground,-37.82,144.9834,1,704
+Sydney Thunder,THU,#B5D334,2011/12,BBL|01,Sydney Showground Stadium,-33.843,151.067,Stadium Australia,-33.847,151.0634,3,1
+Sydney Thunder,THU,#B5D334,2011/12,BBL|01,Sydney Showground Stadium,-33.843,151.067,The Gabba,-27.4858,153.0381,1,732
+Sydney Thunder,THU,#B5D334,2012/13,BBL|02,Sydney Showground Stadium,-33.843,151.067,Melbourne Cricket Ground,-37.82,144.9834,1,704
+Sydney Thunder,THU,#B5D334,2012/13,BBL|02,Sydney Showground Stadium,-33.843,151.067,Stadium Australia,-33.847,151.0634,4,1
+Sydney Thunder,THU,#B5D334,2012/13,BBL|02,Sydney Showground Stadium,-33.843,151.067,Sydney Cricket Ground,-33.8915,151.2249,1,16
+Sydney Thunder,THU,#B5D334,2012/13,BBL|02,Sydney Showground Stadium,-33.843,151.067,WACA Ground,-31.96,115.8797,1,3276
+Sydney Thunder,THU,#B5D334,2013/14,BBL|03,Sydney Showground Stadium,-33.843,151.067,Bellerive Oval,-42.877,147.373,1,1055
+Sydney Thunder,THU,#B5D334,2013/14,BBL|03,Sydney Showground Stadium,-33.843,151.067,Docklands Stadium,-37.8165,144.9475,1,707
+Sydney Thunder,THU,#B5D334,2013/14,BBL|03,Sydney Showground Stadium,-33.843,151.067,Stadium Australia,-33.847,151.0634,4,1
+Sydney Thunder,THU,#B5D334,2013/14,BBL|03,Sydney Showground Stadium,-33.843,151.067,Sydney Cricket Ground,-33.8915,151.2249,1,16
+Sydney Thunder,THU,#B5D334,2013/14,BBL|03,Sydney Showground Stadium,-33.843,151.067,WACA Ground,-31.96,115.8797,1,3276
+Sydney Thunder,THU,#B5D334,2014/15,BBL|04,Sydney Showground Stadium,-33.843,151.067,Adelaide Oval,-34.9156,138.5961,1,1150
+Sydney Thunder,THU,#B5D334,2014/15,BBL|04,Sydney Showground Stadium,-33.843,151.067,Docklands Stadium,-37.8165,144.9475,1,707
+Sydney Thunder,THU,#B5D334,2014/15,BBL|04,Sydney Showground Stadium,-33.843,151.067,Stadium Australia,-33.847,151.0634,2,1
+Sydney Thunder,THU,#B5D334,2014/15,BBL|04,Sydney Showground Stadium,-33.843,151.067,Sydney Cricket Ground,-33.8915,151.2249,1,16
+Sydney Thunder,THU,#B5D334,2014/15,BBL|04,Sydney Showground Stadium,-33.843,151.067,WACA Ground,-31.96,115.8797,1,3276
+Sydney Thunder,THU,#B5D334,2015/16,BBL|05,Sydney Showground Stadium,-33.843,151.067,Adelaide Oval,-34.9156,138.5961,1,1150
+Sydney Thunder,THU,#B5D334,2015/16,BBL|05,Sydney Showground Stadium,-33.843,151.067,Bellerive Oval,-42.877,147.373,1,1055
+Sydney Thunder,THU,#B5D334,2015/16,BBL|05,Sydney Showground Stadium,-33.843,151.067,Melbourne Cricket Ground,-37.82,144.9834,1,704
+Sydney Thunder,THU,#B5D334,2015/16,BBL|05,Sydney Showground Stadium,-33.843,151.067,Sydney Cricket Ground,-33.8915,151.2249,1,16
+Sydney Thunder,THU,#B5D334,2015/16,BBL|05,Sydney Showground Stadium,-33.843,151.067,The Gabba,-27.4858,153.0381,1,732
+Sydney Thunder,THU,#B5D334,2016/17,BBL|06,Sydney Showground Stadium,-33.843,151.067,Bellerive Oval,-42.877,147.373,1,1055
+Sydney Thunder,THU,#B5D334,2016/17,BBL|06,Sydney Showground Stadium,-33.843,151.067,Docklands Stadium,-37.8165,144.9475,1,707
+Sydney Thunder,THU,#B5D334,2016/17,BBL|06,Sydney Showground Stadium,-33.843,151.067,Sydney Cricket Ground,-33.8915,151.2249,1,16
+Sydney Thunder,THU,#B5D334,2016/17,BBL|06,Sydney Showground Stadium,-33.843,151.067,WACA Ground,-31.96,115.8797,1,3276
+Sydney Thunder,THU,#B5D334,2017/18,BBL|07,Sydney Showground Stadium,-33.843,151.067,Adelaide Oval,-34.9156,138.5961,1,1150
+Sydney Thunder,THU,#B5D334,2017/18,BBL|07,Sydney Showground Stadium,-33.843,151.067,Manuka Oval,-35.3181,149.1347,1,241
+Sydney Thunder,THU,#B5D334,2017/18,BBL|07,Sydney Showground Stadium,-33.843,151.067,Melbourne Cricket Ground,-37.82,144.9834,1,704
+Sydney Thunder,THU,#B5D334,2017/18,BBL|07,Sydney Showground Stadium,-33.843,151.067,Sydney Cricket Ground,-33.8915,151.2249,1,16
+Sydney Thunder,THU,#B5D334,2017/18,BBL|07,Sydney Showground Stadium,-33.843,151.067,The Gabba,-27.4858,153.0381,1,732
+Sydney Thunder,THU,#B5D334,2017/18,BBL|07,Sydney Showground Stadium,-33.843,151.067,York Park,-41.4258,147.1388,1,911
+Sydney Thunder,THU,#B5D334,2018/19,BBL|08,Sydney Showground Stadium,-33.843,151.067,Adelaide Oval,-34.9156,138.5961,1,1150
+Sydney Thunder,THU,#B5D334,2018/19,BBL|08,Sydney Showground Stadium,-33.843,151.067,Bellerive Oval,-42.877,147.373,1,1055
+Sydney Thunder,THU,#B5D334,2018/19,BBL|08,Sydney Showground Stadium,-33.843,151.067,Carrara Oval,-28.0063,153.3667,1,685
+Sydney Thunder,THU,#B5D334,2018/19,BBL|08,Sydney Showground Stadium,-33.843,151.067,Docklands Stadium,-37.8165,144.9475,1,707
+Sydney Thunder,THU,#B5D334,2018/19,BBL|08,Sydney Showground Stadium,-33.843,151.067,Manuka Oval,-35.3181,149.1347,2,241
+Sydney Thunder,THU,#B5D334,2018/19,BBL|08,Sydney Showground Stadium,-33.843,151.067,Perth Stadium,-31.9512,115.889,1,3275
+Sydney Thunder,THU,#B5D334,2018/19,BBL|08,Sydney Showground Stadium,-33.843,151.067,Sydney Cricket Ground,-33.8915,151.2249,1,16
+Sydney Thunder,THU,#B5D334,2018/19,BBL|08,Sydney Showground Stadium,-33.843,151.067,The Gabba,-27.4858,153.0381,1,732
+Sydney Thunder,THU,#B5D334,2019/20,BBL|09,Sydney Showground Stadium,-33.843,151.067,Adelaide Oval,-34.9156,138.5961,2,1150
+Sydney Thunder,THU,#B5D334,2019/20,BBL|09,Sydney Showground Stadium,-33.843,151.067,Bellerive Oval,-42.877,147.373,2,1055
+Sydney Thunder,THU,#B5D334,2019/20,BBL|09,Sydney Showground Stadium,-33.843,151.067,Kardinia Park,-38.158,144.3546,1,771
+Sydney Thunder,THU,#B5D334,2019/20,BBL|09,Sydney Showground Stadium,-33.843,151.067,Manuka Oval,-35.3181,149.1347,2,241
+Sydney Thunder,THU,#B5D334,2019/20,BBL|09,Sydney Showground Stadium,-33.843,151.067,Melbourne Cricket Ground,-37.82,144.9834,2,704
+Sydney Thunder,THU,#B5D334,2019/20,BBL|09,Sydney Showground Stadium,-33.843,151.067,Perth Stadium,-31.9512,115.889,1,3275
+Sydney Thunder,THU,#B5D334,2019/20,BBL|09,Sydney Showground Stadium,-33.843,151.067,Sydney Cricket Ground,-33.8915,151.2249,1,16
+Sydney Thunder,THU,#B5D334,2019/20,BBL|09,Sydney Showground Stadium,-33.843,151.067,The Gabba,-27.4858,153.0381,1,732
+Sydney Thunder,THU,#B5D334,2020/21,BBL|10,Sydney Showground Stadium,-33.843,151.067,Adelaide Oval,-34.9156,138.5961,3,1150
+Sydney Thunder,THU,#B5D334,2020/21,BBL|10,Sydney Showground Stadium,-33.843,151.067,Carrara Oval,-28.0063,153.3667,1,685
+Sydney Thunder,THU,#B5D334,2020/21,BBL|10,Sydney Showground Stadium,-33.843,151.067,Manuka Oval,-35.3181,149.1347,8,241
+Sydney Thunder,THU,#B5D334,2020/21,BBL|10,Sydney Showground Stadium,-33.843,151.067,Perth Stadium,-31.9512,115.889,2,3275
+Sydney Thunder,THU,#B5D334,2020/21,BBL|10,Sydney Showground Stadium,-33.843,151.067,The Gabba,-27.4858,153.0381,1,732
+Sydney Thunder,THU,#B5D334,2021/22,BBL|11,Sydney Showground Stadium,-33.843,151.067,Adelaide Oval,-34.9156,138.5961,1,1150
+Sydney Thunder,THU,#B5D334,2021/22,BBL|11,Sydney Showground Stadium,-33.843,151.067,Carrara Oval,-28.0063,153.3667,1,685
+Sydney Thunder,THU,#B5D334,2021/22,BBL|11,Sydney Showground Stadium,-33.843,151.067,Docklands Stadium,-37.8165,144.9475,2,707
+Sydney Thunder,THU,#B5D334,2021/22,BBL|11,Sydney Showground Stadium,-33.843,151.067,Manuka Oval,-35.3181,149.1347,2,241
+Sydney Thunder,THU,#B5D334,2021/22,BBL|11,Sydney Showground Stadium,-33.843,151.067,Melbourne Cricket Ground,-37.82,144.9834,4,704
+Sydney Thunder,THU,#B5D334,2021/22,BBL|11,Sydney Showground Stadium,-33.843,151.067,Sydney Cricket Ground,-33.8915,151.2249,1,16
+Sydney Thunder,THU,#B5D334,2021/22,BBL|11,Sydney Showground Stadium,-33.843,151.067,The Gabba,-27.4858,153.0381,1,732
+Sydney Thunder,THU,#B5D334,2022/23,BBL|12,Sydney Showground Stadium,-33.843,151.067,Adelaide Oval,-34.9156,138.5961,1,1150
+Sydney Thunder,THU,#B5D334,2022/23,BBL|12,Sydney Showground Stadium,-33.843,151.067,Bellerive Oval,-42.877,147.373,1,1055
+Sydney Thunder,THU,#B5D334,2022/23,BBL|12,Sydney Showground Stadium,-33.843,151.067,Carrara Oval,-28.0063,153.3667,1,685
+Sydney Thunder,THU,#B5D334,2022/23,BBL|12,Sydney Showground Stadium,-33.843,151.067,Docklands Stadium,-37.8165,144.9475,1,707
+Sydney Thunder,THU,#B5D334,2022/23,BBL|12,Sydney Showground Stadium,-33.843,151.067,Lavington Sports Oval,-36.0423,146.9417,1,448
+Sydney Thunder,THU,#B5D334,2022/23,BBL|12,Sydney Showground Stadium,-33.843,151.067,Manuka Oval,-35.3181,149.1347,2,241
+Sydney Thunder,THU,#B5D334,2022/23,BBL|12,Sydney Showground Stadium,-33.843,151.067,Melbourne Cricket Ground,-37.82,144.9834,1,704
+Sydney Thunder,THU,#B5D334,2022/23,BBL|12,Sydney Showground Stadium,-33.843,151.067,Perth Stadium,-31.9512,115.889,1,3275
+Sydney Thunder,THU,#B5D334,2022/23,BBL|12,Sydney Showground Stadium,-33.843,151.067,Sydney Cricket Ground,-33.8915,151.2249,1,16
+Sydney Thunder,THU,#B5D334,2023/24,BBL|13,Sydney Showground Stadium,-33.843,151.067,Adelaide Oval,-34.9156,138.5961,1,1150
+Sydney Thunder,THU,#B5D334,2023/24,BBL|13,Sydney Showground Stadium,-33.843,151.067,Bellerive Oval,-42.877,147.373,1,1055
+Sydney Thunder,THU,#B5D334,2023/24,BBL|13,Sydney Showground Stadium,-33.843,151.067,Lavington Sports Oval,-36.0423,146.9417,1,448
+Sydney Thunder,THU,#B5D334,2023/24,BBL|13,Sydney Showground Stadium,-33.843,151.067,Manuka Oval,-35.3181,149.1347,2,241
+Sydney Thunder,THU,#B5D334,2023/24,BBL|13,Sydney Showground Stadium,-33.843,151.067,Sydney Cricket Ground,-33.8915,151.2249,1,16
+Sydney Thunder,THU,#B5D334,2023/24,BBL|13,Sydney Showground Stadium,-33.843,151.067,The Gabba,-27.4858,153.0381,1,732
+Sydney Thunder,THU,#B5D334,2024/25,BBL|14,Sydney Showground Stadium,-33.843,151.067,Bellerive Oval,-42.877,147.373,2,1055
+Sydney Thunder,THU,#B5D334,2024/25,BBL|14,Sydney Showground Stadium,-33.843,151.067,Manuka Oval,-35.3181,149.1347,2,241
+Sydney Thunder,THU,#B5D334,2024/25,BBL|14,Sydney Showground Stadium,-33.843,151.067,Perth Stadium,-31.9512,115.889,1,3275
+Sydney Thunder,THU,#B5D334,2024/25,BBL|14,Sydney Showground Stadium,-33.843,151.067,Sydney Cricket Ground,-33.8915,151.2249,2,16
+Sydney Thunder,THU,#B5D334,2024/25,BBL|14,Sydney Showground Stadium,-33.843,151.067,The Gabba,-27.4858,153.0381,1,732
+Sydney Thunder,THU,#B5D334,2025/26,BBL|15,Sydney Showground Stadium,-33.843,151.067,Adelaide Oval,-34.9156,138.5961,1,1150
+Sydney Thunder,THU,#B5D334,2025/26,BBL|15,Sydney Showground Stadium,-33.843,151.067,Bellerive Oval,-42.877,147.373,1,1055
+Sydney Thunder,THU,#B5D334,2025/26,BBL|15,Sydney Showground Stadium,-33.843,151.067,Manuka Oval,-35.3181,149.1347,2,241
+Sydney Thunder,THU,#B5D334,2025/26,BBL|15,Sydney Showground Stadium,-33.843,151.067,Sydney Cricket Ground,-33.8915,151.2249,1,16
+Sydney Thunder,THU,#B5D334,2025/26,BBL|15,Sydney Showground Stadium,-33.843,151.067,The Gabba,-27.4858,153.0381,1,732

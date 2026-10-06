@@ -1,0 +1,1319 @@
+match_id,season,season_label,date,venue,innings,batting_team,bowling_team,runs,wickets,legal_balls,overs,allotted_overs,all_out,full_20_overs,stage
+1023581,2016/17,BBL|06,2016-12-20,Sydney Showground Stadium,1,Sydney Thunder,Sydney Sixers,159,8,120,20.0,20,0,1,League
+1023581,2016/17,BBL|06,2016-12-20,Sydney Showground Stadium,2,Sydney Sixers,Sydney Thunder,160,1,108,18.0,20,0,1,League
+1023583,2016/17,BBL|06,2016-12-21,Adelaide Oval,1,Brisbane Heat,Adelaide Strikers,206,5,120,20.0,20,0,1,League
+1023583,2016/17,BBL|06,2016-12-21,Adelaide Oval,2,Adelaide Strikers,Brisbane Heat,196,6,120,20.0,20,0,1,League
+1023585,2016/17,BBL|06,2016-12-22,Docklands Stadium,1,Melbourne Renegades,Sydney Thunder,179,7,120,20.0,20,0,1,League
+1023585,2016/17,BBL|06,2016-12-22,Docklands Stadium,2,Sydney Thunder,Melbourne Renegades,130,10,115,19.1,20,1,1,League
+1023587,2016/17,BBL|06,2016-12-23,Sydney Cricket Ground,1,Hobart Hurricanes,Sydney Sixers,200,6,120,20.0,20,0,1,League
+1023587,2016/17,BBL|06,2016-12-23,Sydney Cricket Ground,2,Sydney Sixers,Hobart Hurricanes,140,10,98,16.2,20,1,1,League
+1023589,2016/17,BBL|06,2016-12-23,WACA Ground,1,Perth Scorchers,Adelaide Strikers,197,7,120,20.0,20,0,1,League
+1023589,2016/17,BBL|06,2016-12-23,WACA Ground,2,Adelaide Strikers,Perth Scorchers,149,9,120,20.0,20,0,1,League
+1023591,2016/17,BBL|06,2016-12-26,Bellerive Oval,1,Hobart Hurricanes,Melbourne Stars,188,4,120,20.0,20,0,1,League
+1023591,2016/17,BBL|06,2016-12-26,Bellerive Oval,2,Melbourne Stars,Hobart Hurricanes,191,3,106,17.4,20,0,1,League
+1023593,2016/17,BBL|06,2016-12-27,Sydney Cricket Ground,1,Perth Scorchers,Sydney Sixers,130,8,120,20.0,20,0,1,League
+1023593,2016/17,BBL|06,2016-12-27,Sydney Cricket Ground,2,Sydney Sixers,Perth Scorchers,132,4,108,18.0,20,0,1,League
+1023595,2016/17,BBL|06,2016-12-28,Sydney Showground Stadium,1,Sydney Thunder,Brisbane Heat,157,7,120,20.0,20,0,1,League
+1023595,2016/17,BBL|06,2016-12-28,Sydney Showground Stadium,2,Brisbane Heat,Sydney Thunder,160,7,118,19.4,20,0,1,League
+1023597,2016/17,BBL|06,2016-12-29,Docklands Stadium,1,Melbourne Renegades,Perth Scorchers,148,8,120,20.0,20,0,1,League
+1023597,2016/17,BBL|06,2016-12-29,Docklands Stadium,2,Perth Scorchers,Melbourne Renegades,152,6,120,20.0,20,0,1,League
+1023599,2016/17,BBL|06,2016-12-30,The Gabba,1,Hobart Hurricanes,Brisbane Heat,173,9,120,20.0,20,0,1,League
+1023599,2016/17,BBL|06,2016-12-30,The Gabba,2,Brisbane Heat,Hobart Hurricanes,174,3,98,16.2,20,0,1,League
+1023601,2016/17,BBL|06,2016-12-31,Adelaide Oval,1,Adelaide Strikers,Sydney Sixers,152,9,120,20.0,20,0,1,League
+1023601,2016/17,BBL|06,2016-12-31,Adelaide Oval,2,Sydney Sixers,Adelaide Strikers,104,10,110,18.2,20,1,1,League
+1023603,2016/17,BBL|06,2017-01-01,Melbourne Cricket Ground,1,Melbourne Renegades,Melbourne Stars,171,4,120,20.0,20,0,1,League
+1023603,2016/17,BBL|06,2017-01-01,Melbourne Cricket Ground,2,Melbourne Stars,Melbourne Renegades,151,9,108,18.0,18,0,0,League
+1023605,2016/17,BBL|06,2017-01-01,WACA Ground,1,Perth Scorchers,Sydney Thunder,177,4,120,20.0,20,0,1,League
+1023605,2016/17,BBL|06,2017-01-01,WACA Ground,2,Sydney Thunder,Perth Scorchers,127,8,120,20.0,20,0,1,League
+1023607,2016/17,BBL|06,2017-01-02,Bellerive Oval,1,Adelaide Strikers,Hobart Hurricanes,143,10,120,20.0,20,1,1,League
+1023607,2016/17,BBL|06,2017-01-02,Bellerive Oval,2,Hobart Hurricanes,Adelaide Strikers,144,2,106,17.4,20,0,1,League
+1023609,2016/17,BBL|06,2017-01-03,The Gabba,1,Brisbane Heat,Sydney Sixers,186,6,120,20.0,20,0,1,League
+1023609,2016/17,BBL|06,2017-01-03,The Gabba,2,Sydney Sixers,Brisbane Heat,191,7,118,19.4,20,0,1,League
+1023611,2016/17,BBL|06,2017-01-04,Sydney Showground Stadium,1,Melbourne Stars,Sydney Thunder,166,8,120,20.0,20,0,1,League
+1023611,2016/17,BBL|06,2017-01-04,Sydney Showground Stadium,2,Sydney Thunder,Melbourne Stars,168,4,120,20.0,20,0,1,League
+1023613,2016/17,BBL|06,2017-01-05,WACA Ground,1,Perth Scorchers,Brisbane Heat,173,6,120,20.0,20,0,1,League
+1023613,2016/17,BBL|06,2017-01-05,WACA Ground,2,Brisbane Heat,Perth Scorchers,174,1,88,14.4,20,0,1,League
+1023615,2016/17,BBL|06,2017-01-06,Adelaide Oval,1,Hobart Hurricanes,Adelaide Strikers,161,8,120,20.0,20,0,1,League
+1023615,2016/17,BBL|06,2017-01-06,Adelaide Oval,2,Adelaide Strikers,Hobart Hurricanes,164,5,110,18.2,20,0,1,League
+1023617,2016/17,BBL|06,2017-01-07,Docklands Stadium,1,Melbourne Stars,Melbourne Renegades,200,7,120,20.0,20,0,1,League
+1023617,2016/17,BBL|06,2017-01-07,Docklands Stadium,2,Melbourne Renegades,Melbourne Stars,154,9,120,20.0,20,0,1,League
+1023619,2016/17,BBL|06,2017-01-08,Bellerive Oval,1,Hobart Hurricanes,Sydney Thunder,161,8,120,20.0,20,0,1,League
+1023619,2016/17,BBL|06,2017-01-08,Bellerive Oval,2,Sydney Thunder,Hobart Hurricanes,162,4,101,16.5,20,0,1,League
+1023621,2016/17,BBL|06,2017-01-09,Sydney Cricket Ground,1,Melbourne Renegades,Sydney Sixers,170,6,120,20.0,20,0,1,League
+1023621,2016/17,BBL|06,2017-01-09,Sydney Cricket Ground,2,Sydney Sixers,Melbourne Renegades,171,4,117,19.3,20,0,1,League
+1023623,2016/17,BBL|06,2017-01-10,Melbourne Cricket Ground,1,Adelaide Strikers,Melbourne Stars,152,8,120,20.0,20,0,1,League
+1023623,2016/17,BBL|06,2017-01-10,Melbourne Cricket Ground,2,Melbourne Stars,Adelaide Strikers,153,8,117,19.3,20,0,1,League
+1023625,2016/17,BBL|06,2017-01-11,The Gabba,1,Perth Scorchers,Brisbane Heat,156,5,120,20.0,20,0,1,League
+1023625,2016/17,BBL|06,2017-01-11,The Gabba,2,Brisbane Heat,Perth Scorchers,129,10,116,19.2,20,1,1,League
+1023627,2016/17,BBL|06,2017-01-12,Docklands Stadium,1,Melbourne Renegades,Hobart Hurricanes,222,4,120,20.0,20,0,1,League
+1023627,2016/17,BBL|06,2017-01-12,Docklands Stadium,2,Hobart Hurricanes,Melbourne Renegades,223,8,120,20.0,20,0,1,League
+1023629,2016/17,BBL|06,2017-01-14,Sydney Cricket Ground,1,Sydney Sixers,Sydney Thunder,99,9,120,20.0,20,0,1,League
+1023629,2016/17,BBL|06,2017-01-14,Sydney Cricket Ground,2,Sydney Thunder,Sydney Sixers,100,2,60,10.0,20,0,1,League
+1023631,2016/17,BBL|06,2017-01-14,WACA Ground,1,Perth Scorchers,Melbourne Stars,134,7,120,20.0,20,0,1,League
+1023631,2016/17,BBL|06,2017-01-14,WACA Ground,2,Melbourne Stars,Perth Scorchers,137,3,104,17.2,20,0,1,League
+1023633,2016/17,BBL|06,2017-01-16,Adelaide Oval,1,Melbourne Renegades,Adelaide Strikers,171,9,120,20.0,20,0,1,League
+1023633,2016/17,BBL|06,2017-01-16,Adelaide Oval,2,Adelaide Strikers,Melbourne Renegades,165,8,120,20.0,20,0,1,League
+1023635,2016/17,BBL|06,2017-01-17,Melbourne Cricket Ground,1,Melbourne Stars,Brisbane Heat,138,7,120,20.0,20,0,1,League
+1023635,2016/17,BBL|06,2017-01-17,Melbourne Cricket Ground,2,Brisbane Heat,Melbourne Stars,139,3,109,18.1,20,0,1,League
+1023637,2016/17,BBL|06,2017-01-18,Sydney Showground Stadium,1,Adelaide Strikers,Sydney Thunder,178,5,120,20.0,20,0,1,League
+1023637,2016/17,BBL|06,2017-01-18,Sydney Showground Stadium,2,Sydney Thunder,Adelaide Strikers,101,10,93,15.3,20,1,1,League
+1023639,2016/17,BBL|06,2017-01-20,The Gabba,1,Melbourne Renegades,Brisbane Heat,199,5,120,20.0,20,0,1,League
+1023639,2016/17,BBL|06,2017-01-20,The Gabba,2,Brisbane Heat,Melbourne Renegades,198,10,119,19.5,20,1,1,League
+1023641,2016/17,BBL|06,2017-01-21,Bellerive Oval,1,Hobart Hurricanes,Perth Scorchers,134,6,120,20.0,20,0,1,League
+1023641,2016/17,BBL|06,2017-01-21,Bellerive Oval,2,Perth Scorchers,Hobart Hurricanes,135,3,83,13.5,20,0,1,League
+1023643,2016/17,BBL|06,2017-01-21,Melbourne Cricket Ground,1,Melbourne Stars,Sydney Sixers,156,8,120,20.0,20,0,1,League
+1023643,2016/17,BBL|06,2017-01-21,Melbourne Cricket Ground,2,Sydney Sixers,Melbourne Stars,160,7,114,19.0,20,0,1,League
+1023645,2016/17,BBL|06,2017-01-24,WACA Ground,1,Melbourne Stars,Perth Scorchers,136,8,120,20.0,20,0,1,Semi Final
+1023645,2016/17,BBL|06,2017-01-24,WACA Ground,2,Perth Scorchers,Melbourne Stars,139,3,101,16.5,20,0,1,Semi Final
+1023647,2016/17,BBL|06,2017-01-25,The Gabba,1,Brisbane Heat,Sydney Sixers,167,9,120,20.0,20,0,1,Semi Final
+1023647,2016/17,BBL|06,2017-01-25,The Gabba,2,Sydney Sixers,Brisbane Heat,167,8,120,20.0,20,0,1,Semi Final
+1023649,2016/17,BBL|06,2017-01-28,WACA Ground,1,Sydney Sixers,Perth Scorchers,141,9,120,20.0,20,0,1,Final
+1023649,2016/17,BBL|06,2017-01-28,WACA Ground,2,Perth Scorchers,Sydney Sixers,144,1,95,15.5,20,0,1,Final
+1114856,2017/18,BBL|07,2017-12-19,Sydney Showground Stadium,1,Sydney Sixers,Sydney Thunder,149,9,120,20.0,20,0,1,League
+1114856,2017/18,BBL|07,2017-12-19,Sydney Showground Stadium,2,Sydney Thunder,Sydney Sixers,150,5,120,20.0,20,0,1,League
+1114857,2017/18,BBL|07,2017-12-20,The Gabba,1,Brisbane Heat,Melbourne Stars,206,7,120,20.0,20,0,1,League
+1114857,2017/18,BBL|07,2017-12-20,The Gabba,2,Melbourne Stars,Brisbane Heat,191,6,120,20.0,20,0,1,League
+1114858,2017/18,BBL|07,2017-12-21,Bellerive Oval,1,Hobart Hurricanes,Melbourne Renegades,164,8,120,20.0,20,0,1,League
+1114858,2017/18,BBL|07,2017-12-21,Bellerive Oval,2,Melbourne Renegades,Hobart Hurricanes,165,3,111,18.3,20,0,1,League
+1114859,2017/18,BBL|07,2017-12-22,Adelaide Oval,1,Adelaide Strikers,Sydney Thunder,163,6,120,20.0,20,0,1,League
+1114859,2017/18,BBL|07,2017-12-22,Adelaide Oval,2,Sydney Thunder,Adelaide Strikers,110,10,106,17.4,20,1,1,League
+1114860,2017/18,BBL|07,2017-12-23,Sydney Cricket Ground,1,Sydney Sixers,Perth Scorchers,132,10,112,18.4,20,1,1,League
+1114860,2017/18,BBL|07,2017-12-23,Sydney Cricket Ground,2,Perth Scorchers,Sydney Sixers,136,4,109,18.1,20,0,1,League
+1114861,2017/18,BBL|07,2017-12-23,Docklands Stadium,1,Brisbane Heat,Melbourne Renegades,132,8,120,20.0,20,0,1,League
+1114861,2017/18,BBL|07,2017-12-23,Docklands Stadium,2,Melbourne Renegades,Brisbane Heat,137,3,112,18.4,20,0,1,League
+1114862,2017/18,BBL|07,2017-12-26,WACA Ground,1,Perth Scorchers,Melbourne Stars,142,6,120,20.0,20,0,1,League
+1114862,2017/18,BBL|07,2017-12-26,WACA Ground,2,Melbourne Stars,Perth Scorchers,129,8,120,20.0,20,0,1,League
+1114863,2017/18,BBL|07,2017-12-27,The Gabba,1,Sydney Thunder,Brisbane Heat,149,4,102,17.0,20,0,1,League
+1114863,2017/18,BBL|07,2017-12-27,The Gabba,2,Brisbane Heat,Sydney Thunder,153,4,101,16.5,17,0,0,League
+1114864,2017/18,BBL|07,2017-12-28,Sydney Cricket Ground,1,Adelaide Strikers,Sydney Sixers,167,3,120,20.0,20,0,1,League
+1114864,2017/18,BBL|07,2017-12-28,Sydney Cricket Ground,2,Sydney Sixers,Adelaide Strikers,161,8,120,20.0,20,0,1,League
+1114865,2017/18,BBL|07,2017-12-29,Docklands Stadium,1,Melbourne Renegades,Perth Scorchers,130,9,120,20.0,20,0,1,League
+1114865,2017/18,BBL|07,2017-12-29,Docklands Stadium,2,Perth Scorchers,Melbourne Renegades,133,7,114,19.0,20,0,1,League
+1114866,2017/18,BBL|07,2017-12-30,York Park,1,Sydney Thunder,Hobart Hurricanes,166,5,120,20.0,20,0,1,League
+1114866,2017/18,BBL|07,2017-12-30,York Park,2,Hobart Hurricanes,Sydney Thunder,109,10,117,19.3,20,1,1,League
+1114867,2017/18,BBL|07,2017-12-31,Adelaide Oval,1,Adelaide Strikers,Brisbane Heat,147,7,120,20.0,20,0,1,League
+1114867,2017/18,BBL|07,2017-12-31,Adelaide Oval,2,Brisbane Heat,Adelaide Strikers,91,10,98,16.2,20,1,1,League
+1114868,2017/18,BBL|07,2018-01-01,Sydney Showground Stadium,1,Hobart Hurricanes,Sydney Thunder,189,3,120,20.0,20,0,1,League
+1114868,2017/18,BBL|07,2018-01-01,Sydney Showground Stadium,2,Sydney Thunder,Hobart Hurricanes,180,8,120,20.0,20,0,1,League
+1114869,2017/18,BBL|07,2018-01-01,WACA Ground,1,Sydney Sixers,Perth Scorchers,167,4,120,20.0,20,0,1,League
+1114869,2017/18,BBL|07,2018-01-01,WACA Ground,2,Perth Scorchers,Sydney Sixers,170,4,115,19.1,20,0,1,League
+1114870,2017/18,BBL|07,2018-01-02,Melbourne Cricket Ground,1,Melbourne Stars,Brisbane Heat,141,7,120,20.0,20,0,1,League
+1114870,2017/18,BBL|07,2018-01-02,Melbourne Cricket Ground,2,Brisbane Heat,Melbourne Stars,144,1,88,14.4,20,0,1,League
+1114871,2017/18,BBL|07,2018-01-03,Kardinia Park,1,Sydney Sixers,Melbourne Renegades,111,8,120,20.0,20,0,1,League
+1114871,2017/18,BBL|07,2018-01-03,Kardinia Park,2,Melbourne Renegades,Sydney Sixers,112,2,93,15.3,20,0,1,League
+1114872,2017/18,BBL|07,2018-01-04,Bellerive Oval,1,Hobart Hurricanes,Adelaide Strikers,183,5,120,20.0,20,0,1,League
+1114872,2017/18,BBL|07,2018-01-04,Bellerive Oval,2,Adelaide Strikers,Hobart Hurricanes,176,6,120,20.0,20,0,1,League
+1114873,2017/18,BBL|07,2018-01-05,The Gabba,1,Brisbane Heat,Perth Scorchers,191,6,120,20.0,20,0,1,League
+1114873,2017/18,BBL|07,2018-01-05,The Gabba,2,Perth Scorchers,Brisbane Heat,142,10,114,19.0,20,1,1,League
+1114874,2017/18,BBL|07,2018-01-06,Melbourne Cricket Ground,1,Melbourne Stars,Melbourne Renegades,157,4,120,20.0,20,0,1,League
+1114874,2017/18,BBL|07,2018-01-06,Melbourne Cricket Ground,2,Melbourne Renegades,Melbourne Stars,159,4,107,17.5,20,0,1,League
+1114875,2017/18,BBL|07,2018-01-07,Sydney Showground Stadium,1,Adelaide Strikers,Sydney Thunder,158,7,120,20.0,20,0,1,League
+1114875,2017/18,BBL|07,2018-01-07,Sydney Showground Stadium,2,Sydney Thunder,Adelaide Strikers,133,9,120,20.0,20,0,1,League
+1114876,2017/18,BBL|07,2018-01-08,Bellerive Oval,1,Hobart Hurricanes,Sydney Sixers,170,6,120,20.0,20,0,1,League
+1114876,2017/18,BBL|07,2018-01-08,Bellerive Oval,2,Sydney Sixers,Hobart Hurricanes,165,4,120,20.0,20,0,1,League
+1114877,2017/18,BBL|07,2018-01-08,WACA Ground,1,Melbourne Renegades,Perth Scorchers,185,3,120,20.0,20,0,1,League
+1114877,2017/18,BBL|07,2018-01-08,WACA Ground,2,Perth Scorchers,Melbourne Renegades,186,5,119,19.5,20,0,1,League
+1114878,2017/18,BBL|07,2018-01-09,Adelaide Oval,1,Melbourne Stars,Adelaide Strikers,151,6,120,20.0,20,0,1,League
+1114878,2017/18,BBL|07,2018-01-09,Adelaide Oval,2,Adelaide Strikers,Melbourne Stars,152,2,112,18.4,20,0,1,League
+1114879,2017/18,BBL|07,2018-01-10,The Gabba,1,Hobart Hurricanes,Brisbane Heat,179,4,120,20.0,20,0,1,League
+1114879,2017/18,BBL|07,2018-01-10,The Gabba,2,Brisbane Heat,Hobart Hurricanes,176,8,120,20.0,20,0,1,League
+1114880,2017/18,BBL|07,2018-01-11,Sydney Showground Stadium,1,Sydney Thunder,Perth Scorchers,175,4,120,20.0,20,0,1,League
+1114880,2017/18,BBL|07,2018-01-11,Sydney Showground Stadium,2,Perth Scorchers,Sydney Thunder,172,4,120,20.0,20,0,1,League
+1114881,2017/18,BBL|07,2018-01-12,Docklands Stadium,1,Melbourne Stars,Melbourne Renegades,167,4,120,20.0,20,0,1,League
+1114881,2017/18,BBL|07,2018-01-12,Docklands Stadium,2,Melbourne Renegades,Melbourne Stars,144,9,120,20.0,20,0,1,League
+1114882,2017/18,BBL|07,2018-01-13,Traeger Park,1,Adelaide Strikers,Perth Scorchers,112,10,116,19.2,20,1,1,League
+1114882,2017/18,BBL|07,2018-01-13,Traeger Park,2,Perth Scorchers,Adelaide Strikers,114,4,110,18.2,20,0,1,League
+1114883,2017/18,BBL|07,2018-01-13,Sydney Cricket Ground,1,Sydney Thunder,Sydney Sixers,156,6,120,20.0,20,0,1,League
+1114883,2017/18,BBL|07,2018-01-13,Sydney Cricket Ground,2,Sydney Sixers,Sydney Thunder,157,2,120,20.0,20,0,1,League
+1114884,2017/18,BBL|07,2018-01-15,Bellerive Oval,1,Brisbane Heat,Hobart Hurricanes,165,8,120,20.0,20,0,1,League
+1114884,2017/18,BBL|07,2018-01-15,Bellerive Oval,2,Hobart Hurricanes,Brisbane Heat,166,4,110,18.2,20,0,1,League
+1114885,2017/18,BBL|07,2018-01-16,Melbourne Cricket Ground,1,Melbourne Stars,Sydney Sixers,128,7,120,20.0,20,0,1,League
+1114885,2017/18,BBL|07,2018-01-16,Melbourne Cricket Ground,2,Sydney Sixers,Melbourne Stars,129,2,91,15.1,20,0,1,League
+1114886,2017/18,BBL|07,2018-01-17,Adelaide Oval,1,Adelaide Strikers,Hobart Hurricanes,187,4,120,20.0,20,0,1,League
+1114886,2017/18,BBL|07,2018-01-17,Adelaide Oval,2,Hobart Hurricanes,Adelaide Strikers,176,4,120,20.0,20,0,1,League
+1114887,2017/18,BBL|07,2018-01-18,Sydney Cricket Ground,1,Brisbane Heat,Sydney Sixers,73,10,100,16.4,20,1,1,League
+1114887,2017/18,BBL|07,2018-01-18,Sydney Cricket Ground,2,Sydney Sixers,Brisbane Heat,74,1,60,10.0,20,0,1,League
+1114888,2017/18,BBL|07,2018-01-20,Melbourne Cricket Ground,1,Melbourne Stars,Sydney Thunder,147,6,120,20.0,20,0,1,League
+1114888,2017/18,BBL|07,2018-01-20,Melbourne Cricket Ground,2,Sydney Thunder,Melbourne Stars,149,3,97,16.1,20,0,1,League
+1114889,2017/18,BBL|07,2018-01-20,WACA Ground,1,Hobart Hurricanes,Perth Scorchers,167,5,120,20.0,20,0,1,League
+1114889,2017/18,BBL|07,2018-01-20,WACA Ground,2,Perth Scorchers,Hobart Hurricanes,168,5,116,19.2,20,0,1,League
+1114890,2017/18,BBL|07,2018-01-22,Docklands Stadium,1,Adelaide Strikers,Melbourne Renegades,173,5,120,20.0,20,0,1,League
+1114890,2017/18,BBL|07,2018-01-22,Docklands Stadium,2,Melbourne Renegades,Adelaide Strikers,147,7,120,20.0,20,0,1,League
+1114891,2017/18,BBL|07,2018-01-23,Sydney Cricket Ground,1,Melbourne Stars,Sydney Sixers,189,5,120,20.0,20,0,1,League
+1114891,2017/18,BBL|07,2018-01-23,Sydney Cricket Ground,2,Sydney Sixers,Melbourne Stars,190,5,105,17.3,20,0,1,League
+1114892,2017/18,BBL|07,2018-01-24,Manuka Oval,1,Melbourne Renegades,Sydney Thunder,189,6,120,20.0,20,0,1,League
+1114892,2017/18,BBL|07,2018-01-24,Manuka Oval,2,Sydney Thunder,Melbourne Renegades,180,10,120,20.0,20,1,1,League
+1114893,2017/18,BBL|07,2018-01-25,WACA Ground,1,Adelaide Strikers,Perth Scorchers,137,6,120,20.0,20,0,1,League
+1114893,2017/18,BBL|07,2018-01-25,WACA Ground,2,Perth Scorchers,Adelaide Strikers,141,6,117,19.3,20,0,1,League
+1114894,2017/18,BBL|07,2018-01-27,Melbourne Cricket Ground,1,Hobart Hurricanes,Melbourne Stars,185,7,120,20.0,20,0,1,League
+1114894,2017/18,BBL|07,2018-01-27,Melbourne Cricket Ground,2,Melbourne Stars,Hobart Hurricanes,186,7,115,19.1,20,0,1,League
+1114895,2017/18,BBL|07,2018-01-27,The Gabba,1,Melbourne Renegades,Brisbane Heat,187,3,120,20.0,20,0,1,League
+1114895,2017/18,BBL|07,2018-01-27,The Gabba,2,Brisbane Heat,Melbourne Renegades,161,10,119,19.5,20,1,1,League
+1114896,2017/18,BBL|07,2018-02-01,Perth Stadium,1,Hobart Hurricanes,Perth Scorchers,210,4,120,20.0,20,0,1,Semi Final
+1114896,2017/18,BBL|07,2018-02-01,Perth Stadium,2,Perth Scorchers,Hobart Hurricanes,139,10,107,17.5,20,1,1,Semi Final
+1114897,2017/18,BBL|07,2018-02-02,Adelaide Oval,1,Adelaide Strikers,Melbourne Renegades,178,5,120,20.0,20,0,1,Semi Final
+1114897,2017/18,BBL|07,2018-02-02,Adelaide Oval,2,Melbourne Renegades,Adelaide Strikers,177,4,120,20.0,20,0,1,Semi Final
+1114898,2017/18,BBL|07,2018-02-04,Adelaide Oval,1,Adelaide Strikers,Hobart Hurricanes,202,2,120,20.0,20,0,1,Final
+1114898,2017/18,BBL|07,2018-02-04,Adelaide Oval,2,Hobart Hurricanes,Adelaide Strikers,177,5,120,20.0,20,0,1,Final
+1152511,2018/19,BBL|08,2018-12-19,The Gabba,1,Brisbane Heat,Adelaide Strikers,146,10,118,19.4,20,1,1,League
+1152511,2018/19,BBL|08,2018-12-19,The Gabba,2,Adelaide Strikers,Brisbane Heat,147,5,115,19.1,20,0,1,League
+1152512,2018/19,BBL|08,2018-12-20,Docklands Stadium,1,Perth Scorchers,Melbourne Renegades,103,10,114,19.0,20,1,1,League
+1152512,2018/19,BBL|08,2018-12-20,Docklands Stadium,2,Melbourne Renegades,Perth Scorchers,107,6,92,15.2,20,0,1,League
+1152513,2018/19,BBL|08,2018-12-21,Manuka Oval,1,Sydney Thunder,Melbourne Stars,181,5,120,20.0,20,0,1,League
+1152513,2018/19,BBL|08,2018-12-21,Manuka Oval,2,Melbourne Stars,Sydney Thunder,74,6,48,8.0,8,0,0,League
+1152514,2018/19,BBL|08,2018-12-22,Sydney Cricket Ground,1,Sydney Sixers,Perth Scorchers,164,4,120,20.0,20,0,1,League
+1152514,2018/19,BBL|08,2018-12-22,Sydney Cricket Ground,2,Perth Scorchers,Sydney Sixers,147,8,120,20.0,20,0,1,League
+1152515,2018/19,BBL|08,2018-12-22,Carrara Oval,1,Hobart Hurricanes,Brisbane Heat,159,6,114,19.0,20,0,1,League
+1152515,2018/19,BBL|08,2018-12-22,Carrara Oval,2,Brisbane Heat,Hobart Hurricanes,144,10,112,18.4,19,1,0,League
+1152516,2018/19,BBL|08,2018-12-23,Adelaide Oval,1,Adelaide Strikers,Melbourne Renegades,174,5,120,20.0,20,0,1,League
+1152516,2018/19,BBL|08,2018-12-23,Adelaide Oval,2,Melbourne Renegades,Adelaide Strikers,176,5,115,19.1,20,0,1,League
+1152517,2018/19,BBL|08,2018-12-24,Bellerive Oval,1,Melbourne Stars,Hobart Hurricanes,155,5,120,20.0,20,0,1,League
+1152517,2018/19,BBL|08,2018-12-24,Bellerive Oval,2,Hobart Hurricanes,Melbourne Stars,156,4,112,18.4,20,0,1,League
+1152518,2018/19,BBL|08,2018-12-24,Sydney Showground Stadium,1,Sydney Thunder,Sydney Sixers,169,9,120,20.0,20,0,1,League
+1152518,2018/19,BBL|08,2018-12-24,Sydney Showground Stadium,2,Sydney Sixers,Sydney Thunder,148,9,120,20.0,20,0,1,League
+1152519,2018/19,BBL|08,2018-12-26,Perth Stadium,1,Adelaide Strikers,Perth Scorchers,88,10,104,17.2,20,1,1,League
+1152519,2018/19,BBL|08,2018-12-26,Perth Stadium,2,Perth Scorchers,Adelaide Strikers,92,3,108,18.0,20,0,1,League
+1152520,2018/19,BBL|08,2018-12-27,Sydney Cricket Ground,1,Sydney Sixers,Melbourne Stars,130,9,120,20.0,20,0,1,League
+1152520,2018/19,BBL|08,2018-12-27,Sydney Cricket Ground,2,Melbourne Stars,Sydney Sixers,132,5,89,14.5,20,0,1,League
+1152521,2018/19,BBL|08,2018-12-28,Bellerive Oval,1,Sydney Thunder,Hobart Hurricanes,193,6,120,20.0,20,0,1,League
+1152521,2018/19,BBL|08,2018-12-28,Bellerive Oval,2,Hobart Hurricanes,Sydney Thunder,196,3,115,19.1,20,0,1,League
+1152522,2018/19,BBL|08,2018-12-29,Docklands Stadium,1,Sydney Sixers,Melbourne Renegades,132,7,120,20.0,20,0,1,League
+1152522,2018/19,BBL|08,2018-12-29,Docklands Stadium,2,Melbourne Renegades,Sydney Sixers,99,9,120,20.0,20,0,1,League
+1152523,2018/19,BBL|08,2018-12-30,York Park,1,Perth Scorchers,Hobart Hurricanes,107,8,120,20.0,20,0,1,League
+1152523,2018/19,BBL|08,2018-12-30,York Park,2,Hobart Hurricanes,Perth Scorchers,110,4,105,17.3,20,0,1,League
+1152524,2018/19,BBL|08,2018-12-31,Adelaide Oval,1,Adelaide Strikers,Sydney Thunder,175,4,120,20.0,20,0,1,League
+1152524,2018/19,BBL|08,2018-12-31,Adelaide Oval,2,Sydney Thunder,Adelaide Strikers,155,6,120,20.0,20,0,1,League
+1152525,2018/19,BBL|08,2019-01-01,Carrara Oval,1,Brisbane Heat,Sydney Sixers,164,7,120,20.0,20,0,1,League
+1152525,2018/19,BBL|08,2019-01-01,Carrara Oval,2,Sydney Sixers,Brisbane Heat,165,5,117,19.3,20,0,1,League
+1152526,2018/19,BBL|08,2019-01-01,Melbourne Cricket Ground,1,Melbourne Renegades,Melbourne Stars,148,9,120,20.0,20,0,1,League
+1152526,2018/19,BBL|08,2019-01-01,Melbourne Cricket Ground,2,Melbourne Stars,Melbourne Renegades,151,3,107,17.5,20,0,1,League
+1152527,2018/19,BBL|08,2019-01-02,Sydney Showground Stadium,1,Sydney Thunder,Perth Scorchers,142,6,120,20.0,20,0,1,League
+1152527,2018/19,BBL|08,2019-01-02,Sydney Showground Stadium,2,Perth Scorchers,Sydney Thunder,141,5,120,20.0,20,0,1,League
+1152528,2018/19,BBL|08,2019-01-03,Kardinia Park,1,Adelaide Strikers,Melbourne Renegades,158,6,120,20.0,20,0,1,League
+1152528,2018/19,BBL|08,2019-01-03,Kardinia Park,2,Melbourne Renegades,Adelaide Strikers,126,9,120,20.0,20,0,1,League
+1152529,2018/19,BBL|08,2019-01-04,Bellerive Oval,1,Sydney Sixers,Hobart Hurricanes,161,8,120,20.0,20,0,1,League
+1152529,2018/19,BBL|08,2019-01-04,Bellerive Oval,2,Hobart Hurricanes,Sydney Sixers,162,5,119,19.5,20,0,1,League
+1152530,2018/19,BBL|08,2019-01-05,Carrara Oval,1,Sydney Thunder,Melbourne Stars,135,8,120,20.0,20,0,1,League
+1152530,2018/19,BBL|08,2019-01-05,Carrara Oval,2,Melbourne Stars,Sydney Thunder,137,2,104,17.2,20,0,1,League
+1152531,2018/19,BBL|08,2019-01-05,Perth Stadium,1,Perth Scorchers,Brisbane Heat,135,6,120,20.0,20,0,1,League
+1152531,2018/19,BBL|08,2019-01-05,Perth Stadium,2,Brisbane Heat,Perth Scorchers,139,5,110,18.2,20,0,1,League
+1152532,2018/19,BBL|08,2019-01-06,Adelaide Oval,1,Adelaide Strikers,Sydney Sixers,150,5,120,20.0,20,0,1,League
+1152532,2018/19,BBL|08,2019-01-06,Adelaide Oval,2,Sydney Sixers,Adelaide Strikers,152,4,110,18.2,20,0,1,League
+1152533,2018/19,BBL|08,2019-01-07,Docklands Stadium,1,Hobart Hurricanes,Melbourne Renegades,145,5,120,20.0,20,0,1,League
+1152533,2018/19,BBL|08,2019-01-07,Docklands Stadium,2,Melbourne Renegades,Hobart Hurricanes,150,4,116,19.2,20,0,1,League
+1152534,2018/19,BBL|08,2019-01-08,Sydney Showground Stadium,1,Brisbane Heat,Sydney Thunder,186,8,120,20.0,20,0,1,League
+1152534,2018/19,BBL|08,2019-01-08,Sydney Showground Stadium,2,Sydney Thunder,Brisbane Heat,34,2,33,5.3,5.3,0,0,League
+1152535,2018/19,BBL|08,2019-01-09,Melbourne Cricket Ground,1,Melbourne Stars,Perth Scorchers,146,6,120,20.0,20,0,1,League
+1152535,2018/19,BBL|08,2019-01-09,Melbourne Cricket Ground,2,Perth Scorchers,Melbourne Stars,147,4,106,17.4,20,0,1,League
+1152536,2018/19,BBL|08,2019-01-10,The Gabba,1,Brisbane Heat,Melbourne Renegades,144,8,120,20.0,20,0,1,League
+1152536,2018/19,BBL|08,2019-01-10,The Gabba,2,Melbourne Renegades,Brisbane Heat,145,2,94,15.4,20,0,1,League
+1152537,2018/19,BBL|08,2019-01-11,Adelaide Oval,1,Adelaide Strikers,Melbourne Stars,178,5,120,20.0,20,0,1,League
+1152537,2018/19,BBL|08,2019-01-11,Adelaide Oval,2,Melbourne Stars,Adelaide Strikers,137,10,116,19.2,20,1,1,League
+1152538,2018/19,BBL|08,2019-01-13,Sydney Showground Stadium,1,Sydney Thunder,Adelaide Strikers,168,6,120,20.0,20,0,1,League
+1152538,2018/19,BBL|08,2019-01-13,Sydney Showground Stadium,2,Adelaide Strikers,Sydney Thunder,97,10,106,17.4,20,1,1,League
+1152539,2018/19,BBL|08,2019-01-13,Kardinia Park,1,Brisbane Heat,Melbourne Renegades,192,4,120,20.0,20,0,1,League
+1152539,2018/19,BBL|08,2019-01-13,Kardinia Park,2,Melbourne Renegades,Brisbane Heat,91,10,107,17.5,20,1,1,League
+1152540,2018/19,BBL|08,2019-01-13,Perth Stadium,1,Sydney Sixers,Perth Scorchers,177,5,120,20.0,20,0,1,League
+1152540,2018/19,BBL|08,2019-01-13,Perth Stadium,2,Perth Scorchers,Sydney Sixers,178,3,114,19.0,20,0,1,League
+1152541,2018/19,BBL|08,2019-01-14,Melbourne Cricket Ground,1,Hobart Hurricanes,Melbourne Stars,185,2,120,20.0,20,0,1,League
+1152541,2018/19,BBL|08,2019-01-14,Melbourne Cricket Ground,2,Melbourne Stars,Hobart Hurricanes,126,10,103,17.1,20,1,1,League
+1152542,2018/19,BBL|08,2019-01-16,Sydney Cricket Ground,1,Sydney Sixers,Melbourne Renegades,115,9,120,20.0,20,0,1,League
+1152542,2018/19,BBL|08,2019-01-16,Sydney Cricket Ground,2,Melbourne Renegades,Sydney Sixers,116,3,78,13.0,20,0,1,League
+1152543,2018/19,BBL|08,2019-01-17,The Gabba,1,Sydney Thunder,Brisbane Heat,186,4,120,20.0,20,0,1,League
+1152543,2018/19,BBL|08,2019-01-17,The Gabba,2,Brisbane Heat,Sydney Thunder,10,2,18,3.0,20,0,1,League
+1152544,2018/19,BBL|08,2019-01-18,Perth Stadium,1,Perth Scorchers,Hobart Hurricanes,177,9,120,20.0,20,0,1,League
+1152544,2018/19,BBL|08,2019-01-18,Perth Stadium,2,Hobart Hurricanes,Perth Scorchers,178,6,117,19.3,20,0,1,League
+1152545,2018/19,BBL|08,2019-01-19,Docklands Stadium,1,Melbourne Renegades,Melbourne Stars,121,10,117,19.3,20,1,1,League
+1152545,2018/19,BBL|08,2019-01-19,Docklands Stadium,2,Melbourne Stars,Melbourne Renegades,124,4,116,19.2,20,0,1,League
+1152546,2018/19,BBL|08,2019-01-20,Sydney Cricket Ground,1,Sydney Sixers,Brisbane Heat,177,7,120,20.0,20,0,1,League
+1152546,2018/19,BBL|08,2019-01-20,Sydney Cricket Ground,2,Brisbane Heat,Sydney Sixers,98,10,109,18.1,20,1,1,League
+1152547,2018/19,BBL|08,2019-01-21,Adelaide Oval,1,Adelaide Strikers,Hobart Hurricanes,154,5,120,20.0,20,0,1,League
+1152547,2018/19,BBL|08,2019-01-21,Adelaide Oval,2,Hobart Hurricanes,Adelaide Strikers,158,0,101,16.5,20,0,1,League
+1152548,2018/19,BBL|08,2019-01-22,Sydney Showground Stadium,1,Melbourne Renegades,Sydney Thunder,152,9,120,20.0,20,0,1,League
+1152548,2018/19,BBL|08,2019-01-22,Sydney Showground Stadium,2,Sydney Thunder,Melbourne Renegades,140,5,120,20.0,20,0,1,League
+1152549,2018/19,BBL|08,2019-01-23,Ted Summerton Reserve,1,Melbourne Stars,Adelaide Strikers,167,2,120,20.0,20,0,1,League
+1152549,2018/19,BBL|08,2019-01-23,Ted Summerton Reserve,2,Adelaide Strikers,Melbourne Stars,123,10,118,19.4,20,1,1,League
+1152550,2018/19,BBL|08,2019-01-23,Sydney Cricket Ground,1,Hobart Hurricanes,Sydney Sixers,172,4,120,20.0,20,0,1,League
+1152550,2018/19,BBL|08,2019-01-23,Sydney Cricket Ground,2,Sydney Sixers,Hobart Hurricanes,173,1,103,17.1,20,0,1,League
+1152551,2018/19,BBL|08,2019-01-24,Perth Stadium,1,Perth Scorchers,Sydney Thunder,181,4,120,20.0,20,0,1,League
+1152551,2018/19,BBL|08,2019-01-24,Perth Stadium,2,Sydney Thunder,Perth Scorchers,182,4,116,19.2,20,0,1,League
+1152552,2018/19,BBL|08,2019-01-27,Melbourne Cricket Ground,1,Melbourne Stars,Brisbane Heat,134,8,120,20.0,20,0,1,League
+1152552,2018/19,BBL|08,2019-01-27,Melbourne Cricket Ground,2,Brisbane Heat,Melbourne Stars,129,8,120,20.0,20,0,1,League
+1152553,2018/19,BBL|08,2019-01-28,Perth Stadium,1,Melbourne Renegades,Perth Scorchers,157,5,120,20.0,20,0,1,League
+1152553,2018/19,BBL|08,2019-01-28,Perth Stadium,2,Perth Scorchers,Melbourne Renegades,79,10,96,16.0,20,1,1,League
+1152554,2018/19,BBL|08,2019-01-29,Bellerive Oval,1,Brisbane Heat,Hobart Hurricanes,145,6,120,20.0,20,0,1,League
+1152554,2018/19,BBL|08,2019-01-29,Bellerive Oval,2,Hobart Hurricanes,Brisbane Heat,146,1,86,14.2,20,0,1,League
+1152555,2018/19,BBL|08,2019-01-29,Sydney Cricket Ground,1,Adelaide Strikers,Sydney Sixers,124,8,120,20.0,20,0,1,League
+1152555,2018/19,BBL|08,2019-01-29,Sydney Cricket Ground,2,Sydney Sixers,Adelaide Strikers,130,2,85,14.1,20,0,1,League
+1152556,2018/19,BBL|08,2019-01-30,Docklands Stadium,1,Melbourne Renegades,Sydney Thunder,140,7,120,20.0,20,0,1,League
+1152556,2018/19,BBL|08,2019-01-30,Docklands Stadium,2,Sydney Thunder,Melbourne Renegades,113,10,115,19.1,20,1,1,League
+1152557,2018/19,BBL|08,2019-01-31,York Park,1,Hobart Hurricanes,Adelaide Strikers,169,7,120,20.0,20,0,1,League
+1152557,2018/19,BBL|08,2019-01-31,York Park,2,Adelaide Strikers,Hobart Hurricanes,170,3,107,17.5,20,0,1,League
+1152558,2018/19,BBL|08,2019-02-01,The Gabba,1,Perth Scorchers,Brisbane Heat,128,9,120,20.0,20,0,1,League
+1152558,2018/19,BBL|08,2019-02-01,The Gabba,2,Brisbane Heat,Perth Scorchers,130,4,105,17.3,20,0,1,League
+1152559,2018/19,BBL|08,2019-02-02,Sydney Cricket Ground,1,Sydney Thunder,Sydney Sixers,128,6,120,20.0,20,0,1,League
+1152559,2018/19,BBL|08,2019-02-02,Sydney Cricket Ground,2,Sydney Sixers,Sydney Thunder,85,1,63,10.3,12,0,0,League
+1152560,2018/19,BBL|08,2019-02-03,Adelaide Oval,1,Adelaide Strikers,Brisbane Heat,176,8,120,20.0,20,0,1,League
+1152560,2018/19,BBL|08,2019-02-03,Adelaide Oval,2,Brisbane Heat,Adelaide Strikers,180,4,112,18.4,20,0,1,League
+1152561,2018/19,BBL|08,2019-02-03,Perth Stadium,1,Perth Scorchers,Melbourne Stars,182,3,120,20.0,20,0,1,League
+1152561,2018/19,BBL|08,2019-02-03,Perth Stadium,2,Melbourne Stars,Perth Scorchers,155,9,120,20.0,20,0,1,League
+1152562,2018/19,BBL|08,2019-02-07,Bellerive Oval,1,Hobart Hurricanes,Melbourne Renegades,183,6,120,20.0,20,0,1,League
+1152562,2018/19,BBL|08,2019-02-07,Bellerive Oval,2,Melbourne Renegades,Hobart Hurricanes,167,8,120,20.0,20,0,1,League
+1152563,2018/19,BBL|08,2019-02-08,The Gabba,1,Melbourne Stars,Brisbane Heat,156,8,120,20.0,20,0,1,League
+1152563,2018/19,BBL|08,2019-02-08,The Gabba,2,Brisbane Heat,Melbourne Stars,158,0,60,10.0,20,0,1,League
+1152564,2018/19,BBL|08,2019-02-09,Adelaide Oval,1,Perth Scorchers,Adelaide Strikers,174,6,120,20.0,20,0,1,League
+1152564,2018/19,BBL|08,2019-02-09,Adelaide Oval,2,Adelaide Strikers,Perth Scorchers,175,5,116,19.2,20,0,1,League
+1152565,2018/19,BBL|08,2019-02-09,Manuka Oval,1,Hobart Hurricanes,Sydney Thunder,165,4,114,19.0,20,0,1,League
+1152565,2018/19,BBL|08,2019-02-09,Manuka Oval,2,Sydney Thunder,Hobart Hurricanes,166,6,110,18.2,19,0,0,League
+1152566,2018/19,BBL|08,2019-02-10,Melbourne Cricket Ground,1,Melbourne Stars,Sydney Sixers,168,6,120,20.0,20,0,1,League
+1152566,2018/19,BBL|08,2019-02-10,Melbourne Cricket Ground,2,Sydney Sixers,Melbourne Stars,74,10,82,13.4,20,1,1,League
+1152567,2018/19,BBL|08,2019-02-14,Bellerive Oval,1,Hobart Hurricanes,Melbourne Stars,153,7,120,20.0,20,0,1,Semi Final
+1152567,2018/19,BBL|08,2019-02-14,Bellerive Oval,2,Melbourne Stars,Hobart Hurricanes,157,4,113,18.5,20,0,1,Semi Final
+1152568,2018/19,BBL|08,2019-02-15,Docklands Stadium,1,Sydney Sixers,Melbourne Renegades,180,3,120,20.0,20,0,1,Semi Final
+1152568,2018/19,BBL|08,2019-02-15,Docklands Stadium,2,Melbourne Renegades,Sydney Sixers,184,7,119,19.5,20,0,1,Semi Final
+1152569,2018/19,BBL|08,2019-02-17,Docklands Stadium,1,Melbourne Renegades,Melbourne Stars,145,5,120,20.0,20,0,1,Final
+1152569,2018/19,BBL|08,2019-02-17,Docklands Stadium,2,Melbourne Stars,Melbourne Renegades,132,7,120,20.0,20,0,1,Final
+1195573,2019/20,BBL|09,2019-12-17,The Gabba,1,Sydney Thunder,Brisbane Heat,172,6,120,20.0,20,0,1,League
+1195573,2019/20,BBL|09,2019-12-17,The Gabba,2,Brisbane Heat,Sydney Thunder,143,10,116,19.2,20,1,1,League
+1195574,2019/20,BBL|09,2019-12-18,Sydney Cricket Ground,1,Perth Scorchers,Sydney Sixers,131,10,120,20.0,20,1,1,League
+1195574,2019/20,BBL|09,2019-12-18,Sydney Cricket Ground,2,Sydney Sixers,Perth Scorchers,137,2,90,15.0,20,0,1,League
+1195575,2019/20,BBL|09,2019-12-19,Kardinia Park,1,Melbourne Renegades,Sydney Thunder,169,5,120,20.0,20,0,1,League
+1195575,2019/20,BBL|09,2019-12-19,Kardinia Park,2,Sydney Thunder,Melbourne Renegades,171,4,118,19.4,20,0,1,League
+1195576,2019/20,BBL|09,2019-12-20,Traeger Park,1,Hobart Hurricanes,Sydney Sixers,129,9,120,20.0,20,0,1,League
+1195576,2019/20,BBL|09,2019-12-20,Traeger Park,2,Sydney Sixers,Hobart Hurricanes,104,10,113,18.5,20,1,1,League
+1195577,2019/20,BBL|09,2019-12-20,Carrara Oval,1,Melbourne Stars,Brisbane Heat,167,7,120,20.0,20,0,1,League
+1195577,2019/20,BBL|09,2019-12-20,Carrara Oval,2,Brisbane Heat,Melbourne Stars,145,8,120,20.0,20,0,1,League
+1195578,2019/20,BBL|09,2019-12-21,Manuka Oval,1,Adelaide Strikers,Sydney Thunder,161,5,120,20.0,20,0,1,League
+1195578,2019/20,BBL|09,2019-12-21,Manuka Oval,2,Sydney Thunder,Adelaide Strikers,40,1,26,4.2,20,0,1,League
+1195579,2019/20,BBL|09,2019-12-21,Perth Stadium,1,Perth Scorchers,Melbourne Renegades,196,7,120,20.0,20,0,1,League
+1195579,2019/20,BBL|09,2019-12-21,Perth Stadium,2,Melbourne Renegades,Perth Scorchers,185,6,120,20.0,20,0,1,League
+1195580,2019/20,BBL|09,2019-12-22,Ted Summerton Reserve,1,Melbourne Stars,Hobart Hurricanes,163,4,120,20.0,20,0,1,League
+1195580,2019/20,BBL|09,2019-12-22,Ted Summerton Reserve,2,Hobart Hurricanes,Melbourne Stars,111,10,96,16.0,20,1,1,League
+1195581,2019/20,BBL|09,2019-12-22,Sydney Cricket Ground,1,Brisbane Heat,Sydney Sixers,209,4,120,20.0,20,0,1,League
+1195581,2019/20,BBL|09,2019-12-22,Sydney Cricket Ground,2,Sydney Sixers,Brisbane Heat,161,7,120,20.0,20,0,1,League
+1195582,2019/20,BBL|09,2019-12-23,Adelaide Oval,1,Adelaide Strikers,Perth Scorchers,198,4,108,18.0,20,0,1,League
+1195582,2019/20,BBL|09,2019-12-23,Adelaide Oval,2,Perth Scorchers,Adelaide Strikers,183,7,108,18.0,18,0,0,League
+1195583,2019/20,BBL|09,2019-12-24,Bellerive Oval,1,Melbourne Renegades,Hobart Hurricanes,147,10,115,19.1,20,1,1,League
+1195583,2019/20,BBL|09,2019-12-24,Bellerive Oval,2,Hobart Hurricanes,Melbourne Renegades,148,3,115,19.1,20,0,1,League
+1195584,2019/20,BBL|09,2019-12-26,Perth Stadium,1,Sydney Sixers,Perth Scorchers,174,7,120,20.0,20,0,1,League
+1195584,2019/20,BBL|09,2019-12-26,Perth Stadium,2,Perth Scorchers,Sydney Sixers,126,10,109,18.1,20,1,1,League
+1195585,2019/20,BBL|09,2019-12-27,Carrara Oval,1,Adelaide Strikers,Melbourne Stars,174,4,120,20.0,20,0,1,League
+1195585,2019/20,BBL|09,2019-12-27,Carrara Oval,2,Melbourne Stars,Adelaide Strikers,169,6,120,20.0,20,0,1,League
+1195586,2019/20,BBL|09,2019-12-28,Sydney Cricket Ground,1,Sydney Thunder,Sydney Sixers,149,8,120,20.0,20,0,1,League
+1195586,2019/20,BBL|09,2019-12-28,Sydney Cricket Ground,2,Sydney Sixers,Sydney Thunder,149,7,120,20.0,20,0,1,League
+1195587,2019/20,BBL|09,2019-12-29,Docklands Stadium,1,Adelaide Strikers,Melbourne Renegades,155,6,120,20.0,20,0,1,League
+1195587,2019/20,BBL|09,2019-12-29,Docklands Stadium,2,Melbourne Renegades,Adelaide Strikers,137,8,120,20.0,20,0,1,League
+1195588,2019/20,BBL|09,2019-12-30,York Park,1,Hobart Hurricanes,Melbourne Stars,69,5,66,11.0,20,0,1,League
+1195588,2019/20,BBL|09,2019-12-30,York Park,2,Melbourne Stars,Hobart Hurricanes,55,3,45,7.3,7.3,0,0,League
+1195589,2019/20,BBL|09,2019-12-31,Adelaide Oval,1,Sydney Thunder,Adelaide Strikers,168,5,120,20.0,20,0,1,League
+1195589,2019/20,BBL|09,2019-12-31,Adelaide Oval,2,Adelaide Strikers,Sydney Thunder,165,9,120,20.0,20,0,1,League
+1195590,2019/20,BBL|09,2020-01-01,Carrara Oval,1,Perth Scorchers,Brisbane Heat,149,6,120,20.0,20,0,1,League
+1195590,2019/20,BBL|09,2020-01-01,Carrara Oval,2,Brisbane Heat,Perth Scorchers,109,10,112,18.4,20,1,1,League
+1195591,2019/20,BBL|09,2020-01-02,Sydney Showground Stadium,1,Sydney Thunder,Melbourne Stars,142,7,120,20.0,20,0,1,League
+1195591,2019/20,BBL|09,2020-01-02,Sydney Showground Stadium,2,Melbourne Stars,Sydney Thunder,143,7,118,19.4,20,0,1,League
+1195592,2019/20,BBL|09,2020-01-02,Docklands Stadium,1,Melbourne Renegades,Sydney Sixers,153,6,120,20.0,20,0,1,League
+1195592,2019/20,BBL|09,2020-01-02,Docklands Stadium,2,Sydney Sixers,Melbourne Renegades,154,4,119,19.5,20,0,1,League
+1195593,2019/20,BBL|09,2020-01-03,Bellerive Oval,1,Brisbane Heat,Hobart Hurricanes,212,3,120,20.0,20,0,1,League
+1195593,2019/20,BBL|09,2020-01-03,Bellerive Oval,2,Hobart Hurricanes,Brisbane Heat,181,9,120,20.0,20,0,1,League
+1195594,2019/20,BBL|09,2020-01-04,Melbourne Cricket Ground,1,Melbourne Renegades,Melbourne Stars,142,9,120,20.0,20,0,1,League
+1195594,2019/20,BBL|09,2020-01-04,Melbourne Cricket Ground,2,Melbourne Stars,Melbourne Renegades,143,2,113,18.5,20,0,1,League
+1195595,2019/20,BBL|09,2020-01-05,C.ex Coffs International Stadium,1,Adelaide Strikers,Sydney Sixers,176,6,120,20.0,20,0,1,League
+1195595,2019/20,BBL|09,2020-01-05,C.ex Coffs International Stadium,2,Sydney Sixers,Adelaide Strikers,180,3,117,19.3,20,0,1,League
+1195596,2019/20,BBL|09,2020-01-05,Perth Stadium,1,Hobart Hurricanes,Perth Scorchers,180,2,120,20.0,20,0,1,League
+1195596,2019/20,BBL|09,2020-01-05,Perth Stadium,2,Perth Scorchers,Hobart Hurricanes,172,8,120,20.0,20,0,1,League
+1195597,2019/20,BBL|09,2020-01-06,Sydney Showground Stadium,1,Brisbane Heat,Sydney Thunder,119,4,48,8.0,20,0,1,League
+1195597,2019/20,BBL|09,2020-01-06,Sydney Showground Stadium,2,Sydney Thunder,Brisbane Heat,60,4,30,5.0,5,0,0,League
+1195598,2019/20,BBL|09,2020-01-07,Kardinia Park,1,Melbourne Renegades,Perth Scorchers,175,5,120,20.0,20,0,1,League
+1195598,2019/20,BBL|09,2020-01-07,Kardinia Park,2,Perth Scorchers,Melbourne Renegades,178,4,114,19.0,20,0,1,League
+1195599,2019/20,BBL|09,2020-01-08,Adelaide Oval,1,Adelaide Strikers,Sydney Sixers,135,10,118,19.4,20,1,1,League
+1195599,2019/20,BBL|09,2020-01-08,Adelaide Oval,2,Sydney Sixers,Adelaide Strikers,137,8,112,18.4,20,0,1,League
+1195600,2019/20,BBL|09,2020-01-08,Melbourne Cricket Ground,1,Sydney Thunder,Melbourne Stars,145,5,120,20.0,20,0,1,League
+1195600,2019/20,BBL|09,2020-01-08,Melbourne Cricket Ground,2,Melbourne Stars,Sydney Thunder,148,4,107,17.5,20,0,1,League
+1195601,2019/20,BBL|09,2020-01-09,The Gabba,1,Hobart Hurricanes,Brisbane Heat,126,9,120,20.0,20,0,1,League
+1195601,2019/20,BBL|09,2020-01-09,The Gabba,2,Brisbane Heat,Hobart Hurricanes,131,5,110,18.2,20,0,1,League
+1195602,2019/20,BBL|09,2020-01-10,Docklands Stadium,1,Melbourne Renegades,Melbourne Stars,168,7,120,20.0,20,0,1,League
+1195602,2019/20,BBL|09,2020-01-10,Docklands Stadium,2,Melbourne Stars,Melbourne Renegades,169,3,112,18.4,20,0,1,League
+1195603,2019/20,BBL|09,2020-01-11,Sydney Showground Stadium,1,Hobart Hurricanes,Sydney Thunder,162,6,120,20.0,20,0,1,League
+1195603,2019/20,BBL|09,2020-01-11,Sydney Showground Stadium,2,Sydney Thunder,Hobart Hurricanes,166,6,118,19.4,20,0,1,League
+1195604,2019/20,BBL|09,2020-01-11,Perth Stadium,1,Perth Scorchers,Brisbane Heat,213,3,120,20.0,20,0,1,League
+1195604,2019/20,BBL|09,2020-01-11,Perth Stadium,2,Brisbane Heat,Perth Scorchers,179,8,120,20.0,20,0,1,League
+1195605,2019/20,BBL|09,2020-01-12,Adelaide Oval,1,Adelaide Strikers,Melbourne Renegades,173,6,120,20.0,20,0,1,League
+1195605,2019/20,BBL|09,2020-01-12,Adelaide Oval,2,Melbourne Renegades,Adelaide Strikers,110,10,106,17.4,20,1,1,League
+1195606,2019/20,BBL|09,2020-01-12,Melbourne Cricket Ground,1,Melbourne Stars,Sydney Sixers,219,1,120,20.0,20,0,1,League
+1195606,2019/20,BBL|09,2020-01-12,Melbourne Cricket Ground,2,Sydney Sixers,Melbourne Stars,175,7,120,20.0,20,0,1,League
+1195607,2019/20,BBL|09,2020-01-13,Bellerive Oval,1,Perth Scorchers,Hobart Hurricanes,175,7,120,20.0,20,0,1,League
+1195607,2019/20,BBL|09,2020-01-13,Bellerive Oval,2,Hobart Hurricanes,Perth Scorchers,98,10,103,17.1,20,1,1,League
+1195608,2019/20,BBL|09,2020-01-14,The Gabba,1,Adelaide Strikers,Brisbane Heat,110,10,114,19.0,20,1,1,League
+1195608,2019/20,BBL|09,2020-01-14,The Gabba,2,Brisbane Heat,Adelaide Strikers,114,3,92,15.2,20,0,1,League
+1195609,2019/20,BBL|09,2020-01-15,Manuka Oval,1,Melbourne Renegades,Sydney Thunder,172,4,120,20.0,20,0,1,League
+1195609,2019/20,BBL|09,2020-01-15,Manuka Oval,2,Sydney Thunder,Melbourne Renegades,122,7,84,14.0,14,0,0,League
+1195610,2019/20,BBL|09,2020-01-15,Perth Stadium,1,Perth Scorchers,Melbourne Stars,86,10,83,13.5,20,1,1,League
+1195610,2019/20,BBL|09,2020-01-15,Perth Stadium,2,Melbourne Stars,Perth Scorchers,89,2,72,12.0,20,0,1,League
+1195611,2019/20,BBL|09,2020-01-16,Sydney Cricket Ground,1,Sydney Sixers,Hobart Hurricanes,45,2,40,6.4,20,0,1,League
+1195612,2019/20,BBL|09,2020-01-17,Adelaide Oval,1,Brisbane Heat,Adelaide Strikers,100,10,102,17.0,20,1,1,League
+1195612,2019/20,BBL|09,2020-01-17,Adelaide Oval,2,Adelaide Strikers,Brisbane Heat,104,0,65,10.5,20,0,1,League
+1195613,2019/20,BBL|09,2020-01-18,Melbourne Cricket Ground,1,Melbourne Stars,Perth Scorchers,141,6,120,20.0,20,0,1,League
+1195613,2019/20,BBL|09,2020-01-18,Melbourne Cricket Ground,2,Perth Scorchers,Melbourne Stars,131,9,120,20.0,20,0,1,League
+1195614,2019/20,BBL|09,2020-01-18,Sydney Showground Stadium,1,Sydney Sixers,Sydney Thunder,76,10,95,15.5,20,1,1,League
+1195614,2019/20,BBL|09,2020-01-18,Sydney Showground Stadium,2,Sydney Thunder,Sydney Sixers,28,2,33,5.3,5.3,0,0,League
+1195615,2019/20,BBL|09,2020-01-19,York Park,1,Adelaide Strikers,Hobart Hurricanes,186,5,120,20.0,20,0,1,League
+1195615,2019/20,BBL|09,2020-01-19,York Park,2,Hobart Hurricanes,Adelaide Strikers,176,6,120,20.0,20,0,1,League
+1195616,2019/20,BBL|09,2020-01-19,The Gabba,1,Melbourne Renegades,Brisbane Heat,164,6,120,20.0,20,0,1,League
+1195616,2019/20,BBL|09,2020-01-19,The Gabba,2,Brisbane Heat,Melbourne Renegades,120,10,90,15.0,20,1,1,League
+1195617,2019/20,BBL|09,2020-01-20,Sydney Cricket Ground,1,Sydney Sixers,Melbourne Stars,143,4,84,14.0,20,0,1,League
+1195617,2019/20,BBL|09,2020-01-20,Sydney Cricket Ground,2,Melbourne Stars,Sydney Sixers,125,5,84,14.0,14,0,0,League
+1195618,2019/20,BBL|09,2020-01-20,Perth Stadium,1,Sydney Thunder,Perth Scorchers,153,5,120,20.0,20,0,1,League
+1195618,2019/20,BBL|09,2020-01-20,Perth Stadium,2,Perth Scorchers,Sydney Thunder,154,2,93,15.3,20,0,1,League
+1195619,2019/20,BBL|09,2020-01-21,Docklands Stadium,1,Hobart Hurricanes,Melbourne Renegades,190,3,120,20.0,20,0,1,League
+1195619,2019/20,BBL|09,2020-01-21,Docklands Stadium,2,Melbourne Renegades,Hobart Hurricanes,186,4,120,20.0,20,0,1,League
+1195620,2019/20,BBL|09,2020-01-22,Adelaide Oval,1,Adelaide Strikers,Melbourne Stars,162,4,120,20.0,20,0,1,League
+1195620,2019/20,BBL|09,2020-01-22,Adelaide Oval,2,Melbourne Stars,Adelaide Strikers,151,8,120,20.0,20,0,1,League
+1195621,2019/20,BBL|09,2020-01-23,The Gabba,1,Brisbane Heat,Sydney Sixers,126,8,120,20.0,20,0,1,League
+1195621,2019/20,BBL|09,2020-01-23,The Gabba,2,Sydney Sixers,Brisbane Heat,127,2,95,15.5,20,0,1,League
+1195622,2019/20,BBL|09,2020-01-24,Bellerive Oval,1,Hobart Hurricanes,Sydney Thunder,185,6,120,20.0,20,0,1,League
+1195622,2019/20,BBL|09,2020-01-24,Bellerive Oval,2,Sydney Thunder,Hobart Hurricanes,128,10,105,17.3,20,1,1,League
+1195623,2019/20,BBL|09,2020-01-24,Perth Stadium,1,Adelaide Strikers,Perth Scorchers,181,5,120,20.0,20,0,1,League
+1195623,2019/20,BBL|09,2020-01-24,Perth Stadium,2,Perth Scorchers,Adelaide Strikers,165,7,120,20.0,20,0,1,League
+1195624,2019/20,BBL|09,2020-01-25,Sydney Cricket Ground,1,Melbourne Renegades,Sydney Sixers,175,5,120,20.0,20,0,1,League
+1195624,2019/20,BBL|09,2020-01-25,Sydney Cricket Ground,2,Sydney Sixers,Melbourne Renegades,176,3,112,18.4,20,0,1,League
+1195625,2019/20,BBL|09,2020-01-25,Melbourne Cricket Ground,1,Brisbane Heat,Melbourne Stars,186,5,120,20.0,20,0,1,League
+1195625,2019/20,BBL|09,2020-01-25,Melbourne Cricket Ground,2,Melbourne Stars,Brisbane Heat,115,10,106,17.4,20,1,1,League
+1195626,2019/20,BBL|09,2020-01-26,Sydney Showground Stadium,1,Perth Scorchers,Sydney Thunder,99,4,90,15.0,20,0,1,League
+1195626,2019/20,BBL|09,2020-01-26,Sydney Showground Stadium,2,Sydney Thunder,Perth Scorchers,97,3,70,11.4,12,0,0,League
+1195627,2019/20,BBL|09,2020-01-26,Adelaide Oval,1,Hobart Hurricanes,Adelaide Strikers,217,1,120,20.0,20,0,1,League
+1195627,2019/20,BBL|09,2020-01-26,Adelaide Oval,2,Adelaide Strikers,Hobart Hurricanes,207,8,120,20.0,20,0,1,League
+1195628,2019/20,BBL|09,2020-01-27,Docklands Stadium,1,Brisbane Heat,Melbourne Renegades,154,7,120,20.0,20,0,1,League
+1195628,2019/20,BBL|09,2020-01-27,Docklands Stadium,2,Melbourne Renegades,Brisbane Heat,155,3,116,19.2,20,0,1,League
+1195629,2019/20,BBL|09,2020-01-30,Bellerive Oval,1,Sydney Thunder,Hobart Hurricanes,197,5,120,20.0,20,0,1,Eliminator
+1195629,2019/20,BBL|09,2020-01-30,Bellerive Oval,2,Hobart Hurricanes,Sydney Thunder,140,10,111,18.3,20,1,1,Eliminator
+1195630,2019/20,BBL|09,2020-01-31,Melbourne Cricket Ground,1,Sydney Sixers,Melbourne Stars,142,7,120,20.0,20,0,1,Qualifier
+1195630,2019/20,BBL|09,2020-01-31,Melbourne Cricket Ground,2,Melbourne Stars,Sydney Sixers,99,10,108,18.0,20,1,1,Qualifier
+1195631,2019/20,BBL|09,2020-02-01,Adelaide Oval,1,Sydney Thunder,Adelaide Strikers,151,7,120,20.0,20,0,1,Knockout
+1195631,2019/20,BBL|09,2020-02-01,Adelaide Oval,2,Adelaide Strikers,Sydney Thunder,143,9,120,20.0,20,0,1,Knockout
+1195632,2019/20,BBL|09,2020-02-06,Melbourne Cricket Ground,1,Melbourne Stars,Sydney Thunder,194,2,120,20.0,20,0,1,Challenger
+1195632,2019/20,BBL|09,2020-02-06,Melbourne Cricket Ground,2,Sydney Thunder,Melbourne Stars,166,8,120,20.0,20,0,1,Challenger
+1195633,2019/20,BBL|09,2020-02-08,Sydney Cricket Ground,1,Sydney Sixers,Melbourne Stars,116,5,72,12.0,20,0,1,Final
+1195633,2019/20,BBL|09,2020-02-08,Sydney Cricket Ground,2,Melbourne Stars,Sydney Sixers,97,6,72,12.0,12,0,0,Final
+1226826,2020/21,BBL|10,2021-01-08,Adelaide Oval,1,Adelaide Strikers,Melbourne Renegades,177,7,120,20.0,20,0,1,League
+1226826,2020/21,BBL|10,2021-01-08,Adelaide Oval,2,Melbourne Renegades,Adelaide Strikers,178,4,119,19.5,20,0,1,League
+1226827,2020/21,BBL|10,2021-01-24,Melbourne Cricket Ground,1,Hobart Hurricanes,Sydney Sixers,188,8,120,20.0,20,0,1,League
+1226827,2020/21,BBL|10,2021-01-24,Melbourne Cricket Ground,2,Sydney Sixers,Hobart Hurricanes,181,8,120,20.0,20,0,1,League
+1226828,2020/21,BBL|10,2020-12-12,Manuka Oval,1,Melbourne Stars,Sydney Thunder,169,8,120,20.0,20,0,1,League
+1226828,2020/21,BBL|10,2020-12-12,Manuka Oval,2,Sydney Thunder,Melbourne Stars,147,9,120,20.0,20,0,1,League
+1226829,2020/21,BBL|10,2021-01-06,Perth Stadium,1,Perth Scorchers,Sydney Sixers,183,4,120,20.0,20,0,1,League
+1226829,2020/21,BBL|10,2021-01-06,Perth Stadium,2,Sydney Sixers,Perth Scorchers,97,10,100,16.4,20,1,1,League
+1226830,2020/21,BBL|10,2020-12-19,Bellerive Oval,1,Melbourne Renegades,Hobart Hurricanes,157,5,120,20.0,20,0,1,League
+1226830,2020/21,BBL|10,2020-12-19,Bellerive Oval,2,Hobart Hurricanes,Melbourne Renegades,161,4,106,17.4,20,0,1,League
+1226831,2020/21,BBL|10,2020-12-22,Manuka Oval,1,Perth Scorchers,Sydney Thunder,152,5,120,20.0,20,0,1,League
+1226831,2020/21,BBL|10,2020-12-22,Manuka Oval,2,Sydney Thunder,Perth Scorchers,156,3,117,19.3,20,0,1,League
+1226832,2020/21,BBL|10,2021-01-02,The Gabba,1,Sydney Sixers,Brisbane Heat,165,8,120,20.0,20,0,1,League
+1226832,2020/21,BBL|10,2021-01-02,The Gabba,2,Brisbane Heat,Sydney Sixers,171,6,113,18.5,20,0,1,League
+1226833,2020/21,BBL|10,2021-01-05,Adelaide Oval,1,Adelaide Strikers,Melbourne Renegades,171,5,120,20.0,20,0,1,League
+1226833,2020/21,BBL|10,2021-01-05,Adelaide Oval,2,Melbourne Renegades,Adelaide Strikers,111,10,115,19.1,20,1,1,League
+1226834,2020/21,BBL|10,2021-01-22,Docklands Stadium,1,Perth Scorchers,Hobart Hurricanes,179,8,120,20.0,20,0,1,League
+1226834,2020/21,BBL|10,2021-01-22,Docklands Stadium,2,Hobart Hurricanes,Perth Scorchers,157,8,120,20.0,20,0,1,League
+1226835,2020/21,BBL|10,2021-01-07,Carrara Oval,1,Brisbane Heat,Melbourne Stars,115,3,60,10.0,20,0,1,League
+1226835,2020/21,BBL|10,2021-01-07,Carrara Oval,2,Melbourne Stars,Brisbane Heat,111,5,60,10.0,10,0,0,League
+1226836,2020/21,BBL|10,2021-01-25,Adelaide Oval,1,Adelaide Strikers,Sydney Thunder,115,4,84,14.0,20,0,1,League
+1226836,2020/21,BBL|10,2021-01-25,Adelaide Oval,2,Sydney Thunder,Adelaide Strikers,116,1,73,12.1,14,0,0,League
+1226837,2020/21,BBL|10,2020-12-13,Bellerive Oval,1,Sydney Sixers,Melbourne Renegades,205,4,120,20.0,20,0,1,League
+1226837,2020/21,BBL|10,2020-12-13,Bellerive Oval,2,Melbourne Renegades,Sydney Sixers,60,10,64,10.4,20,1,1,League
+1226838,2020/21,BBL|10,2021-01-19,Docklands Stadium,1,Perth Scorchers,Brisbane Heat,174,5,120,20.0,20,0,1,League
+1226838,2020/21,BBL|10,2021-01-19,Docklands Stadium,2,Brisbane Heat,Perth Scorchers,115,10,100,16.4,20,1,1,League
+1226839,2020/21,BBL|10,2021-01-15,Melbourne Cricket Ground,1,Melbourne Stars,Adelaide Strikers,179,2,120,20.0,20,0,1,League
+1226839,2020/21,BBL|10,2021-01-15,Melbourne Cricket Ground,2,Adelaide Strikers,Melbourne Stars,68,10,86,14.2,20,1,1,League
+1226840,2020/21,BBL|10,2021-01-18,Manuka Oval,1,Sydney Thunder,Hobart Hurricanes,177,5,120,20.0,20,0,1,League
+1226840,2020/21,BBL|10,2021-01-18,Manuka Oval,2,Hobart Hurricanes,Sydney Thunder,181,4,108,18.0,20,0,1,League
+1226841,2020/21,BBL|10,2020-12-12,Bellerive Oval,1,Perth Scorchers,Melbourne Renegades,130,10,115,19.1,20,1,1,League
+1226841,2020/21,BBL|10,2020-12-12,Bellerive Oval,2,Melbourne Renegades,Perth Scorchers,131,3,99,16.3,20,0,1,League
+1226842,2020/21,BBL|10,2021-01-03,Carrara Oval,1,Adelaide Strikers,Sydney Sixers,150,4,120,20.0,20,0,1,League
+1226842,2020/21,BBL|10,2021-01-03,Carrara Oval,2,Sydney Sixers,Adelaide Strikers,151,3,108,18.0,20,0,1,League
+1226843,2020/21,BBL|10,2021-01-14,Manuka Oval,1,Melbourne Renegades,Brisbane Heat,149,6,120,20.0,20,0,1,League
+1226843,2020/21,BBL|10,2021-01-14,Manuka Oval,2,Brisbane Heat,Melbourne Renegades,150,5,112,18.4,20,0,1,League
+1226844,2020/21,BBL|10,2021-01-02,Bellerive Oval,1,Hobart Hurricanes,Melbourne Stars,164,5,120,20.0,20,0,1,League
+1226844,2020/21,BBL|10,2021-01-02,Bellerive Oval,2,Melbourne Stars,Hobart Hurricanes,143,9,120,20.0,20,0,1,League
+1226845,2020/21,BBL|10,2020-12-28,Adelaide Oval,1,Adelaide Strikers,Perth Scorchers,165,8,120,20.0,20,0,1,League
+1226845,2020/21,BBL|10,2020-12-28,Adelaide Oval,2,Perth Scorchers,Adelaide Strikers,94,10,92,15.2,20,1,1,League
+1226846,2020/21,BBL|10,2020-12-26,Carrara Oval,1,Melbourne Stars,Sydney Sixers,193,5,120,20.0,20,0,1,League
+1226846,2020/21,BBL|10,2020-12-26,Carrara Oval,2,Sydney Sixers,Melbourne Stars,194,9,119,19.5,20,0,1,League
+1226847,2020/21,BBL|10,2021-01-24,Adelaide Oval,1,Adelaide Strikers,Sydney Thunder,159,6,120,20.0,20,0,1,League
+1226847,2020/21,BBL|10,2021-01-24,Adelaide Oval,2,Sydney Thunder,Adelaide Strikers,153,7,120,20.0,20,0,1,League
+1226848,2020/21,BBL|10,2021-01-23,Docklands Stadium,1,Brisbane Heat,Melbourne Renegades,173,5,120,20.0,20,0,1,League
+1226848,2020/21,BBL|10,2021-01-23,Docklands Stadium,2,Melbourne Renegades,Brisbane Heat,147,10,112,18.4,20,1,1,League
+1226849,2020/21,BBL|10,2021-01-23,Melbourne Cricket Ground,1,Perth Scorchers,Melbourne Stars,182,4,120,20.0,20,0,1,League
+1226849,2020/21,BBL|10,2021-01-23,Melbourne Cricket Ground,2,Melbourne Stars,Perth Scorchers,171,6,120,20.0,20,0,1,League
+1226850,2020/21,BBL|10,2020-12-13,Bellerive Oval,1,Hobart Hurricanes,Adelaide Strikers,174,5,120,20.0,20,0,1,League
+1226850,2020/21,BBL|10,2020-12-13,Bellerive Oval,2,Adelaide Strikers,Hobart Hurricanes,163,9,120,20.0,20,0,1,League
+1226851,2020/21,BBL|10,2021-01-04,The Gabba,1,Sydney Thunder,Brisbane Heat,174,8,120,20.0,20,0,1,League
+1226851,2020/21,BBL|10,2021-01-04,The Gabba,2,Brisbane Heat,Sydney Thunder,175,5,115,19.1,20,0,1,League
+1226852,2020/21,BBL|10,2020-12-10,Bellerive Oval,1,Hobart Hurricanes,Sydney Sixers,178,8,120,20.0,20,0,1,League
+1226852,2020/21,BBL|10,2020-12-10,Bellerive Oval,2,Sydney Sixers,Hobart Hurricanes,162,6,120,20.0,20,0,1,League
+1226853,2020/21,BBL|10,2021-01-03,Perth Stadium,1,Perth Scorchers,Melbourne Renegades,185,3,120,20.0,20,0,1,League
+1226853,2020/21,BBL|10,2021-01-03,Perth Stadium,2,Melbourne Renegades,Perth Scorchers,89,10,77,12.5,20,1,1,League
+1226854,2020/21,BBL|10,2020-12-29,Manuka Oval,1,Sydney Thunder,Melbourne Stars,219,7,120,20.0,20,0,1,League
+1226854,2020/21,BBL|10,2020-12-29,Manuka Oval,2,Melbourne Stars,Sydney Thunder,144,10,119,19.5,20,1,1,League
+1226855,2020/21,BBL|10,2021-01-10,Carrara Oval,1,Brisbane Heat,Sydney Sixers,148,10,120,20.0,20,1,1,League
+1226855,2020/21,BBL|10,2021-01-10,Carrara Oval,2,Sydney Sixers,Brisbane Heat,152,7,120,20.0,20,0,1,League
+1226856,2020/21,BBL|10,2021-01-01,Carrara Oval,1,Melbourne Renegades,Sydney Thunder,166,6,102,17.0,20,0,1,League
+1226856,2020/21,BBL|10,2021-01-01,Carrara Oval,2,Sydney Thunder,Melbourne Renegades,117,2,72,12.0,12,0,0,League
+1226857,2020/21,BBL|10,2021-01-12,Perth Stadium,1,Hobart Hurricanes,Perth Scorchers,139,5,120,20.0,20,0,1,League
+1226857,2020/21,BBL|10,2021-01-12,Perth Stadium,2,Perth Scorchers,Hobart Hurricanes,140,1,98,16.2,20,0,1,League
+1226858,2020/21,BBL|10,2021-01-26,Melbourne Cricket Ground,1,Melbourne Stars,Sydney Sixers,177,6,120,20.0,20,0,1,League
+1226858,2020/21,BBL|10,2021-01-26,Melbourne Cricket Ground,2,Sydney Sixers,Melbourne Stars,180,5,119,19.5,20,0,1,League
+1226859,2020/21,BBL|10,2021-01-21,Adelaide Oval,1,Adelaide Strikers,Brisbane Heat,197,5,120,20.0,20,0,1,League
+1226859,2020/21,BBL|10,2021-01-21,Adelaide Oval,2,Brisbane Heat,Adelaide Strikers,115,10,105,17.3,20,1,1,League
+1226860,2020/21,BBL|10,2021-01-26,Melbourne Cricket Ground,1,Melbourne Renegades,Hobart Hurricanes,150,5,120,20.0,20,0,1,League
+1226860,2020/21,BBL|10,2021-01-26,Melbourne Cricket Ground,2,Hobart Hurricanes,Melbourne Renegades,139,9,120,20.0,20,0,1,League
+1226861,2020/21,BBL|10,2021-01-13,Manuka Oval,1,Sydney Thunder,Sydney Sixers,166,6,120,20.0,20,0,1,League
+1226861,2020/21,BBL|10,2021-01-13,Manuka Oval,2,Sydney Sixers,Sydney Thunder,132,5,76,12.4,14,0,0,League
+1226862,2020/21,BBL|10,2021-01-26,Adelaide Oval,1,Brisbane Heat,Perth Scorchers,181,7,120,20.0,20,0,1,League
+1226862,2020/21,BBL|10,2021-01-26,Adelaide Oval,2,Perth Scorchers,Brisbane Heat,175,6,120,20.0,20,0,1,League
+1226863,2020/21,BBL|10,2020-12-15,York Park,1,Hobart Hurricanes,Adelaide Strikers,146,10,117,19.3,20,1,1,League
+1226863,2020/21,BBL|10,2020-12-15,York Park,2,Adelaide Strikers,Hobart Hurricanes,147,5,112,18.4,20,0,1,League
+1226864,2020/21,BBL|10,2021-01-17,Melbourne Cricket Ground,1,Melbourne Renegades,Melbourne Stars,150,10,119,19.5,20,1,1,League
+1226864,2020/21,BBL|10,2021-01-17,Melbourne Cricket Ground,2,Melbourne Stars,Melbourne Renegades,153,4,115,19.1,20,0,1,League
+1226865,2020/21,BBL|10,2021-01-16,Manuka Oval,1,Perth Scorchers,Sydney Sixers,163,7,120,20.0,20,0,1,League
+1226865,2020/21,BBL|10,2021-01-16,Manuka Oval,2,Sydney Sixers,Perth Scorchers,164,3,113,18.5,20,0,1,League
+1226866,2020/21,BBL|10,2020-12-14,Manuka Oval,1,Brisbane Heat,Sydney Thunder,178,6,120,20.0,20,0,1,League
+1226866,2020/21,BBL|10,2020-12-14,Manuka Oval,2,Sydney Thunder,Brisbane Heat,180,6,113,18.5,20,0,1,League
+1226867,2020/21,BBL|10,2020-12-16,York Park,1,Perth Scorchers,Melbourne Stars,158,6,102,17.0,20,0,1,League
+1226867,2020/21,BBL|10,2020-12-16,York Park,2,Melbourne Stars,Perth Scorchers,10,1,7,1.1,6,0,0,League
+1226868,2020/21,BBL|10,2020-12-27,The Gabba,1,Hobart Hurricanes,Brisbane Heat,148,7,120,20.0,20,0,1,League
+1226868,2020/21,BBL|10,2020-12-27,The Gabba,2,Brisbane Heat,Hobart Hurricanes,152,6,104,17.2,20,0,1,League
+1226869,2020/21,BBL|10,2021-01-20,Docklands Stadium,1,Melbourne Stars,Melbourne Renegades,158,6,120,20.0,20,0,1,League
+1226869,2020/21,BBL|10,2021-01-20,Docklands Stadium,2,Melbourne Renegades,Melbourne Stars,160,5,118,19.4,20,0,1,League
+1226870,2020/21,BBL|10,2020-12-31,Adelaide Oval,1,Adelaide Strikers,Perth Scorchers,146,9,120,20.0,20,0,1,League
+1226870,2020/21,BBL|10,2020-12-31,Adelaide Oval,2,Perth Scorchers,Adelaide Strikers,147,3,106,17.4,20,0,1,League
+1226871,2020/21,BBL|10,2021-01-07,Perth Stadium,1,Sydney Thunder,Hobart Hurricanes,167,5,120,20.0,20,0,1,League
+1226871,2020/21,BBL|10,2021-01-07,Perth Stadium,2,Hobart Hurricanes,Sydney Thunder,128,8,120,20.0,20,0,1,League
+1226872,2020/21,BBL|10,2020-12-11,Manuka Oval,1,Brisbane Heat,Melbourne Stars,125,10,119,19.5,20,1,1,League
+1226872,2020/21,BBL|10,2020-12-11,Manuka Oval,2,Melbourne Stars,Brisbane Heat,129,4,103,17.1,20,0,1,League
+1226873,2020/21,BBL|10,2020-12-20,Bellerive Oval,1,Sydney Sixers,Adelaide Strikers,177,5,120,20.0,20,0,1,League
+1226873,2020/21,BBL|10,2020-12-20,Bellerive Oval,2,Adelaide Strikers,Sydney Sixers,139,7,120,20.0,20,0,1,League
+1226874,2020/21,BBL|10,2020-12-26,Manuka Oval,1,Sydney Thunder,Melbourne Renegades,209,8,120,20.0,20,0,1,League
+1226874,2020/21,BBL|10,2020-12-26,Manuka Oval,2,Melbourne Renegades,Sydney Thunder,80,10,74,12.2,20,1,1,League
+1226875,2020/21,BBL|10,2020-12-30,The Gabba,1,Hobart Hurricanes,Brisbane Heat,150,10,118,19.4,20,1,1,League
+1226875,2020/21,BBL|10,2020-12-30,The Gabba,2,Brisbane Heat,Hobart Hurricanes,149,8,120,20.0,20,0,1,League
+1226876,2020/21,BBL|10,2021-01-11,Adelaide Oval,1,Melbourne Stars,Adelaide Strikers,149,7,120,20.0,20,0,1,League
+1226876,2020/21,BBL|10,2021-01-11,Adelaide Oval,2,Adelaide Strikers,Melbourne Stars,150,5,114,19.0,20,0,1,League
+1226877,2020/21,BBL|10,2020-12-29,Carrara Oval,1,Melbourne Renegades,Sydney Sixers,168,6,120,20.0,20,0,1,League
+1226877,2020/21,BBL|10,2020-12-29,Carrara Oval,2,Sydney Sixers,Melbourne Renegades,169,8,119,19.5,20,0,1,League
+1226878,2020/21,BBL|10,2021-01-09,Perth Stadium,1,Perth Scorchers,Sydney Thunder,185,6,120,20.0,20,0,1,League
+1226878,2020/21,BBL|10,2021-01-09,Perth Stadium,2,Sydney Thunder,Perth Scorchers,168,10,120,20.0,20,1,1,League
+1226879,2020/21,BBL|10,2021-01-04,Bellerive Oval,1,Melbourne Stars,Hobart Hurricanes,183,6,120,20.0,20,0,1,League
+1226879,2020/21,BBL|10,2021-01-04,Bellerive Oval,2,Hobart Hurricanes,Melbourne Stars,173,6,120,20.0,20,0,1,League
+1226880,2020/21,BBL|10,2021-01-22,Adelaide Oval,1,Sydney Thunder,Sydney Sixers,232,5,120,20.0,20,0,1,League
+1226880,2020/21,BBL|10,2021-01-22,Adelaide Oval,2,Sydney Sixers,Sydney Thunder,186,5,120,20.0,20,0,1,League
+1226881,2020/21,BBL|10,2020-12-23,The Gabba,1,Adelaide Strikers,Brisbane Heat,150,6,120,20.0,20,0,1,League
+1226881,2020/21,BBL|10,2020-12-23,The Gabba,2,Brisbane Heat,Adelaide Strikers,148,9,120,20.0,20,0,1,League
+1226882,2020/21,BBL|10,2021-02-06,Sydney Cricket Ground,1,Sydney Sixers,Perth Scorchers,188,6,120,20.0,20,0,1,Final
+1226882,2020/21,BBL|10,2021-02-06,Sydney Cricket Ground,2,Perth Scorchers,Sydney Sixers,161,9,120,20.0,20,0,1,Final
+1226883,2020/21,BBL|10,2021-01-29,The Gabba,1,Adelaide Strikers,Brisbane Heat,130,7,120,20.0,20,0,1,Eliminator
+1226883,2020/21,BBL|10,2021-01-29,The Gabba,2,Brisbane Heat,Adelaide Strikers,131,4,113,18.5,20,0,1,Eliminator
+1226884,2020/21,BBL|10,2021-01-30,Manuka Oval,1,Perth Scorchers,Sydney Sixers,167,6,120,20.0,20,0,1,Qualifier
+1226884,2020/21,BBL|10,2021-01-30,Manuka Oval,2,Sydney Sixers,Perth Scorchers,168,1,102,17.0,20,0,1,Qualifier
+1226885,2020/21,BBL|10,2021-01-31,Manuka Oval,1,Sydney Thunder,Brisbane Heat,158,8,120,20.0,20,0,1,Knockout
+1226885,2020/21,BBL|10,2021-01-31,Manuka Oval,2,Brisbane Heat,Sydney Thunder,162,3,115,19.1,20,0,1,Knockout
+1226886,2020/21,BBL|10,2021-02-04,Manuka Oval,1,Perth Scorchers,Brisbane Heat,189,1,109,18.1,20,0,1,Challenger
+1226886,2020/21,BBL|10,2021-02-04,Manuka Oval,2,Brisbane Heat,Perth Scorchers,150,9,108,18.0,18,0,0,Challenger
+1269638,2021/22,BBL|11,2021-12-05,Sydney Cricket Ground,1,Sydney Sixers,Melbourne Stars,213,4,120,20.0,20,0,1,League
+1269638,2021/22,BBL|11,2021-12-05,Sydney Cricket Ground,2,Melbourne Stars,Sydney Sixers,61,10,67,11.1,20,1,1,League
+1269639,2021/22,BBL|11,2021-12-06,Manuka Oval,1,Brisbane Heat,Sydney Thunder,140,8,120,20.0,20,0,1,League
+1269639,2021/22,BBL|11,2021-12-06,Manuka Oval,2,Sydney Thunder,Brisbane Heat,141,3,103,17.1,20,0,1,League
+1269640,2021/22,BBL|11,2021-12-07,Docklands Stadium,1,Melbourne Renegades,Adelaide Strikers,153,9,120,20.0,20,0,1,League
+1269640,2021/22,BBL|11,2021-12-07,Docklands Stadium,2,Adelaide Strikers,Melbourne Renegades,151,8,120,20.0,20,0,1,League
+1269641,2021/22,BBL|11,2021-12-08,York Park,1,Sydney Sixers,Hobart Hurricanes,144,9,120,20.0,20,0,1,League
+1269641,2021/22,BBL|11,2021-12-08,York Park,2,Hobart Hurricanes,Sydney Sixers,130,8,120,20.0,20,0,1,League
+1269642,2021/22,BBL|11,2021-12-08,Perth Stadium,1,Perth Scorchers,Brisbane Heat,157,6,120,20.0,20,0,1,League
+1269642,2021/22,BBL|11,2021-12-08,Perth Stadium,2,Brisbane Heat,Perth Scorchers,151,10,119,19.5,20,1,1,League
+1269643,2021/22,BBL|11,2021-12-09,Adelaide Oval,1,Adelaide Strikers,Melbourne Renegades,149,10,114,19.0,20,1,1,League
+1269643,2021/22,BBL|11,2021-12-09,Adelaide Oval,2,Melbourne Renegades,Adelaide Strikers,100,10,112,18.4,20,1,1,League
+1269644,2021/22,BBL|11,2021-12-10,Melbourne Cricket Ground,1,Melbourne Stars,Sydney Thunder,165,4,120,20.0,20,0,1,League
+1269644,2021/22,BBL|11,2021-12-10,Melbourne Cricket Ground,2,Sydney Thunder,Melbourne Stars,161,5,120,20.0,20,0,1,League
+1269645,2021/22,BBL|11,2021-12-11,Sydney Cricket Ground,1,Hobart Hurricanes,Sydney Sixers,213,2,120,20.0,20,0,1,League
+1269645,2021/22,BBL|11,2021-12-11,Sydney Cricket Ground,2,Sydney Sixers,Hobart Hurricanes,151,4,108,18.0,18,0,0,League
+1269646,2021/22,BBL|11,2021-12-11,Sydney Showground Stadium,1,Perth Scorchers,Adelaide Strikers,195,1,120,20.0,20,0,1,League
+1269646,2021/22,BBL|11,2021-12-11,Sydney Showground Stadium,2,Adelaide Strikers,Perth Scorchers,146,10,107,17.5,20,1,1,League
+1269647,2021/22,BBL|11,2021-12-12,Sydney Showground Stadium,1,Sydney Thunder,Melbourne Stars,151,5,120,20.0,20,0,1,League
+1269647,2021/22,BBL|11,2021-12-12,Sydney Showground Stadium,2,Melbourne Stars,Sydney Thunder,155,4,103,17.1,20,0,1,League
+1269648,2021/22,BBL|11,2021-12-13,Carrara Oval,1,Melbourne Renegades,Brisbane Heat,140,6,120,20.0,20,0,1,League
+1269648,2021/22,BBL|11,2021-12-13,Carrara Oval,2,Brisbane Heat,Melbourne Renegades,141,5,101,16.5,20,0,1,League
+1269649,2021/22,BBL|11,2021-12-14,Bellerive Oval,1,Perth Scorchers,Hobart Hurricanes,182,5,120,20.0,20,0,1,League
+1269649,2021/22,BBL|11,2021-12-14,Bellerive Oval,2,Hobart Hurricanes,Perth Scorchers,129,10,114,19.0,20,1,1,League
+1269650,2021/22,BBL|11,2021-12-15,Melbourne Cricket Ground,1,Melbourne Stars,Sydney Sixers,177,5,120,20.0,20,0,1,League
+1269650,2021/22,BBL|11,2021-12-15,Melbourne Cricket Ground,2,Sydney Sixers,Melbourne Stars,182,3,118,19.4,20,0,1,League
+1269651,2021/22,BBL|11,2021-12-19,The Gabba,1,Sydney Thunder,Brisbane Heat,196,7,120,20.0,20,0,1,League
+1269651,2021/22,BBL|11,2021-12-19,The Gabba,2,Brisbane Heat,Sydney Thunder,143,10,105,17.3,20,1,1,League
+1269652,2021/22,BBL|11,2021-12-20,Bellerive Oval,1,Perth Scorchers,Hobart Hurricanes,167,7,120,20.0,20,0,1,League
+1269652,2021/22,BBL|11,2021-12-20,Bellerive Oval,2,Hobart Hurricanes,Perth Scorchers,125,9,120,20.0,20,0,1,League
+1269653,2021/22,BBL|11,2021-12-21,Sydney Cricket Ground,1,Adelaide Strikers,Sydney Sixers,147,8,120,20.0,20,0,1,League
+1269653,2021/22,BBL|11,2021-12-21,Sydney Cricket Ground,2,Sydney Sixers,Adelaide Strikers,150,6,116,19.2,20,0,1,League
+1269654,2021/22,BBL|11,2021-12-22,Docklands Stadium,1,Perth Scorchers,Melbourne Renegades,206,5,120,20.0,20,0,1,League
+1269654,2021/22,BBL|11,2021-12-22,Docklands Stadium,2,Melbourne Renegades,Perth Scorchers,185,5,120,20.0,20,0,1,League
+1269655,2021/22,BBL|11,2021-12-23,Adelaide Oval,1,Brisbane Heat,Adelaide Strikers,208,7,120,20.0,20,0,1,League
+1269655,2021/22,BBL|11,2021-12-23,Adelaide Oval,2,Adelaide Strikers,Brisbane Heat,169,8,120,20.0,20,0,1,League
+1269656,2021/22,BBL|11,2021-12-24,Bellerive Oval,1,Hobart Hurricanes,Melbourne Stars,180,6,120,20.0,20,0,1,League
+1269656,2021/22,BBL|11,2021-12-24,Bellerive Oval,2,Melbourne Stars,Hobart Hurricanes,151,9,120,20.0,20,0,1,League
+1269657,2021/22,BBL|11,2021-12-26,Sydney Showground Stadium,1,Sydney Sixers,Sydney Thunder,168,4,96,16.0,20,0,1,League
+1269657,2021/22,BBL|11,2021-12-26,Sydney Showground Stadium,2,Sydney Thunder,Sydney Sixers,142,10,91,15.1,16,1,0,League
+1269658,2021/22,BBL|11,2021-12-26,Docklands Stadium,1,Melbourne Renegades,Perth Scorchers,151,8,120,20.0,20,0,1,League
+1269658,2021/22,BBL|11,2021-12-26,Docklands Stadium,2,Perth Scorchers,Melbourne Renegades,152,2,101,16.5,20,0,1,League
+1269659,2021/22,BBL|11,2021-12-27,Bellerive Oval,1,Adelaide Strikers,Hobart Hurricanes,175,5,120,20.0,20,0,1,League
+1269659,2021/22,BBL|11,2021-12-27,Bellerive Oval,2,Hobart Hurricanes,Adelaide Strikers,176,3,111,18.3,20,0,1,League
+1269660,2021/22,BBL|11,2021-12-27,The Gabba,1,Melbourne Stars,Brisbane Heat,207,9,120,20.0,20,0,1,League
+1269660,2021/22,BBL|11,2021-12-27,The Gabba,2,Brisbane Heat,Melbourne Stars,187,9,120,20.0,20,0,1,League
+1269661,2021/22,BBL|11,2021-12-28,Manuka Oval,1,Sydney Thunder,Perth Scorchers,200,7,120,20.0,20,0,1,League
+1269661,2021/22,BBL|11,2021-12-28,Manuka Oval,2,Perth Scorchers,Sydney Thunder,166,8,120,20.0,20,0,1,League
+1269662,2021/22,BBL|11,2021-12-29,Sydney Cricket Ground,1,Brisbane Heat,Sydney Sixers,105,10,115,19.1,20,1,1,League
+1269662,2021/22,BBL|11,2021-12-29,Sydney Cricket Ground,2,Sydney Sixers,Brisbane Heat,106,8,120,20.0,20,0,1,League
+1269663,2021/22,BBL|11,2021-12-29,Docklands Stadium,1,Hobart Hurricanes,Melbourne Renegades,206,5,120,20.0,20,0,1,League
+1269663,2021/22,BBL|11,2021-12-29,Docklands Stadium,2,Melbourne Renegades,Hobart Hurricanes,121,10,95,15.5,20,1,1,League
+1269664,2021/22,BBL|11,2022-01-11,Kardinia Park,1,Perth Scorchers,Melbourne Stars,196,3,120,20.0,20,0,1,League
+1269664,2021/22,BBL|11,2022-01-11,Kardinia Park,2,Melbourne Stars,Perth Scorchers,149,9,120,20.0,20,0,1,League
+1269665,2021/22,BBL|11,2021-12-31,Adelaide Oval,1,Sydney Thunder,Adelaide Strikers,187,3,120,20.0,20,0,1,League
+1269665,2021/22,BBL|11,2021-12-31,Adelaide Oval,2,Adelaide Strikers,Sydney Thunder,165,7,120,20.0,20,0,1,League
+1269666,2021/22,BBL|11,2022-01-01,Bellerive Oval,1,Brisbane Heat,Hobart Hurricanes,150,8,120,20.0,20,0,1,League
+1269666,2021/22,BBL|11,2022-01-01,Bellerive Oval,2,Hobart Hurricanes,Brisbane Heat,136,8,120,20.0,20,0,1,League
+1269668,2021/22,BBL|11,2022-01-02,Junction Oval,1,Perth Scorchers,Melbourne Stars,180,8,120,20.0,20,0,1,League
+1269668,2021/22,BBL|11,2022-01-02,Junction Oval,2,Melbourne Stars,Perth Scorchers,130,10,113,18.5,20,1,1,League
+1269669,2021/22,BBL|11,2022-01-02,Sydney Showground Stadium,1,Sydney Thunder,Adelaide Strikers,172,7,120,20.0,20,0,1,League
+1269669,2021/22,BBL|11,2022-01-02,Sydney Showground Stadium,2,Adelaide Strikers,Sydney Thunder,144,10,115,19.1,20,1,1,League
+1269670,2021/22,BBL|11,2022-01-03,Melbourne Cricket Ground,1,Melbourne Stars,Melbourne Renegades,126,10,120,20.0,20,1,1,League
+1269670,2021/22,BBL|11,2022-01-03,Melbourne Cricket Ground,2,Melbourne Renegades,Melbourne Stars,129,5,108,18.0,20,0,1,League
+1269671,2021/22,BBL|11,2022-01-21,Melbourne Cricket Ground,1,Adelaide Strikers,Hobart Hurricanes,188,6,120,20.0,20,0,1,Eliminator
+1269671,2021/22,BBL|11,2022-01-21,Melbourne Cricket Ground,2,Hobart Hurricanes,Adelaide Strikers,166,10,118,19.4,20,1,1,Eliminator
+1269672,2021/22,BBL|11,2022-01-05,Adelaide Oval,1,Hobart Hurricanes,Adelaide Strikers,126,10,119,19.5,20,1,1,League
+1269672,2021/22,BBL|11,2022-01-05,Adelaide Oval,2,Adelaide Strikers,Hobart Hurricanes,129,3,91,15.1,20,0,1,League
+1269673,2021/22,BBL|11,2022-01-06,Carrara Oval,1,Perth Scorchers,Sydney Thunder,133,9,108,18.0,20,0,1,League
+1269673,2021/22,BBL|11,2022-01-06,Carrara Oval,2,Sydney Thunder,Perth Scorchers,137,4,102,17.0,18,0,0,League
+1269674,2021/22,BBL|11,2022-01-06,Kardinia Park,1,Brisbane Heat,Melbourne Renegades,128,6,120,20.0,20,0,1,League
+1269674,2021/22,BBL|11,2022-01-06,Kardinia Park,2,Melbourne Renegades,Brisbane Heat,129,5,90,15.0,20,0,1,League
+1269675,2021/22,BBL|11,2022-01-04,Carrara Oval,1,Perth Scorchers,Sydney Sixers,143,8,120,20.0,20,0,1,League
+1269675,2021/22,BBL|11,2022-01-04,Carrara Oval,2,Sydney Sixers,Perth Scorchers,133,8,120,20.0,20,0,1,League
+1269676,2021/22,BBL|11,2022-01-15,Adelaide Oval,1,Adelaide Strikers,Melbourne Stars,155,6,120,20.0,20,0,1,League
+1269676,2021/22,BBL|11,2022-01-15,Adelaide Oval,2,Melbourne Stars,Adelaide Strikers,132,8,120,20.0,20,0,1,League
+1269677,2021/22,BBL|11,2022-01-08,Docklands Stadium,1,Sydney Thunder,Melbourne Renegades,209,7,120,20.0,20,0,1,League
+1269677,2021/22,BBL|11,2022-01-08,Docklands Stadium,2,Melbourne Renegades,Sydney Thunder,80,10,86,14.2,20,1,1,League
+1269678,2021/22,BBL|11,2022-01-08,The Gabba,1,Brisbane Heat,Hobart Hurricanes,144,8,120,20.0,20,0,1,League
+1269678,2021/22,BBL|11,2022-01-08,The Gabba,2,Hobart Hurricanes,Brisbane Heat,145,2,104,17.2,20,0,1,League
+1269679,2021/22,BBL|11,2022-01-09,C.ex Coffs International Stadium,1,Sydney Sixers,Perth Scorchers,151,4,120,20.0,20,0,1,League
+1269679,2021/22,BBL|11,2022-01-09,C.ex Coffs International Stadium,2,Perth Scorchers,Sydney Sixers,152,5,114,19.0,20,0,1,League
+1269680,2021/22,BBL|11,2022-01-10,Melbourne Cricket Ground,1,Adelaide Strikers,Melbourne Stars,139,9,120,20.0,20,0,1,League
+1269680,2021/22,BBL|11,2022-01-10,Melbourne Cricket Ground,2,Melbourne Stars,Adelaide Strikers,140,5,115,19.1,20,0,1,League
+1269681,2021/22,BBL|11,2022-01-10,Melbourne Cricket Ground,1,Hobart Hurricanes,Sydney Thunder,139,6,120,20.0,20,0,1,League
+1269681,2021/22,BBL|11,2022-01-10,Melbourne Cricket Ground,2,Sydney Thunder,Hobart Hurricanes,140,1,104,17.2,20,0,1,League
+1269682,2021/22,BBL|11,2022-01-11,Kardinia Park,1,Sydney Sixers,Melbourne Renegades,150,6,120,20.0,20,0,1,League
+1269682,2021/22,BBL|11,2022-01-11,Kardinia Park,2,Melbourne Renegades,Sydney Sixers,105,10,102,17.0,20,1,1,League
+1269683,2021/22,BBL|11,2022-01-12,The Gabba,1,Adelaide Strikers,Brisbane Heat,161,4,120,20.0,20,0,1,League
+1269683,2021/22,BBL|11,2022-01-12,The Gabba,2,Brisbane Heat,Adelaide Strikers,90,10,90,15.0,20,1,1,League
+1269684,2021/22,BBL|11,2022-01-13,Docklands Stadium,1,Hobart Hurricanes,Sydney Thunder,177,6,120,20.0,20,0,1,League
+1269684,2021/22,BBL|11,2022-01-13,Docklands Stadium,2,Sydney Thunder,Hobart Hurricanes,168,9,120,20.0,20,0,1,League
+1269685,2021/22,BBL|11,2022-01-13,Docklands Stadium,1,Melbourne Renegades,Melbourne Stars,122,7,120,20.0,20,0,1,League
+1269685,2021/22,BBL|11,2022-01-13,Docklands Stadium,2,Melbourne Stars,Melbourne Renegades,123,4,87,14.3,20,0,1,League
+1269686,2021/22,BBL|11,2022-01-14,Adelaide Oval,1,Perth Scorchers,Adelaide Strikers,127,9,120,20.0,20,0,1,League
+1269686,2021/22,BBL|11,2022-01-14,Adelaide Oval,2,Adelaide Strikers,Perth Scorchers,130,4,102,17.0,20,0,1,League
+1269687,2021/22,BBL|11,2022-01-15,Sydney Cricket Ground,1,Sydney Sixers,Sydney Thunder,197,5,120,20.0,20,0,1,League
+1269687,2021/22,BBL|11,2022-01-15,Sydney Cricket Ground,2,Sydney Thunder,Sydney Sixers,137,9,120,20.0,20,0,1,League
+1269688,2021/22,BBL|11,2022-01-16,Melbourne Cricket Ground,1,Brisbane Heat,Melbourne Stars,149,6,120,20.0,20,0,1,League
+1269688,2021/22,BBL|11,2022-01-16,Melbourne Cricket Ground,2,Melbourne Stars,Brisbane Heat,150,2,83,13.5,20,0,1,League
+1269689,2021/22,BBL|11,2022-01-17,Adelaide Oval,1,Sydney Sixers,Adelaide Strikers,161,7,120,20.0,20,0,1,League
+1269689,2021/22,BBL|11,2022-01-17,Adelaide Oval,2,Adelaide Strikers,Sydney Sixers,165,2,105,17.3,20,0,1,League
+1269690,2021/22,BBL|11,2022-01-17,Docklands Stadium,1,Brisbane Heat,Perth Scorchers,155,7,120,20.0,20,0,1,League
+1269690,2021/22,BBL|11,2022-01-17,Docklands Stadium,2,Perth Scorchers,Brisbane Heat,156,4,112,18.4,20,0,1,League
+1269691,2021/22,BBL|11,2022-01-18,Docklands Stadium,1,Hobart Hurricanes,Melbourne Renegades,182,5,120,20.0,20,0,1,League
+1269691,2021/22,BBL|11,2022-01-18,Docklands Stadium,2,Melbourne Renegades,Hobart Hurricanes,176,6,120,20.0,20,0,1,League
+1269692,2021/22,BBL|11,2022-01-19,The Gabba,1,Sydney Sixers,Brisbane Heat,178,6,120,20.0,20,0,1,League
+1269692,2021/22,BBL|11,2022-01-19,The Gabba,2,Brisbane Heat,Sydney Sixers,151,8,120,20.0,20,0,1,League
+1269693,2021/22,BBL|11,2022-01-19,Melbourne Cricket Ground,1,Melbourne Stars,Hobart Hurricanes,273,2,120,20.0,20,0,1,League
+1269693,2021/22,BBL|11,2022-01-19,Melbourne Cricket Ground,2,Hobart Hurricanes,Melbourne Stars,167,6,120,20.0,20,0,1,League
+1269694,2021/22,BBL|11,2022-01-19,Melbourne Cricket Ground,1,Sydney Thunder,Melbourne Renegades,170,8,120,20.0,20,0,1,League
+1269694,2021/22,BBL|11,2022-01-19,Melbourne Cricket Ground,2,Melbourne Renegades,Sydney Thunder,169,7,120,20.0,20,0,1,League
+1269695,2021/22,BBL|11,2022-01-22,Docklands Stadium,1,Perth Scorchers,Sydney Sixers,189,3,120,20.0,20,0,1,Qualifier
+1269695,2021/22,BBL|11,2022-01-22,Docklands Stadium,2,Sydney Sixers,Perth Scorchers,141,10,115,19.1,20,1,1,Qualifier
+1269696,2021/22,BBL|11,2022-01-23,Melbourne Cricket Ground,1,Adelaide Strikers,Sydney Thunder,184,6,120,20.0,20,0,1,Knockout
+1269696,2021/22,BBL|11,2022-01-23,Melbourne Cricket Ground,2,Sydney Thunder,Adelaide Strikers,178,6,120,20.0,20,0,1,Knockout
+1269697,2021/22,BBL|11,2022-01-26,Sydney Cricket Ground,1,Adelaide Strikers,Sydney Sixers,167,4,120,20.0,20,0,1,Challenger
+1269697,2021/22,BBL|11,2022-01-26,Sydney Cricket Ground,2,Sydney Sixers,Adelaide Strikers,170,6,120,20.0,20,0,1,Challenger
+1269698,2021/22,BBL|11,2022-01-28,Docklands Stadium,1,Perth Scorchers,Sydney Sixers,171,6,120,20.0,20,0,1,Final
+1269698,2021/22,BBL|11,2022-01-28,Docklands Stadium,2,Sydney Sixers,Perth Scorchers,92,10,98,16.2,20,1,1,Final
+1324624,2022/23,BBL|12,2022-12-13,Manuka Oval,1,Melbourne Stars,Sydney Thunder,122,8,120,20.0,20,0,1,League
+1324624,2022/23,BBL|12,2022-12-13,Manuka Oval,2,Sydney Thunder,Melbourne Stars,123,9,120,20.0,20,0,1,League
+1324625,2022/23,BBL|12,2022-12-14,Adelaide Oval,1,Adelaide Strikers,Sydney Sixers,184,6,120,20.0,20,0,1,League
+1324625,2022/23,BBL|12,2022-12-14,Adelaide Oval,2,Sydney Sixers,Adelaide Strikers,133,7,120,20.0,20,0,1,League
+1324626,2022/23,BBL|12,2022-12-15,Cazaly's Stadium,1,Melbourne Renegades,Brisbane Heat,166,7,120,20.0,20,0,1,League
+1324626,2022/23,BBL|12,2022-12-15,Cazaly's Stadium,2,Brisbane Heat,Melbourne Renegades,144,6,120,20.0,20,0,1,League
+1324627,2022/23,BBL|12,2022-12-16,Melbourne Cricket Ground,1,Melbourne Stars,Hobart Hurricanes,183,5,120,20.0,20,0,1,League
+1324627,2022/23,BBL|12,2022-12-16,Melbourne Cricket Ground,2,Hobart Hurricanes,Melbourne Stars,145,9,120,20.0,20,0,1,League
+1324628,2022/23,BBL|12,2022-12-16,Sydney Showground Stadium,1,Adelaide Strikers,Sydney Thunder,139,9,120,20.0,20,0,1,League
+1324628,2022/23,BBL|12,2022-12-16,Sydney Showground Stadium,2,Sydney Thunder,Adelaide Strikers,15,10,35,5.5,20,1,1,League
+1324629,2022/23,BBL|12,2022-12-17,Perth Stadium,1,Perth Scorchers,Sydney Sixers,155,9,120,20.0,20,0,1,League
+1324629,2022/23,BBL|12,2022-12-17,Perth Stadium,2,Sydney Sixers,Perth Scorchers,117,10,120,20.0,20,1,1,League
+1324630,2022/23,BBL|12,2022-12-18,Docklands Stadium,1,Sydney Thunder,Melbourne Renegades,174,6,120,20.0,20,0,1,League
+1324630,2022/23,BBL|12,2022-12-18,Docklands Stadium,2,Melbourne Renegades,Sydney Thunder,175,6,119,19.5,20,0,1,League
+1324631,2022/23,BBL|12,2022-12-19,York Park,1,Hobart Hurricanes,Perth Scorchers,172,8,120,20.0,20,0,1,League
+1324631,2022/23,BBL|12,2022-12-19,York Park,2,Perth Scorchers,Hobart Hurricanes,164,8,120,20.0,20,0,1,League
+1324632,2022/23,BBL|12,2022-12-20,Adelaide Oval,1,Sydney Thunder,Adelaide Strikers,150,5,120,20.0,20,0,1,League
+1324632,2022/23,BBL|12,2022-12-20,Adelaide Oval,2,Adelaide Strikers,Sydney Thunder,151,4,112,18.4,20,0,1,League
+1324633,2022/23,BBL|12,2022-12-21,Kardinia Park,1,Brisbane Heat,Melbourne Renegades,137,8,120,20.0,20,0,1,League
+1324633,2022/23,BBL|12,2022-12-21,Kardinia Park,2,Melbourne Renegades,Brisbane Heat,139,6,116,19.2,20,0,1,League
+1324634,2022/23,BBL|12,2022-12-22,Sydney Cricket Ground,1,Sydney Sixers,Hobart Hurricanes,137,6,84,14.0,20,0,1,League
+1324634,2022/23,BBL|12,2022-12-22,Sydney Cricket Ground,2,Hobart Hurricanes,Sydney Sixers,131,7,84,14.0,14,0,0,League
+1324635,2022/23,BBL|12,2022-12-23,Junction Oval,1,Perth Scorchers,Melbourne Stars,229,7,120,20.0,20,0,1,League
+1324635,2022/23,BBL|12,2022-12-23,Junction Oval,2,Melbourne Stars,Perth Scorchers,168,8,120,20.0,20,0,1,League
+1324636,2022/23,BBL|12,2022-12-23,The Gabba,1,Brisbane Heat,Adelaide Strikers,166,9,120,20.0,20,0,1,League
+1324636,2022/23,BBL|12,2022-12-23,The Gabba,2,Adelaide Strikers,Brisbane Heat,160,9,120,20.0,20,0,1,League
+1324637,2022/23,BBL|12,2022-12-24,Bellerive Oval,1,Hobart Hurricanes,Melbourne Renegades,122,10,108,18.0,20,1,1,League
+1324637,2022/23,BBL|12,2022-12-24,Bellerive Oval,2,Melbourne Renegades,Hobart Hurricanes,114,10,116,19.2,20,1,1,League
+1324638,2022/23,BBL|12,2022-12-26,Sydney Cricket Ground,1,Melbourne Stars,Sydney Sixers,150,5,120,20.0,20,0,1,League
+1324638,2022/23,BBL|12,2022-12-26,Sydney Cricket Ground,2,Sydney Sixers,Melbourne Stars,151,3,115,19.1,20,0,1,League
+1324639,2022/23,BBL|12,2022-12-26,Perth Stadium,1,Adelaide Strikers,Perth Scorchers,133,7,120,20.0,20,0,1,League
+1324639,2022/23,BBL|12,2022-12-26,Perth Stadium,2,Perth Scorchers,Adelaide Strikers,136,7,115,19.1,20,0,1,League
+1324640,2022/23,BBL|12,2022-12-27,Sydney Showground Stadium,1,Brisbane Heat,Sydney Thunder,121,6,120,20.0,20,0,1,League
+1324640,2022/23,BBL|12,2022-12-27,Sydney Showground Stadium,2,Sydney Thunder,Brisbane Heat,124,0,70,11.4,20,0,1,League
+1324641,2022/23,BBL|12,2022-12-28,Sydney Cricket Ground,1,Sydney Sixers,Melbourne Renegades,149,8,120,20.0,20,0,1,League
+1324641,2022/23,BBL|12,2022-12-28,Sydney Cricket Ground,2,Melbourne Renegades,Sydney Sixers,115,10,114,19.0,20,1,1,League
+1324642,2022/23,BBL|12,2022-12-29,Carrara Oval,1,Sydney Thunder,Brisbane Heat,182,6,120,20.0,20,0,1,League
+1324642,2022/23,BBL|12,2022-12-29,Carrara Oval,2,Brisbane Heat,Sydney Thunder,171,9,120,20.0,20,0,1,League
+1324643,2022/23,BBL|12,2022-12-29,Perth Stadium,1,Melbourne Stars,Perth Scorchers,135,10,120,20.0,20,1,1,League
+1324643,2022/23,BBL|12,2022-12-29,Perth Stadium,2,Perth Scorchers,Melbourne Stars,136,4,105,17.3,20,0,1,League
+1324644,2022/23,BBL|12,2022-12-30,Kardinia Park,1,Melbourne Renegades,Sydney Sixers,124,7,120,20.0,20,0,1,League
+1324644,2022/23,BBL|12,2022-12-30,Kardinia Park,2,Sydney Sixers,Melbourne Renegades,126,4,107,17.5,20,0,1,League
+1324645,2022/23,BBL|12,2022-12-31,Lavington Sports Oval,1,Sydney Thunder,Hobart Hurricanes,228,6,120,20.0,20,0,1,League
+1324645,2022/23,BBL|12,2022-12-31,Lavington Sports Oval,2,Hobart Hurricanes,Sydney Thunder,166,10,102,17.0,20,1,1,League
+1324646,2022/23,BBL|12,2022-12-31,Adelaide Oval,1,Melbourne Stars,Adelaide Strikers,186,7,120,20.0,20,0,1,League
+1324646,2022/23,BBL|12,2022-12-31,Adelaide Oval,2,Adelaide Strikers,Melbourne Stars,178,5,120,20.0,20,0,1,League
+1324647,2022/23,BBL|12,2023-01-01,Docklands Stadium,1,Melbourne Renegades,Perth Scorchers,155,6,120,20.0,20,0,1,League
+1324647,2022/23,BBL|12,2023-01-01,Docklands Stadium,2,Perth Scorchers,Melbourne Renegades,156,5,118,19.4,20,0,1,League
+1324648,2022/23,BBL|12,2023-01-01,The Gabba,1,Brisbane Heat,Sydney Sixers,224,5,120,20.0,20,0,1,League
+1324648,2022/23,BBL|12,2023-01-01,The Gabba,2,Sydney Sixers,Brisbane Heat,209,10,120,20.0,20,1,1,League
+1324649,2022/23,BBL|12,2023-01-02,Bellerive Oval,1,Adelaide Strikers,Hobart Hurricanes,177,6,120,20.0,20,0,1,League
+1324649,2022/23,BBL|12,2023-01-02,Bellerive Oval,2,Hobart Hurricanes,Adelaide Strikers,178,3,104,17.2,20,0,1,League
+1324650,2022/23,BBL|12,2023-01-03,Melbourne Cricket Ground,1,Melbourne Renegades,Melbourne Stars,141,7,120,20.0,20,0,1,League
+1324650,2022/23,BBL|12,2023-01-03,Melbourne Cricket Ground,2,Melbourne Stars,Melbourne Renegades,108,9,120,20.0,20,0,1,League
+1324651,2022/23,BBL|12,2023-01-04,North Sydney Oval,1,Brisbane Heat,Sydney Sixers,147,6,78,13.0,20,0,1,League
+1324652,2022/23,BBL|12,2023-01-04,Perth Stadium,1,Perth Scorchers,Sydney Thunder,142,9,120,20.0,20,0,1,League
+1324652,2022/23,BBL|12,2023-01-04,Perth Stadium,2,Sydney Thunder,Perth Scorchers,143,4,102,17.0,20,0,1,League
+1324653,2022/23,BBL|12,2023-01-05,Adelaide Oval,1,Hobart Hurricanes,Adelaide Strikers,229,4,120,20.0,20,0,1,League
+1324653,2022/23,BBL|12,2023-01-05,Adelaide Oval,2,Adelaide Strikers,Hobart Hurricanes,230,3,117,19.3,20,0,1,League
+1324654,2022/23,BBL|12,2023-01-06,Melbourne Cricket Ground,1,Melbourne Stars,Sydney Sixers,173,5,120,20.0,20,0,1,League
+1324654,2022/23,BBL|12,2023-01-06,Melbourne Cricket Ground,2,Sydney Sixers,Melbourne Stars,176,4,119,19.5,20,0,1,League
+1324655,2022/23,BBL|12,2023-01-07,Docklands Stadium,1,Hobart Hurricanes,Melbourne Renegades,162,8,120,20.0,20,0,1,League
+1324655,2022/23,BBL|12,2023-01-07,Docklands Stadium,2,Melbourne Renegades,Hobart Hurricanes,164,4,109,18.1,20,0,1,League
+1324656,2022/23,BBL|12,2023-01-07,Perth Stadium,1,Brisbane Heat,Perth Scorchers,171,9,120,20.0,20,0,1,League
+1324656,2022/23,BBL|12,2023-01-07,Perth Stadium,2,Perth Scorchers,Brisbane Heat,173,3,99,16.3,20,0,1,League
+1324657,2022/23,BBL|12,2023-01-08,Sydney Showground Stadium,1,Sydney Thunder,Sydney Sixers,133,8,120,20.0,20,0,1,League
+1324657,2022/23,BBL|12,2023-01-08,Sydney Showground Stadium,2,Sydney Sixers,Sydney Thunder,134,3,98,16.2,20,0,1,League
+1324658,2022/23,BBL|12,2023-01-09,Bellerive Oval,1,Melbourne Stars,Hobart Hurricanes,131,7,120,20.0,20,0,1,League
+1324658,2022/23,BBL|12,2023-01-09,Bellerive Oval,2,Hobart Hurricanes,Melbourne Stars,133,8,106,17.4,20,0,1,League
+1324659,2022/23,BBL|12,2023-01-10,Adelaide Oval,1,Adelaide Strikers,Melbourne Renegades,202,4,120,20.0,20,0,1,League
+1324659,2022/23,BBL|12,2023-01-10,Adelaide Oval,2,Melbourne Renegades,Adelaide Strikers,182,6,120,20.0,20,0,1,League
+1324660,2022/23,BBL|12,2023-01-11,The Gabba,1,Brisbane Heat,Perth Scorchers,155,6,120,20.0,20,0,1,League
+1324660,2022/23,BBL|12,2023-01-11,The Gabba,2,Perth Scorchers,Brisbane Heat,157,2,98,16.2,20,0,1,League
+1324661,2022/23,BBL|12,2023-01-12,Melbourne Cricket Ground,1,Adelaide Strikers,Melbourne Stars,108,10,116,19.2,20,1,1,League
+1324661,2022/23,BBL|12,2023-01-12,Melbourne Cricket Ground,2,Melbourne Stars,Adelaide Strikers,109,1,87,14.3,20,0,1,League
+1324662,2022/23,BBL|12,2023-01-13,Sydney Showground Stadium,1,Sydney Thunder,Perth Scorchers,111,10,114,19.0,20,1,1,League
+1324662,2022/23,BBL|12,2023-01-13,Sydney Showground Stadium,2,Perth Scorchers,Sydney Thunder,112,1,77,12.5,20,0,1,League
+1324663,2022/23,BBL|12,2023-01-14,Adelaide Oval,1,Brisbane Heat,Adelaide Strikers,154,10,117,19.3,20,1,1,League
+1324663,2022/23,BBL|12,2023-01-14,Adelaide Oval,2,Adelaide Strikers,Brisbane Heat,137,9,120,20.0,20,0,1,League
+1324664,2022/23,BBL|12,2023-01-14,Docklands Stadium,1,Melbourne Renegades,Melbourne Stars,162,7,120,20.0,20,0,1,League
+1324664,2022/23,BBL|12,2023-01-14,Docklands Stadium,2,Melbourne Stars,Melbourne Renegades,156,7,120,20.0,20,0,1,League
+1324665,2022/23,BBL|12,2023-01-15,Bellerive Oval,1,Sydney Thunder,Hobart Hurricanes,135,10,120,20.0,20,1,1,League
+1324665,2022/23,BBL|12,2023-01-15,Bellerive Oval,2,Hobart Hurricanes,Sydney Thunder,136,5,97,16.1,20,0,1,League
+1324666,2022/23,BBL|12,2023-01-15,Sydney Cricket Ground,1,Sydney Sixers,Perth Scorchers,151,5,120,20.0,20,0,1,League
+1324666,2022/23,BBL|12,2023-01-15,Sydney Cricket Ground,2,Perth Scorchers,Sydney Sixers,145,7,120,20.0,20,0,1,League
+1324667,2022/23,BBL|12,2023-01-16,Melbourne Cricket Ground,1,Melbourne Stars,Brisbane Heat,159,7,120,20.0,20,0,1,League
+1324667,2022/23,BBL|12,2023-01-16,Melbourne Cricket Ground,2,Brisbane Heat,Melbourne Stars,160,7,120,20.0,20,0,1,League
+1324668,2022/23,BBL|12,2023-01-17,C.ex Coffs International Stadium,1,Sydney Sixers,Adelaide Strikers,203,5,120,20.0,20,0,1,League
+1324668,2022/23,BBL|12,2023-01-17,C.ex Coffs International Stadium,2,Adelaide Strikers,Sydney Sixers,144,10,114,19.0,20,1,1,League
+1324669,2022/23,BBL|12,2023-01-18,Perth Stadium,1,Hobart Hurricanes,Perth Scorchers,146,9,120,20.0,20,0,1,League
+1324669,2022/23,BBL|12,2023-01-18,Perth Stadium,2,Perth Scorchers,Hobart Hurricanes,147,3,105,17.3,20,0,1,League
+1324670,2022/23,BBL|12,2023-01-19,Manuka Oval,1,Melbourne Renegades,Sydney Thunder,142,9,120,20.0,20,0,1,League
+1324670,2022/23,BBL|12,2023-01-19,Manuka Oval,2,Sydney Thunder,Melbourne Renegades,144,2,111,18.3,20,0,1,League
+1324671,2022/23,BBL|12,2023-01-20,Adelaide Oval,1,Adelaide Strikers,Perth Scorchers,92,10,102,17.0,20,1,1,League
+1324671,2022/23,BBL|12,2023-01-20,Adelaide Oval,2,Perth Scorchers,Adelaide Strikers,94,3,67,11.1,20,0,1,League
+1324672,2022/23,BBL|12,2023-01-20,The Gabba,1,Brisbane Heat,Hobart Hurricanes,162,6,120,20.0,20,0,1,League
+1324672,2022/23,BBL|12,2023-01-20,The Gabba,2,Hobart Hurricanes,Brisbane Heat,150,6,120,20.0,20,0,1,League
+1324673,2022/23,BBL|12,2023-01-21,Sydney Cricket Ground,1,Sydney Sixers,Sydney Thunder,187,2,114,19.0,20,0,1,League
+1324673,2022/23,BBL|12,2023-01-21,Sydney Cricket Ground,2,Sydney Thunder,Sydney Sixers,62,10,88,14.4,19,1,0,League
+1324674,2022/23,BBL|12,2023-01-22,The Gabba,1,Brisbane Heat,Melbourne Stars,188,4,120,20.0,20,0,1,League
+1324674,2022/23,BBL|12,2023-01-22,The Gabba,2,Melbourne Stars,Brisbane Heat,184,3,120,20.0,20,0,1,League
+1324675,2022/23,BBL|12,2023-01-22,Perth Stadium,1,Perth Scorchers,Melbourne Renegades,212,5,120,20.0,20,0,1,League
+1324675,2022/23,BBL|12,2023-01-22,Perth Stadium,2,Melbourne Renegades,Perth Scorchers,202,5,120,20.0,20,0,1,League
+1324676,2022/23,BBL|12,2023-01-23,Bellerive Oval,1,Sydney Sixers,Hobart Hurricanes,180,7,120,20.0,20,0,1,League
+1324676,2022/23,BBL|12,2023-01-23,Bellerive Oval,2,Hobart Hurricanes,Sydney Sixers,156,8,120,20.0,20,0,1,League
+1324677,2022/23,BBL|12,2023-01-24,Docklands Stadium,1,Adelaide Strikers,Melbourne Renegades,142,7,120,20.0,20,0,1,League
+1324677,2022/23,BBL|12,2023-01-24,Docklands Stadium,2,Melbourne Renegades,Adelaide Strikers,143,4,110,18.2,20,0,1,League
+1324678,2022/23,BBL|12,2023-01-25,York Park,1,Hobart Hurricanes,Brisbane Heat,120,9,120,20.0,20,0,1,League
+1324678,2022/23,BBL|12,2023-01-25,York Park,2,Brisbane Heat,Hobart Hurricanes,118,8,120,20.0,20,0,1,League
+1324679,2022/23,BBL|12,2023-01-25,Melbourne Cricket Ground,1,Melbourne Stars,Sydney Thunder,119,7,120,20.0,20,0,1,League
+1324679,2022/23,BBL|12,2023-01-25,Melbourne Cricket Ground,2,Sydney Thunder,Melbourne Stars,120,7,113,18.5,20,0,1,League
+1324680,2022/23,BBL|12,2023-01-27,Sydney Showground Stadium,1,Brisbane Heat,Sydney Thunder,203,5,120,20.0,20,0,1,Eliminator
+1324680,2022/23,BBL|12,2023-01-27,Sydney Showground Stadium,2,Sydney Thunder,Brisbane Heat,52,1,41,6.5,6.5,0,0,Eliminator
+1324681,2022/23,BBL|12,2023-01-28,Perth Stadium,1,Sydney Sixers,Perth Scorchers,151,8,120,20.0,20,0,1,Qualifier
+1324681,2022/23,BBL|12,2023-01-28,Perth Stadium,2,Perth Scorchers,Sydney Sixers,154,3,111,18.3,20,0,1,Qualifier
+1324682,2022/23,BBL|12,2023-01-29,Docklands Stadium,1,Melbourne Renegades,Brisbane Heat,162,5,120,20.0,20,0,1,Knockout
+1324682,2022/23,BBL|12,2023-01-29,Docklands Stadium,2,Brisbane Heat,Melbourne Renegades,164,3,113,18.5,20,0,1,Knockout
+1324683,2022/23,BBL|12,2023-02-02,Sydney Cricket Ground,1,Sydney Sixers,Brisbane Heat,116,9,120,20.0,20,0,1,Challenger
+1324683,2022/23,BBL|12,2023-02-02,Sydney Cricket Ground,2,Brisbane Heat,Sydney Sixers,117,6,110,18.2,20,0,1,Challenger
+1324684,2022/23,BBL|12,2023-02-04,Perth Stadium,1,Brisbane Heat,Perth Scorchers,175,7,120,20.0,20,0,1,Final
+1324684,2022/23,BBL|12,2023-02-04,Perth Stadium,2,Perth Scorchers,Brisbane Heat,178,5,116,19.2,20,0,1,Final
+1386094,2023/24,BBL|13,2023-12-07,The Gabba,1,Brisbane Heat,Melbourne Stars,214,3,120,20.0,20,0,1,League
+1386094,2023/24,BBL|13,2023-12-07,The Gabba,2,Melbourne Stars,Brisbane Heat,111,10,91,15.1,20,1,1,League
+1386095,2023/24,BBL|13,2023-12-08,Sydney Cricket Ground,1,Sydney Sixers,Melbourne Renegades,175,6,120,20.0,20,0,1,League
+1386095,2023/24,BBL|13,2023-12-08,Sydney Cricket Ground,2,Melbourne Renegades,Sydney Sixers,167,7,120,20.0,20,0,1,League
+1386097,2023/24,BBL|13,2023-12-10,Kardinia Park,1,Perth Scorchers,Melbourne Renegades,30,2,41,6.5,20,0,1,League
+1386098,2023/24,BBL|13,2023-12-11,York Park,1,Hobart Hurricanes,Sydney Sixers,135,8,120,20.0,20,0,1,League
+1386098,2023/24,BBL|13,2023-12-11,York Park,2,Sydney Sixers,Hobart Hurricanes,139,4,116,19.2,20,0,1,League
+1386099,2023/24,BBL|13,2023-12-12,Manuka Oval,1,Brisbane Heat,Sydney Thunder,151,7,120,20.0,20,0,1,League
+1386099,2023/24,BBL|13,2023-12-12,Manuka Oval,2,Sydney Thunder,Brisbane Heat,131,10,114,19.0,20,1,1,League
+1386100,2023/24,BBL|13,2023-12-13,Melbourne Cricket Ground,1,Melbourne Stars,Perth Scorchers,101,10,115,19.1,20,1,1,League
+1386100,2023/24,BBL|13,2023-12-13,Melbourne Cricket Ground,2,Perth Scorchers,Melbourne Stars,102,3,83,13.5,20,0,1,League
+1386101,2023/24,BBL|13,2023-12-19,Adelaide Oval,1,Sydney Thunder,Adelaide Strikers,200,7,120,20.0,20,0,1,League
+1386101,2023/24,BBL|13,2023-12-19,Adelaide Oval,2,Adelaide Strikers,Sydney Thunder,205,4,118,19.4,20,0,1,League
+1386102,2023/24,BBL|13,2023-12-20,Perth Stadium,1,Hobart Hurricanes,Perth Scorchers,172,8,120,20.0,20,0,1,League
+1386102,2023/24,BBL|13,2023-12-20,Perth Stadium,2,Perth Scorchers,Hobart Hurricanes,173,1,97,16.1,20,0,1,League
+1386103,2023/24,BBL|13,2023-12-21,Docklands Stadium,1,Melbourne Renegades,Brisbane Heat,162,8,120,20.0,20,0,1,League
+1386103,2023/24,BBL|13,2023-12-21,Docklands Stadium,2,Brisbane Heat,Melbourne Renegades,163,4,109,18.1,20,0,1,League
+1386104,2023/24,BBL|13,2023-12-22,Sydney Cricket Ground,1,Sydney Sixers,Adelaide Strikers,155,7,120,20.0,20,0,1,League
+1386104,2023/24,BBL|13,2023-12-22,Sydney Cricket Ground,2,Adelaide Strikers,Sydney Sixers,154,6,120,20.0,20,0,1,League
+1386105,2023/24,BBL|13,2023-12-23,Lavington Sports Oval,1,Melbourne Stars,Sydney Thunder,172,10,120,20.0,20,1,1,League
+1386105,2023/24,BBL|13,2023-12-23,Lavington Sports Oval,2,Sydney Thunder,Melbourne Stars,176,5,110,18.2,20,0,1,League
+1386106,2023/24,BBL|13,2023-12-23,Bellerive Oval,1,Melbourne Renegades,Hobart Hurricanes,183,5,120,20.0,20,0,1,League
+1386106,2023/24,BBL|13,2023-12-23,Bellerive Oval,2,Hobart Hurricanes,Melbourne Renegades,187,4,114,19.0,20,0,1,League
+1386107,2023/24,BBL|13,2023-12-26,Sydney Cricket Ground,1,Sydney Sixers,Melbourne Stars,154,8,120,20.0,20,0,1,League
+1386107,2023/24,BBL|13,2023-12-26,Sydney Cricket Ground,2,Melbourne Stars,Sydney Sixers,155,6,117,19.3,20,0,1,League
+1386108,2023/24,BBL|13,2023-12-26,Perth Stadium,1,Perth Scorchers,Melbourne Renegades,162,10,118,19.4,20,1,1,League
+1386108,2023/24,BBL|13,2023-12-26,Perth Stadium,2,Melbourne Renegades,Perth Scorchers,149,8,120,20.0,20,0,1,League
+1386109,2023/24,BBL|13,2023-12-27,The Gabba,1,Brisbane Heat,Sydney Thunder,172,10,118,19.4,20,1,1,League
+1386109,2023/24,BBL|13,2023-12-27,The Gabba,2,Sydney Thunder,Brisbane Heat,157,9,120,20.0,20,0,1,League
+1386110,2023/24,BBL|13,2023-12-28,Bellerive Oval,1,Hobart Hurricanes,Melbourne Stars,155,10,118,19.4,20,1,1,League
+1386110,2023/24,BBL|13,2023-12-28,Bellerive Oval,2,Melbourne Stars,Hobart Hurricanes,67,3,39,6.3,7,0,0,League
+1386111,2023/24,BBL|13,2023-12-29,Docklands Stadium,1,Adelaide Strikers,Melbourne Renegades,177,6,120,20.0,20,0,1,League
+1386111,2023/24,BBL|13,2023-12-29,Docklands Stadium,2,Melbourne Renegades,Adelaide Strikers,178,6,112,18.4,20,0,1,League
+1386112,2023/24,BBL|13,2023-12-30,Sydney Showground Stadium,1,Sydney Thunder,Sydney Sixers,151,7,120,20.0,20,0,1,League
+1386112,2023/24,BBL|13,2023-12-30,Sydney Showground Stadium,2,Sydney Sixers,Sydney Thunder,34,1,24,4.0,20,0,1,League
+1386113,2023/24,BBL|13,2023-12-31,Adelaide Oval,1,Adelaide Strikers,Melbourne Stars,205,4,120,20.0,20,0,1,League
+1386113,2023/24,BBL|13,2023-12-31,Adelaide Oval,2,Melbourne Stars,Adelaide Strikers,211,3,114,19.0,20,0,1,League
+1386114,2023/24,BBL|13,2024-01-01,Bellerive Oval,1,Sydney Thunder,Hobart Hurricanes,150,8,120,20.0,20,0,1,League
+1386114,2023/24,BBL|13,2024-01-01,Bellerive Oval,2,Hobart Hurricanes,Sydney Thunder,151,3,109,18.1,20,0,1,League
+1386116,2023/24,BBL|13,2024-01-02,Melbourne Cricket Ground,1,Melbourne Renegades,Melbourne Stars,97,7,84,14.0,20,0,1,League
+1386116,2023/24,BBL|13,2024-01-02,Melbourne Cricket Ground,2,Melbourne Stars,Melbourne Renegades,98,2,72,12.0,14,0,0,League
+1386117,2023/24,BBL|13,2024-01-03,C.ex Coffs International Stadium,1,Sydney Sixers,Brisbane Heat,141,8,120,20.0,20,0,1,League
+1386117,2023/24,BBL|13,2024-01-03,C.ex Coffs International Stadium,2,Brisbane Heat,Sydney Sixers,104,4,87,14.3,14.3,0,0,League
+1386118,2023/24,BBL|13,2024-01-03,Perth Stadium,1,Perth Scorchers,Adelaide Strikers,211,4,120,20.0,20,0,1,League
+1386118,2023/24,BBL|13,2024-01-03,Perth Stadium,2,Adelaide Strikers,Perth Scorchers,169,10,116,19.2,20,1,1,League
+1386119,2023/24,BBL|13,2024-01-04,Docklands Stadium,1,Melbourne Renegades,Hobart Hurricanes,147,4,120,20.0,20,0,1,League
+1386119,2023/24,BBL|13,2024-01-04,Docklands Stadium,2,Hobart Hurricanes,Melbourne Renegades,148,4,112,18.4,20,0,1,League
+1386120,2023/24,BBL|13,2024-01-05,Adelaide Oval,1,Perth Scorchers,Adelaide Strikers,153,7,120,20.0,20,0,1,League
+1386120,2023/24,BBL|13,2024-01-05,Adelaide Oval,2,Adelaide Strikers,Perth Scorchers,154,1,97,16.1,20,0,1,League
+1386121,2023/24,BBL|13,2024-01-06,Melbourne Cricket Ground,1,Melbourne Stars,Sydney Sixers,156,4,120,20.0,20,0,1,League
+1386121,2023/24,BBL|13,2024-01-06,Melbourne Cricket Ground,2,Sydney Sixers,Melbourne Stars,160,3,109,18.1,20,0,1,League
+1386122,2023/24,BBL|13,2024-01-07,The Gabba,1,Brisbane Heat,Hobart Hurricanes,132,7,120,20.0,20,0,1,League
+1386122,2023/24,BBL|13,2024-01-07,The Gabba,2,Hobart Hurricanes,Brisbane Heat,116,9,96,16.0,16,0,0,League
+1386123,2023/24,BBL|13,2024-01-08,Sydney Showground Stadium,1,Sydney Thunder,Perth Scorchers,137,8,120,20.0,20,0,1,League
+1386123,2023/24,BBL|13,2024-01-08,Sydney Showground Stadium,2,Perth Scorchers,Sydney Thunder,140,3,115,19.1,20,0,1,League
+1386124,2023/24,BBL|13,2024-01-09,Adelaide Oval,1,Hobart Hurricanes,Adelaide Strikers,165,7,120,20.0,20,0,1,League
+1386124,2023/24,BBL|13,2024-01-09,Adelaide Oval,2,Adelaide Strikers,Hobart Hurricanes,168,5,116,19.2,20,0,1,League
+1386125,2023/24,BBL|13,2024-01-10,The Gabba,1,Brisbane Heat,Perth Scorchers,191,6,120,20.0,20,0,1,League
+1386125,2023/24,BBL|13,2024-01-10,The Gabba,2,Perth Scorchers,Brisbane Heat,168,9,120,20.0,20,0,1,League
+1386126,2023/24,BBL|13,2024-01-11,Bellerive Oval,1,Hobart Hurricanes,Adelaide Strikers,167,6,120,20.0,20,0,1,League
+1386126,2023/24,BBL|13,2024-01-11,Bellerive Oval,2,Adelaide Strikers,Hobart Hurricanes,169,2,95,15.5,20,0,1,League
+1386127,2023/24,BBL|13,2024-01-12,Sydney Cricket Ground,1,Sydney Sixers,Sydney Thunder,151,7,120,20.0,20,0,1,League
+1386127,2023/24,BBL|13,2024-01-12,Sydney Cricket Ground,2,Sydney Thunder,Sydney Sixers,132,10,119,19.5,20,1,1,League
+1386128,2023/24,BBL|13,2024-01-13,Perth Stadium,1,Perth Scorchers,Brisbane Heat,158,6,120,20.0,20,0,1,League
+1386128,2023/24,BBL|13,2024-01-13,Perth Stadium,2,Brisbane Heat,Perth Scorchers,128,10,119,19.5,20,1,1,League
+1386129,2023/24,BBL|13,2024-01-13,Docklands Stadium,1,Melbourne Stars,Melbourne Renegades,137,8,120,20.0,20,0,1,League
+1386129,2023/24,BBL|13,2024-01-13,Docklands Stadium,2,Melbourne Renegades,Melbourne Stars,139,4,104,17.2,20,0,1,League
+1386130,2023/24,BBL|13,2024-01-14,Manuka Oval,1,Sydney Thunder,Adelaide Strikers,140,10,116,19.2,20,1,1,League
+1386130,2023/24,BBL|13,2024-01-14,Manuka Oval,2,Adelaide Strikers,Sydney Thunder,141,1,97,16.1,20,0,1,League
+1386131,2023/24,BBL|13,2024-01-15,Melbourne Cricket Ground,1,Hobart Hurricanes,Melbourne Stars,187,8,120,20.0,20,0,1,League
+1386131,2023/24,BBL|13,2024-01-15,Melbourne Cricket Ground,2,Melbourne Stars,Hobart Hurricanes,180,4,120,20.0,20,0,1,League
+1386132,2023/24,BBL|13,2024-01-16,Perth Stadium,1,Perth Scorchers,Sydney Sixers,197,4,120,20.0,20,0,1,League
+1386132,2023/24,BBL|13,2024-01-16,Perth Stadium,2,Sydney Sixers,Perth Scorchers,201,7,120,20.0,20,0,1,League
+1386134,2023/24,BBL|13,2024-01-19,Carrara Oval,1,Sydney Sixers,Brisbane Heat,152,8,120,20.0,20,0,1,Qualifier
+1386134,2023/24,BBL|13,2024-01-19,Carrara Oval,2,Brisbane Heat,Sydney Sixers,113,10,107,17.5,20,1,1,Qualifier
+1386135,2023/24,BBL|13,2024-01-20,Perth Stadium,1,Adelaide Strikers,Perth Scorchers,155,7,120,20.0,20,0,1,Knockout
+1386135,2023/24,BBL|13,2024-01-20,Perth Stadium,2,Perth Scorchers,Adelaide Strikers,105,10,98,16.2,20,1,1,Knockout
+1386136,2023/24,BBL|13,2024-01-22,Carrara Oval,1,Brisbane Heat,Adelaide Strikers,214,7,120,20.0,20,0,1,Challenger
+1386136,2023/24,BBL|13,2024-01-22,Carrara Oval,2,Adelaide Strikers,Brisbane Heat,160,10,119,19.5,20,1,1,Challenger
+1386137,2023/24,BBL|13,2024-01-24,Sydney Cricket Ground,1,Brisbane Heat,Sydney Sixers,166,8,120,20.0,20,0,1,Final
+1386137,2023/24,BBL|13,2024-01-24,Sydney Cricket Ground,2,Sydney Sixers,Brisbane Heat,112,10,105,17.3,20,1,1,Final
+1443057,2024/25,BBL|14,2024-12-15,Perth Stadium,1,Melbourne Stars,Perth Scorchers,146,9,120,20.0,20,0,1,League
+1443057,2024/25,BBL|14,2024-12-15,Perth Stadium,2,Perth Scorchers,Melbourne Stars,150,4,103,17.1,20,0,1,League
+1443058,2024/25,BBL|14,2024-12-16,Sydney Cricket Ground,1,Melbourne Renegades,Sydney Sixers,169,7,120,20.0,20,0,1,League
+1443058,2024/25,BBL|14,2024-12-16,Sydney Cricket Ground,2,Sydney Sixers,Melbourne Renegades,172,5,111,18.3,20,0,1,League
+1443059,2024/25,BBL|14,2024-12-17,Manuka Oval,1,Adelaide Strikers,Sydney Thunder,182,8,120,20.0,20,0,1,League
+1443059,2024/25,BBL|14,2024-12-17,Manuka Oval,2,Sydney Thunder,Adelaide Strikers,183,8,118,19.4,20,0,1,League
+1443060,2024/25,BBL|14,2024-12-18,Melbourne Cricket Ground,1,Melbourne Stars,Brisbane Heat,162,6,120,20.0,20,0,1,League
+1443060,2024/25,BBL|14,2024-12-18,Melbourne Cricket Ground,2,Brisbane Heat,Melbourne Stars,163,2,109,18.1,20,0,1,League
+1443061,2024/25,BBL|14,2024-12-19,Kardinia Park,1,Hobart Hurricanes,Melbourne Renegades,74,10,76,12.4,20,1,1,League
+1443061,2024/25,BBL|14,2024-12-19,Kardinia Park,2,Melbourne Renegades,Hobart Hurricanes,78,4,54,9.0,20,0,1,League
+1443062,2024/25,BBL|14,2024-12-20,Adelaide Oval,1,Adelaide Strikers,Melbourne Stars,165,6,120,20.0,20,0,1,League
+1443062,2024/25,BBL|14,2024-12-20,Adelaide Oval,2,Melbourne Stars,Adelaide Strikers,150,9,120,20.0,20,0,1,League
+1443063,2024/25,BBL|14,2024-12-21,Bellerive Oval,1,Perth Scorchers,Hobart Hurricanes,155,6,120,20.0,20,0,1,League
+1443063,2024/25,BBL|14,2024-12-21,Bellerive Oval,2,Hobart Hurricanes,Perth Scorchers,156,2,116,19.2,20,0,1,League
+1443064,2024/25,BBL|14,2024-12-21,Sydney Showground Stadium,1,Sydney Thunder,Sydney Sixers,163,5,120,20.0,20,0,1,League
+1443064,2024/25,BBL|14,2024-12-21,Sydney Showground Stadium,2,Sydney Sixers,Sydney Thunder,164,5,120,20.0,20,0,1,League
+1443065,2024/25,BBL|14,2024-12-22,The Gabba,1,Adelaide Strikers,Brisbane Heat,174,6,120,20.0,20,0,1,League
+1443065,2024/25,BBL|14,2024-12-22,The Gabba,2,Brisbane Heat,Adelaide Strikers,175,7,120,20.0,20,0,1,League
+1443066,2024/25,BBL|14,2024-12-23,Docklands Stadium,1,Perth Scorchers,Melbourne Renegades,143,8,120,20.0,20,0,1,League
+1443066,2024/25,BBL|14,2024-12-23,Docklands Stadium,2,Melbourne Renegades,Perth Scorchers,144,8,114,19.0,20,0,1,League
+1443067,2024/25,BBL|14,2024-12-26,Sydney Cricket Ground,1,Melbourne Stars,Sydney Sixers,194,9,120,20.0,20,0,1,League
+1443067,2024/25,BBL|14,2024-12-26,Sydney Cricket Ground,2,Sydney Sixers,Melbourne Stars,198,2,109,18.1,20,0,1,League
+1443068,2024/25,BBL|14,2024-12-26,Perth Stadium,1,Perth Scorchers,Brisbane Heat,165,6,120,20.0,20,0,1,League
+1443068,2024/25,BBL|14,2024-12-26,Perth Stadium,2,Brisbane Heat,Perth Scorchers,132,10,118,19.4,20,1,1,League
+1443069,2024/25,BBL|14,2024-12-27,Adelaide Oval,1,Hobart Hurricanes,Adelaide Strikers,214,5,120,20.0,20,0,1,League
+1443069,2024/25,BBL|14,2024-12-27,Adelaide Oval,2,Adelaide Strikers,Hobart Hurricanes,203,6,120,20.0,20,0,1,League
+1443070,2024/25,BBL|14,2024-12-28,Manuka Oval,1,Sydney Thunder,Melbourne Stars,182,8,120,20.0,20,0,1,League
+1443070,2024/25,BBL|14,2024-12-28,Manuka Oval,2,Melbourne Stars,Sydney Thunder,164,8,120,20.0,20,0,1,League
+1443071,2024/25,BBL|14,2024-12-29,The Gabba,1,Brisbane Heat,Sydney Sixers,138,9,120,20.0,20,0,1,League
+1443071,2024/25,BBL|14,2024-12-29,The Gabba,2,Sydney Sixers,Brisbane Heat,142,2,97,16.1,20,0,1,League
+1443072,2024/25,BBL|14,2024-12-30,Sydney Showground Stadium,1,Sydney Thunder,Melbourne Renegades,156,4,120,20.0,20,0,1,League
+1443072,2024/25,BBL|14,2024-12-30,Sydney Showground Stadium,2,Melbourne Renegades,Sydney Thunder,148,8,120,20.0,20,0,1,League
+1443073,2024/25,BBL|14,2024-12-31,Adelaide Oval,1,Adelaide Strikers,Perth Scorchers,142,8,120,20.0,20,0,1,League
+1443073,2024/25,BBL|14,2024-12-31,Adelaide Oval,2,Perth Scorchers,Adelaide Strikers,146,3,87,14.3,20,0,1,League
+1443074,2024/25,BBL|14,2025-01-01,Bellerive Oval,1,Hobart Hurricanes,Sydney Sixers,161,6,120,20.0,20,0,1,League
+1443074,2024/25,BBL|14,2025-01-01,Bellerive Oval,2,Sydney Sixers,Hobart Hurricanes,111,10,117,19.3,20,1,1,League
+1443075,2024/25,BBL|14,2025-01-01,The Gabba,1,Brisbane Heat,Melbourne Stars,149,7,120,20.0,20,0,1,League
+1443075,2024/25,BBL|14,2025-01-01,The Gabba,2,Melbourne Stars,Brisbane Heat,153,5,109,18.1,20,0,1,League
+1443076,2024/25,BBL|14,2025-01-02,Docklands Stadium,1,Melbourne Renegades,Adelaide Strikers,142,9,120,20.0,20,0,1,League
+1443076,2024/25,BBL|14,2025-01-02,Docklands Stadium,2,Adelaide Strikers,Melbourne Renegades,143,5,103,17.1,20,0,1,League
+1443078,2024/25,BBL|14,2025-01-03,Perth Stadium,1,Perth Scorchers,Sydney Thunder,177,4,120,20.0,20,0,1,League
+1443078,2024/25,BBL|14,2025-01-03,Perth Stadium,2,Sydney Thunder,Perth Scorchers,179,6,120,20.0,20,0,1,League
+1443079,2024/25,BBL|14,2025-01-04,Melbourne Cricket Ground,1,Melbourne Renegades,Melbourne Stars,168,7,120,20.0,20,0,1,League
+1443079,2024/25,BBL|14,2025-01-04,Melbourne Cricket Ground,2,Melbourne Stars,Melbourne Renegades,171,5,118,19.4,20,0,1,League
+1443080,2024/25,BBL|14,2025-01-05,Bellerive Oval,1,Adelaide Strikers,Hobart Hurricanes,186,5,120,20.0,20,0,1,League
+1443080,2024/25,BBL|14,2025-01-05,Bellerive Oval,2,Hobart Hurricanes,Adelaide Strikers,187,5,112,18.4,20,0,1,League
+1443081,2024/25,BBL|14,2025-01-06,The Gabba,1,Sydney Thunder,Brisbane Heat,173,8,120,20.0,20,0,1,League
+1443081,2024/25,BBL|14,2025-01-06,The Gabba,2,Brisbane Heat,Sydney Thunder,174,5,113,18.5,20,0,1,League
+1443082,2024/25,BBL|14,2025-01-07,Perth Stadium,1,Perth Scorchers,Melbourne Renegades,147,8,120,20.0,20,0,1,League
+1443082,2024/25,BBL|14,2025-01-07,Perth Stadium,2,Melbourne Renegades,Perth Scorchers,150,6,118,19.4,20,0,1,League
+1443084,2024/25,BBL|14,2025-01-09,Melbourne Cricket Ground,1,Melbourne Stars,Sydney Sixers,156,5,120,20.0,20,0,1,League
+1443084,2024/25,BBL|14,2025-01-09,Melbourne Cricket Ground,2,Sydney Sixers,Melbourne Stars,140,9,120,20.0,20,0,1,League
+1443085,2024/25,BBL|14,2025-01-10,Bellerive Oval,1,Sydney Thunder,Hobart Hurricanes,164,6,120,20.0,20,0,1,League
+1443085,2024/25,BBL|14,2025-01-10,Bellerive Oval,2,Hobart Hurricanes,Sydney Thunder,165,4,101,16.5,20,0,1,League
+1443086,2024/25,BBL|14,2025-01-11,Sydney Cricket Ground,1,Sydney Sixers,Perth Scorchers,220,3,120,20.0,20,0,1,League
+1443086,2024/25,BBL|14,2025-01-11,Sydney Cricket Ground,2,Perth Scorchers,Sydney Sixers,206,7,120,20.0,20,0,1,League
+1443087,2024/25,BBL|14,2025-01-11,Adelaide Oval,1,Adelaide Strikers,Brisbane Heat,251,5,120,20.0,20,0,1,League
+1443087,2024/25,BBL|14,2025-01-11,Adelaide Oval,2,Brisbane Heat,Adelaide Strikers,195,10,120,20.0,20,1,1,League
+1443088,2024/25,BBL|14,2025-01-12,Docklands Stadium,1,Melbourne Stars,Melbourne Renegades,165,10,120,20.0,20,1,1,League
+1443088,2024/25,BBL|14,2025-01-12,Docklands Stadium,2,Melbourne Renegades,Melbourne Stars,123,10,119,19.5,20,1,1,League
+1443089,2024/25,BBL|14,2025-01-13,Sydney Showground Stadium,1,Sydney Thunder,Perth Scorchers,158,7,120,20.0,20,0,1,League
+1443089,2024/25,BBL|14,2025-01-13,Sydney Showground Stadium,2,Perth Scorchers,Sydney Thunder,97,10,104,17.2,20,1,1,League
+1443090,2024/25,BBL|14,2025-01-14,Bellerive Oval,1,Melbourne Renegades,Hobart Hurricanes,154,7,120,20.0,20,0,1,League
+1443090,2024/25,BBL|14,2025-01-14,Bellerive Oval,2,Hobart Hurricanes,Melbourne Renegades,155,6,118,19.4,20,0,1,League
+1443091,2024/25,BBL|14,2025-01-15,Adelaide Oval,1,Adelaide Strikers,Sydney Sixers,182,5,120,20.0,20,0,1,League
+1443091,2024/25,BBL|14,2025-01-15,Adelaide Oval,2,Sydney Sixers,Adelaide Strikers,183,7,119,19.5,20,0,1,League
+1443092,2024/25,BBL|14,2025-01-16,The Gabba,1,Brisbane Heat,Hobart Hurricanes,201,6,120,20.0,20,0,1,League
+1443092,2024/25,BBL|14,2025-01-16,The Gabba,2,Hobart Hurricanes,Brisbane Heat,207,5,120,20.0,20,0,1,League
+1443093,2024/25,BBL|14,2025-01-17,Sydney Cricket Ground,1,Sydney Thunder,Sydney Sixers,36,1,31,5.1,20,0,1,League
+1443094,2024/25,BBL|14,2025-01-18,Docklands Stadium,1,Brisbane Heat,Melbourne Renegades,196,4,120,20.0,20,0,1,League
+1443094,2024/25,BBL|14,2025-01-18,Docklands Stadium,2,Melbourne Renegades,Brisbane Heat,199,7,108,18.0,20,0,1,League
+1443095,2024/25,BBL|14,2025-01-18,Perth Stadium,1,Adelaide Strikers,Perth Scorchers,161,10,115,19.1,20,1,1,League
+1443095,2024/25,BBL|14,2025-01-18,Perth Stadium,2,Perth Scorchers,Adelaide Strikers,163,5,98,16.2,20,0,1,League
+1443096,2024/25,BBL|14,2025-01-19,Melbourne Cricket Ground,1,Melbourne Stars,Hobart Hurricanes,219,5,120,20.0,20,0,1,League
+1443096,2024/25,BBL|14,2025-01-19,Melbourne Cricket Ground,2,Hobart Hurricanes,Melbourne Stars,179,10,117,19.3,20,1,1,League
+1443097,2024/25,BBL|14,2025-01-21,Bellerive Oval,1,Hobart Hurricanes,Sydney Sixers,173,7,120,20.0,20,0,1,Qualifier
+1443097,2024/25,BBL|14,2025-01-21,Bellerive Oval,2,Sydney Sixers,Hobart Hurricanes,161,5,120,20.0,20,0,1,Qualifier
+1443098,2024/25,BBL|14,2025-01-22,Sydney Showground Stadium,1,Sydney Thunder,Melbourne Stars,135,7,114,19.0,20,0,1,Knockout
+1443098,2024/25,BBL|14,2025-01-22,Sydney Showground Stadium,2,Melbourne Stars,Sydney Thunder,114,10,108,18.0,19,1,0,Knockout
+1443099,2024/25,BBL|14,2025-01-24,Sydney Cricket Ground,1,Sydney Sixers,Sydney Thunder,151,7,120,20.0,20,0,1,Challenger
+1443099,2024/25,BBL|14,2025-01-24,Sydney Cricket Ground,2,Sydney Thunder,Sydney Sixers,157,6,113,18.5,20,0,1,Challenger
+1443100,2024/25,BBL|14,2025-01-27,Bellerive Oval,1,Sydney Thunder,Hobart Hurricanes,182,7,120,20.0,20,0,1,Final
+1443100,2024/25,BBL|14,2025-01-27,Bellerive Oval,2,Hobart Hurricanes,Sydney Thunder,185,3,85,14.1,20,0,1,Final
+1493238,2025/26,BBL|15,2025-12-14,Perth Stadium,1,Sydney Sixers,Perth Scorchers,113,5,66,11.0,20,0,1,League
+1493238,2025/26,BBL|15,2025-12-14,Perth Stadium,2,Perth Scorchers,Sydney Sixers,117,5,61,10.1,11,0,0,League
+1493239,2025/26,BBL|15,2025-12-15,Kardinia Park,1,Melbourne Renegades,Brisbane Heat,212,5,120,20.0,20,0,1,League
+1493239,2025/26,BBL|15,2025-12-15,Kardinia Park,2,Brisbane Heat,Melbourne Renegades,198,8,120,20.0,20,0,1,League
+1493240,2025/26,BBL|15,2025-12-16,Bellerive Oval,1,Sydney Thunder,Hobart Hurricanes,180,6,120,20.0,20,0,1,League
+1493240,2025/26,BBL|15,2025-12-16,Bellerive Oval,2,Hobart Hurricanes,Sydney Thunder,181,6,119,19.5,20,0,1,League
+1493241,2025/26,BBL|15,2025-12-17,Sydney Cricket Ground,1,Sydney Sixers,Adelaide Strikers,159,9,120,20.0,20,0,1,League
+1493241,2025/26,BBL|15,2025-12-17,Sydney Cricket Ground,2,Adelaide Strikers,Sydney Sixers,160,7,116,19.2,20,0,1,League
+1493242,2025/26,BBL|15,2025-12-18,Melbourne Cricket Ground,1,Hobart Hurricanes,Melbourne Stars,158,9,120,20.0,20,0,1,League
+1493242,2025/26,BBL|15,2025-12-18,Melbourne Cricket Ground,2,Melbourne Stars,Hobart Hurricanes,159,2,96,16.0,20,0,1,League
+1493243,2025/26,BBL|15,2025-12-19,The Gabba,1,Perth Scorchers,Brisbane Heat,257,6,120,20.0,20,0,1,League
+1493243,2025/26,BBL|15,2025-12-19,The Gabba,2,Brisbane Heat,Perth Scorchers,258,2,119,19.5,20,0,1,League
+1493244,2025/26,BBL|15,2025-12-20,Sydney Showground Stadium,1,Sydney Sixers,Sydney Thunder,198,5,120,20.0,20,0,1,League
+1493244,2025/26,BBL|15,2025-12-20,Sydney Showground Stadium,2,Sydney Thunder,Sydney Sixers,151,10,115,19.1,20,1,1,League
+1493245,2025/26,BBL|15,2025-12-21,Kardinia Park,1,Melbourne Renegades,Hobart Hurricanes,145,9,120,20.0,20,0,1,League
+1493245,2025/26,BBL|15,2025-12-21,Kardinia Park,2,Hobart Hurricanes,Melbourne Renegades,149,3,83,13.5,20,0,1,League
+1493246,2025/26,BBL|15,2025-12-22,Manuka Oval,1,Sydney Thunder,Brisbane Heat,193,4,120,20.0,20,0,1,League
+1493246,2025/26,BBL|15,2025-12-22,Manuka Oval,2,Brisbane Heat,Sydney Thunder,159,6,120,20.0,20,0,1,League
+1493247,2025/26,BBL|15,2025-12-23,Adelaide Oval,1,Adelaide Strikers,Melbourne Stars,155,8,120,20.0,20,0,1,League
+1493247,2025/26,BBL|15,2025-12-23,Adelaide Oval,2,Melbourne Stars,Adelaide Strikers,161,4,109,18.1,20,0,1,League
+1493248,2025/26,BBL|15,2025-12-26,Sydney Cricket Ground,1,Sydney Sixers,Melbourne Stars,144,10,120,20.0,20,1,1,League
+1493248,2025/26,BBL|15,2025-12-26,Sydney Cricket Ground,2,Melbourne Stars,Sydney Sixers,145,3,105,17.3,20,0,1,League
+1493249,2025/26,BBL|15,2025-12-26,Perth Stadium,1,Perth Scorchers,Hobart Hurricanes,150,8,120,20.0,20,0,1,League
+1493249,2025/26,BBL|15,2025-12-26,Perth Stadium,2,Hobart Hurricanes,Perth Scorchers,153,6,117,19.3,20,0,1,League
+1493250,2025/26,BBL|15,2025-12-27,The Gabba,1,Brisbane Heat,Adelaide Strikers,179,9,120,20.0,20,0,1,League
+1493250,2025/26,BBL|15,2025-12-27,The Gabba,2,Adelaide Strikers,Brisbane Heat,172,10,119,19.5,20,1,1,League
+1493251,2025/26,BBL|15,2025-12-28,Manuka Oval,1,Sydney Thunder,Melbourne Stars,128,10,120,20.0,20,1,1,League
+1493251,2025/26,BBL|15,2025-12-28,Manuka Oval,2,Melbourne Stars,Sydney Thunder,132,1,84,14.0,20,0,1,League
+1493252,2025/26,BBL|15,2025-12-29,Bellerive Oval,1,Melbourne Renegades,Hobart Hurricanes,162,9,120,20.0,20,0,1,League
+1493252,2025/26,BBL|15,2025-12-29,Bellerive Oval,2,Hobart Hurricanes,Melbourne Renegades,163,6,114,19.0,20,0,1,League
+1493253,2025/26,BBL|15,2025-12-30,Sydney Showground Stadium,1,Perth Scorchers,Sydney Thunder,202,8,120,20.0,20,0,1,League
+1493253,2025/26,BBL|15,2025-12-30,Sydney Showground Stadium,2,Sydney Thunder,Perth Scorchers,131,10,105,17.3,20,1,1,League
+1493254,2025/26,BBL|15,2025-12-31,Adelaide Oval,1,Brisbane Heat,Adelaide Strikers,121,10,118,19.4,20,1,1,League
+1493254,2025/26,BBL|15,2025-12-31,Adelaide Oval,2,Adelaide Strikers,Brisbane Heat,125,3,85,14.1,20,0,1,League
+1493255,2025/26,BBL|15,2026-01-01,Docklands Stadium,1,Melbourne Renegades,Sydney Sixers,164,9,120,20.0,20,0,1,League
+1493255,2025/26,BBL|15,2026-01-01,Docklands Stadium,2,Sydney Sixers,Melbourne Renegades,168,4,115,19.1,20,0,1,League
+1493256,2025/26,BBL|15,2026-01-01,Bellerive Oval,1,Perth Scorchers,Hobart Hurricanes,229,3,120,20.0,20,0,1,League
+1493256,2025/26,BBL|15,2026-01-01,Bellerive Oval,2,Hobart Hurricanes,Perth Scorchers,189,9,120,20.0,20,0,1,League
+1493257,2025/26,BBL|15,2026-01-02,The Gabba,1,Melbourne Stars,Brisbane Heat,195,6,120,20.0,20,0,1,League
+1493257,2025/26,BBL|15,2026-01-02,The Gabba,2,Brisbane Heat,Melbourne Stars,199,6,118,19.4,20,0,1,League
+1493258,2025/26,BBL|15,2026-01-03,Sydney Showground Stadium,1,Sydney Thunder,Hobart Hurricanes,205,4,120,20.0,20,0,1,League
+1493258,2025/26,BBL|15,2026-01-03,Sydney Showground Stadium,2,Hobart Hurricanes,Sydney Thunder,207,4,107,17.5,20,0,1,League
+1493259,2025/26,BBL|15,2026-01-04,Melbourne Cricket Ground,1,Melbourne Stars,Melbourne Renegades,173,9,120,20.0,20,0,1,League
+1493259,2025/26,BBL|15,2026-01-04,Melbourne Cricket Ground,2,Melbourne Renegades,Melbourne Stars,177,6,119,19.5,20,0,1,League
+1493260,2025/26,BBL|15,2026-01-04,Perth Stadium,1,Perth Scorchers,Adelaide Strikers,153,8,120,20.0,20,0,1,League
+1493260,2025/26,BBL|15,2026-01-04,Perth Stadium,2,Adelaide Strikers,Perth Scorchers,120,10,109,18.1,20,1,1,League
+1493261,2025/26,BBL|15,2026-01-05,C.ex Coffs International Stadium,1,Brisbane Heat,Sydney Sixers,114,9,120,20.0,20,0,1,League
+1493261,2025/26,BBL|15,2026-01-05,C.ex Coffs International Stadium,2,Sydney Sixers,Brisbane Heat,118,7,112,18.4,20,0,1,League
+1493262,2025/26,BBL|15,2026-01-06,Adelaide Oval,1,Adelaide Strikers,Sydney Thunder,165,8,120,20.0,20,0,1,League
+1493262,2025/26,BBL|15,2026-01-06,Adelaide Oval,2,Sydney Thunder,Adelaide Strikers,159,7,120,20.0,20,0,1,League
+1493263,2025/26,BBL|15,2026-01-07,Perth Stadium,1,Perth Scorchers,Melbourne Renegades,127,10,116,19.2,20,1,1,League
+1493263,2025/26,BBL|15,2026-01-07,Perth Stadium,2,Melbourne Renegades,Perth Scorchers,130,6,120,20.0,20,0,1,League
+1493264,2025/26,BBL|15,2026-01-08,Melbourne Cricket Ground,1,Melbourne Stars,Sydney Sixers,128,10,119,19.5,20,1,1,League
+1493264,2025/26,BBL|15,2026-01-08,Melbourne Cricket Ground,2,Sydney Sixers,Melbourne Stars,129,4,103,17.1,20,0,1,League
+1493265,2025/26,BBL|15,2026-01-09,Bellerive Oval,1,Hobart Hurricanes,Adelaide Strikers,178,6,120,20.0,20,0,1,League
+1493265,2025/26,BBL|15,2026-01-09,Bellerive Oval,2,Adelaide Strikers,Hobart Hurricanes,141,9,120,20.0,20,0,1,League
+1493266,2025/26,BBL|15,2026-01-10,The Gabba,1,Sydney Thunder,Brisbane Heat,180,6,120,20.0,20,0,1,League
+1493266,2025/26,BBL|15,2026-01-10,The Gabba,2,Brisbane Heat,Sydney Thunder,183,3,98,16.2,20,0,1,League
+1493267,2025/26,BBL|15,2026-01-10,Docklands Stadium,1,Melbourne Renegades,Melbourne Stars,166,7,120,20.0,20,0,1,League
+1493267,2025/26,BBL|15,2026-01-10,Docklands Stadium,2,Melbourne Stars,Melbourne Renegades,170,2,95,15.5,20,0,1,League
+1493268,2025/26,BBL|15,2026-01-11,Sydney Cricket Ground,1,Sydney Sixers,Hobart Hurricanes,32,0,30,5.0,20,0,1,League
+1493269,2025/26,BBL|15,2026-01-11,Adelaide Oval,1,Perth Scorchers,Adelaide Strikers,232,4,120,20.0,20,0,1,League
+1493269,2025/26,BBL|15,2026-01-11,Adelaide Oval,2,Adelaide Strikers,Perth Scorchers,200,8,120,20.0,20,0,1,League
+1493270,2025/26,BBL|15,2026-01-12,Sydney Showground Stadium,1,Melbourne Renegades,Sydney Thunder,170,8,120,20.0,20,0,1,League
+1493270,2025/26,BBL|15,2026-01-12,Sydney Showground Stadium,2,Sydney Thunder,Melbourne Renegades,140,6,92,15.2,16,0,0,League
+1493271,2025/26,BBL|15,2026-01-13,Melbourne Cricket Ground,1,Adelaide Strikers,Melbourne Stars,83,10,117,19.3,20,1,1,League
+1493271,2025/26,BBL|15,2026-01-13,Melbourne Cricket Ground,2,Melbourne Stars,Adelaide Strikers,86,4,91,15.1,20,0,1,League
+1493272,2025/26,BBL|15,2026-01-14,Bellerive Oval,1,Brisbane Heat,Hobart Hurricanes,160,8,120,20.0,20,0,1,League
+1493272,2025/26,BBL|15,2026-01-14,Bellerive Oval,2,Hobart Hurricanes,Brisbane Heat,157,8,120,20.0,20,0,1,League
+1493273,2025/26,BBL|15,2026-01-15,Docklands Stadium,1,Perth Scorchers,Melbourne Renegades,219,7,120,20.0,20,0,1,League
+1493273,2025/26,BBL|15,2026-01-15,Docklands Stadium,2,Melbourne Renegades,Perth Scorchers,169,7,120,20.0,20,0,1,League
+1493274,2025/26,BBL|15,2026-01-16,Sydney Cricket Ground,1,Sydney Thunder,Sydney Sixers,189,6,120,20.0,20,0,1,League
+1493274,2025/26,BBL|15,2026-01-16,Sydney Cricket Ground,2,Sydney Sixers,Sydney Thunder,191,5,104,17.2,20,0,1,League
+1493275,2025/26,BBL|15,2026-01-17,Adelaide Oval,1,Melbourne Renegades,Adelaide Strikers,99,10,101,16.5,20,1,1,League
+1493275,2025/26,BBL|15,2026-01-17,Adelaide Oval,2,Adelaide Strikers,Melbourne Renegades,100,2,71,11.5,20,0,1,League
+1493276,2025/26,BBL|15,2026-01-17,Perth Stadium,1,Melbourne Stars,Perth Scorchers,130,10,110,18.2,20,1,1,League
+1493276,2025/26,BBL|15,2026-01-17,Perth Stadium,2,Perth Scorchers,Melbourne Stars,134,4,101,16.5,20,0,1,League
+1493277,2025/26,BBL|15,2026-01-18,The Gabba,1,Brisbane Heat,Sydney Sixers,171,9,120,20.0,20,0,1,League
+1493277,2025/26,BBL|15,2026-01-18,The Gabba,2,Sydney Sixers,Brisbane Heat,177,5,112,18.4,20,0,1,League
+1493278,2025/26,BBL|15,2026-01-20,Perth Stadium,1,Perth Scorchers,Sydney Sixers,147,9,120,20.0,20,0,1,Qualifier
+1493278,2025/26,BBL|15,2026-01-20,Perth Stadium,2,Sydney Sixers,Perth Scorchers,99,10,90,15.0,20,1,1,Qualifier
+1493279,2025/26,BBL|15,2026-01-21,Bellerive Oval,1,Hobart Hurricanes,Melbourne Stars,114,5,60,10.0,20,0,1,Knockout
+1493279,2025/26,BBL|15,2026-01-21,Bellerive Oval,2,Melbourne Stars,Hobart Hurricanes,81,4,42,7.0,7,0,0,Knockout
+1493280,2025/26,BBL|15,2026-01-23,Sydney Cricket Ground,1,Sydney Sixers,Hobart Hurricanes,198,8,120,20.0,20,0,1,Challenger
+1493280,2025/26,BBL|15,2026-01-23,Sydney Cricket Ground,2,Hobart Hurricanes,Sydney Sixers,141,10,104,17.2,20,1,1,Challenger
+1493281,2025/26,BBL|15,2026-01-25,Perth Stadium,1,Sydney Sixers,Perth Scorchers,132,10,120,20.0,20,1,1,Final
+1493281,2025/26,BBL|15,2026-01-25,Perth Stadium,2,Perth Scorchers,Sydney Sixers,133,4,105,17.3,20,0,1,Final
+524915,2011/12,BBL|01,2011-12-16,Sydney Cricket Ground,1,Brisbane Heat,Sydney Sixers,139,8,120,20.0,20,0,1,League
+524915,2011/12,BBL|01,2011-12-16,Sydney Cricket Ground,2,Sydney Sixers,Brisbane Heat,140,3,112,18.4,20,0,1,League
+524916,2011/12,BBL|01,2011-12-17,Melbourne Cricket Ground,1,Melbourne Stars,Sydney Thunder,153,7,120,20.0,20,0,1,League
+524916,2011/12,BBL|01,2011-12-17,Melbourne Cricket Ground,2,Sydney Thunder,Melbourne Stars,154,4,114,19.0,20,0,1,League
+524917,2011/12,BBL|01,2011-12-18,Adelaide Oval,1,Adelaide Strikers,Melbourne Renegades,189,5,120,20.0,20,0,1,League
+524917,2011/12,BBL|01,2011-12-18,Adelaide Oval,2,Melbourne Renegades,Adelaide Strikers,122,10,107,17.5,20,1,1,League
+524918,2011/12,BBL|01,2011-12-18,WACA Ground,1,Hobart Hurricanes,Perth Scorchers,140,10,117,19.3,20,1,1,League
+524918,2011/12,BBL|01,2011-12-18,WACA Ground,2,Perth Scorchers,Hobart Hurricanes,109,10,119,19.5,20,1,1,League
+524919,2011/12,BBL|01,2011-12-20,The Gabba,1,Melbourne Stars,Brisbane Heat,177,7,120,20.0,20,0,1,League
+524919,2011/12,BBL|01,2011-12-20,The Gabba,2,Brisbane Heat,Melbourne Stars,169,7,120,20.0,20,0,1,League
+524920,2011/12,BBL|01,2011-12-21,Bellerive Oval,1,Hobart Hurricanes,Sydney Sixers,169,3,120,20.0,20,0,1,League
+524920,2011/12,BBL|01,2011-12-21,Bellerive Oval,2,Sydney Sixers,Hobart Hurricanes,127,9,120,20.0,20,0,1,League
+524921,2011/12,BBL|01,2011-12-22,Docklands Stadium,1,Melbourne Renegades,Perth Scorchers,188,3,120,20.0,20,0,1,League
+524921,2011/12,BBL|01,2011-12-22,Docklands Stadium,2,Perth Scorchers,Melbourne Renegades,192,2,116,19.2,20,0,1,League
+524922,2011/12,BBL|01,2011-12-23,Stadium Australia,1,Adelaide Strikers,Sydney Thunder,155,8,120,20.0,20,0,1,League
+524922,2011/12,BBL|01,2011-12-23,Stadium Australia,2,Sydney Thunder,Adelaide Strikers,156,4,111,18.3,20,0,1,League
+524923,2011/12,BBL|01,2011-12-27,Sydney Cricket Ground,1,Sydney Sixers,Melbourne Stars,166,9,120,20.0,20,0,1,League
+524923,2011/12,BBL|01,2011-12-27,Sydney Cricket Ground,2,Melbourne Stars,Sydney Sixers,164,8,120,20.0,20,0,1,League
+524924,2011/12,BBL|01,2011-12-28,Adelaide Oval,1,Hobart Hurricanes,Adelaide Strikers,171,4,120,20.0,20,0,1,League
+524924,2011/12,BBL|01,2011-12-28,Adelaide Oval,2,Adelaide Strikers,Hobart Hurricanes,157,8,120,20.0,20,0,1,League
+524925,2011/12,BBL|01,2011-12-29,WACA Ground,1,Perth Scorchers,Brisbane Heat,162,8,120,20.0,20,0,1,League
+524925,2011/12,BBL|01,2011-12-29,WACA Ground,2,Brisbane Heat,Perth Scorchers,152,6,120,20.0,20,0,1,League
+524926,2011/12,BBL|01,2011-12-30,Stadium Australia,1,Melbourne Renegades,Sydney Thunder,140,8,120,20.0,20,0,1,League
+524926,2011/12,BBL|01,2011-12-30,Stadium Australia,2,Sydney Thunder,Melbourne Renegades,134,7,120,20.0,20,0,1,League
+524927,2011/12,BBL|01,2012-01-01,Bellerive Oval,1,Sydney Thunder,Hobart Hurricanes,138,8,120,20.0,20,0,1,League
+524927,2011/12,BBL|01,2012-01-01,Bellerive Oval,2,Hobart Hurricanes,Sydney Thunder,139,5,112,18.4,20,0,1,League
+524928,2011/12,BBL|01,2012-01-02,Docklands Stadium,1,Sydney Sixers,Melbourne Renegades,161,6,120,20.0,20,0,1,League
+524928,2011/12,BBL|01,2012-01-02,Docklands Stadium,2,Melbourne Renegades,Sydney Sixers,164,2,106,17.4,20,0,1,League
+524930,2011/12,BBL|01,2012-01-04,Melbourne Cricket Ground,1,Perth Scorchers,Melbourne Stars,136,10,120,20.0,20,1,1,League
+524930,2011/12,BBL|01,2012-01-04,Melbourne Cricket Ground,2,Melbourne Stars,Perth Scorchers,128,5,120,20.0,20,0,1,League
+524933,2011/12,BBL|01,2012-01-08,Stadium Australia,1,Sydney Sixers,Sydney Thunder,117,7,96,16.0,20,0,1,League
+524933,2011/12,BBL|01,2012-01-08,Stadium Australia,2,Sydney Thunder,Sydney Sixers,29,4,33,5.3,5.3,0,0,League
+524934,2011/12,BBL|01,2012-01-08,WACA Ground,1,Perth Scorchers,Adelaide Strikers,184,5,120,20.0,20,0,1,League
+524934,2011/12,BBL|01,2012-01-08,WACA Ground,2,Adelaide Strikers,Perth Scorchers,142,10,117,19.3,20,1,1,League
+524935,2011/12,BBL|01,2012-01-09,Bellerive Oval,1,Melbourne Stars,Hobart Hurricanes,203,3,120,20.0,20,0,1,League
+524935,2011/12,BBL|01,2012-01-09,Bellerive Oval,2,Hobart Hurricanes,Melbourne Stars,184,9,120,20.0,20,0,1,League
+524936,2011/12,BBL|01,2012-01-10,Adelaide Oval,1,Sydney Sixers,Adelaide Strikers,151,8,120,20.0,20,0,1,League
+524936,2011/12,BBL|01,2012-01-10,Adelaide Oval,2,Adelaide Strikers,Sydney Sixers,87,10,112,18.4,20,1,1,League
+524938,2011/12,BBL|01,2012-01-12,Docklands Stadium,1,Brisbane Heat,Melbourne Renegades,168,7,120,20.0,20,0,1,League
+524938,2011/12,BBL|01,2012-01-12,Docklands Stadium,2,Melbourne Renegades,Brisbane Heat,156,9,120,20.0,20,0,1,League
+524939,2011/12,BBL|01,2012-01-17,The Gabba,1,Brisbane Heat,Sydney Thunder,195,4,120,20.0,20,0,1,League
+524939,2011/12,BBL|01,2012-01-17,The Gabba,2,Sydney Thunder,Brisbane Heat,104,6,120,20.0,20,0,1,League
+524940,2011/12,BBL|01,2012-01-18,Bellerive Oval,1,Melbourne Renegades,Hobart Hurricanes,173,4,120,20.0,20,0,1,League
+524940,2011/12,BBL|01,2012-01-18,Bellerive Oval,2,Hobart Hurricanes,Melbourne Renegades,174,3,119,19.5,20,0,1,League
+524941,2011/12,BBL|01,2012-01-18,Sydney Cricket Ground,1,Sydney Sixers,Perth Scorchers,176,10,120,20.0,20,1,1,League
+524941,2011/12,BBL|01,2012-01-18,Sydney Cricket Ground,2,Perth Scorchers,Sydney Sixers,175,6,120,20.0,20,0,1,League
+524942,2011/12,BBL|01,2012-01-19,Melbourne Cricket Ground,1,Adelaide Strikers,Melbourne Stars,125,10,117,19.3,20,1,1,League
+524942,2011/12,BBL|01,2012-01-19,Melbourne Cricket Ground,2,Melbourne Stars,Adelaide Strikers,129,4,113,18.5,20,0,1,League
+524943,2011/12,BBL|01,2012-01-21,WACA Ground,1,Perth Scorchers,Melbourne Stars,174,3,120,20.0,20,0,1,Semi Final
+524943,2011/12,BBL|01,2012-01-21,WACA Ground,2,Melbourne Stars,Perth Scorchers,163,8,120,20.0,20,0,1,Semi Final
+524944,2011/12,BBL|01,2012-01-22,Bellerive Oval,1,Sydney Sixers,Hobart Hurricanes,153,6,120,20.0,20,0,1,Semi Final
+524944,2011/12,BBL|01,2012-01-22,Bellerive Oval,2,Hobart Hurricanes,Sydney Sixers,146,7,120,20.0,20,0,1,Semi Final
+524945,2011/12,BBL|01,2012-01-28,WACA Ground,1,Perth Scorchers,Sydney Sixers,156,5,120,20.0,20,0,1,Final
+524945,2011/12,BBL|01,2012-01-28,WACA Ground,2,Sydney Sixers,Perth Scorchers,158,3,113,18.5,20,0,1,Final
+571232,2012/13,BBL|02,2012-12-07,Docklands Stadium,1,Melbourne Stars,Melbourne Renegades,167,5,120,20.0,20,0,1,League
+571232,2012/13,BBL|02,2012-12-07,Docklands Stadium,2,Melbourne Renegades,Melbourne Stars,168,2,110,18.2,20,0,1,League
+571233,2012/13,BBL|02,2012-12-08,Sydney Cricket Ground,1,Sydney Thunder,Sydney Sixers,143,5,120,20.0,20,0,1,League
+571233,2012/13,BBL|02,2012-12-08,Sydney Cricket Ground,2,Sydney Sixers,Sydney Thunder,147,3,112,18.4,20,0,1,League
+571234,2012/13,BBL|02,2012-12-09,The Gabba,1,Brisbane Heat,Hobart Hurricanes,172,6,120,20.0,20,0,1,League
+571234,2012/13,BBL|02,2012-12-09,The Gabba,2,Hobart Hurricanes,Brisbane Heat,175,2,114,19.0,20,0,1,League
+571235,2012/13,BBL|02,2012-12-09,WACA Ground,1,Perth Scorchers,Adelaide Strikers,162,6,120,20.0,20,0,1,League
+571235,2012/13,BBL|02,2012-12-09,WACA Ground,2,Adelaide Strikers,Perth Scorchers,164,4,116,19.2,20,0,1,League
+571236,2012/13,BBL|02,2012-12-12,WACA Ground,1,Perth Scorchers,Melbourne Stars,69,10,92,15.2,20,1,1,League
+571236,2012/13,BBL|02,2012-12-12,WACA Ground,2,Melbourne Stars,Perth Scorchers,29,0,12,2.0,5,0,0,League
+571237,2012/13,BBL|02,2012-12-13,Adelaide Oval,1,Adelaide Strikers,Brisbane Heat,185,8,120,20.0,20,0,1,League
+571237,2012/13,BBL|02,2012-12-13,Adelaide Oval,2,Brisbane Heat,Adelaide Strikers,186,7,120,20.0,20,0,1,League
+571238,2012/13,BBL|02,2012-12-14,Stadium Australia,1,Sydney Thunder,Melbourne Renegades,116,7,120,20.0,20,0,1,League
+571238,2012/13,BBL|02,2012-12-14,Stadium Australia,2,Melbourne Renegades,Sydney Thunder,117,5,110,18.2,20,0,1,League
+571239,2012/13,BBL|02,2012-12-15,Melbourne Cricket Ground,1,Hobart Hurricanes,Melbourne Stars,134,8,120,20.0,20,0,1,League
+571239,2012/13,BBL|02,2012-12-15,Melbourne Cricket Ground,2,Melbourne Stars,Hobart Hurricanes,135,6,115,19.1,20,0,1,League
+571240,2012/13,BBL|02,2012-12-16,Sydney Cricket Ground,1,Sydney Sixers,Perth Scorchers,113,9,120,20.0,20,0,1,League
+571240,2012/13,BBL|02,2012-12-16,Sydney Cricket Ground,2,Perth Scorchers,Sydney Sixers,114,3,116,19.2,20,0,1,League
+571241,2012/13,BBL|02,2012-12-18,The Gabba,1,Brisbane Heat,Perth Scorchers,109,4,79,13.1,20,0,1,League
+571241,2012/13,BBL|02,2012-12-18,The Gabba,2,Perth Scorchers,Brisbane Heat,51,1,26,4.2,5,0,0,League
+571242,2012/13,BBL|02,2012-12-19,Docklands Stadium,1,Hobart Hurricanes,Melbourne Renegades,102,9,120,20.0,20,0,1,League
+571242,2012/13,BBL|02,2012-12-19,Docklands Stadium,2,Melbourne Renegades,Hobart Hurricanes,103,3,80,13.2,20,0,1,League
+571243,2012/13,BBL|02,2012-12-20,Stadium Australia,1,Adelaide Strikers,Sydney Thunder,177,6,120,20.0,20,0,1,League
+571243,2012/13,BBL|02,2012-12-20,Stadium Australia,2,Sydney Thunder,Adelaide Strikers,126,10,112,18.4,20,1,1,League
+571245,2012/13,BBL|02,2012-12-22,Docklands Stadium,1,Brisbane Heat,Melbourne Renegades,133,7,120,20.0,20,0,1,League
+571245,2012/13,BBL|02,2012-12-22,Docklands Stadium,2,Melbourne Renegades,Brisbane Heat,137,4,115,19.1,20,0,1,League
+571247,2012/13,BBL|02,2012-12-23,Adelaide Oval,1,Sydney Sixers,Adelaide Strikers,135,6,120,20.0,20,0,1,League
+571247,2012/13,BBL|02,2012-12-23,Adelaide Oval,2,Adelaide Strikers,Sydney Sixers,136,1,95,15.5,20,0,1,League
+571248,2012/13,BBL|02,2012-12-26,Sydney Cricket Ground,1,Sydney Sixers,Hobart Hurricanes,154,8,120,20.0,20,0,1,League
+571248,2012/13,BBL|02,2012-12-26,Sydney Cricket Ground,2,Hobart Hurricanes,Sydney Sixers,158,3,119,19.5,20,0,1,League
+571249,2012/13,BBL|02,2012-12-27,Adelaide Oval,1,Melbourne Stars,Adelaide Strikers,175,8,120,20.0,20,0,1,League
+571249,2012/13,BBL|02,2012-12-27,Adelaide Oval,2,Adelaide Strikers,Melbourne Stars,167,4,120,20.0,20,0,1,League
+571250,2012/13,BBL|02,2012-12-28,Stadium Australia,1,Sydney Thunder,Brisbane Heat,126,10,120,20.0,20,1,1,League
+571250,2012/13,BBL|02,2012-12-28,Stadium Australia,2,Brisbane Heat,Sydney Thunder,127,5,100,16.4,20,0,1,League
+571251,2012/13,BBL|02,2012-12-29,WACA Ground,1,Perth Scorchers,Melbourne Renegades,187,3,120,20.0,20,0,1,League
+571251,2012/13,BBL|02,2012-12-29,WACA Ground,2,Melbourne Renegades,Perth Scorchers,136,10,115,19.1,20,1,1,League
+571252,2012/13,BBL|02,2012-12-30,Stadium Australia,1,Sydney Thunder,Sydney Sixers,132,6,120,20.0,20,0,1,League
+571252,2012/13,BBL|02,2012-12-30,Stadium Australia,2,Sydney Sixers,Sydney Thunder,136,6,114,19.0,20,0,1,League
+571254,2012/13,BBL|02,2013-01-02,Docklands Stadium,1,Melbourne Renegades,Adelaide Strikers,155,6,120,20.0,20,0,1,League
+571254,2012/13,BBL|02,2013-01-02,Docklands Stadium,2,Adelaide Strikers,Melbourne Renegades,107,10,111,18.3,20,1,1,League
+571256,2012/13,BBL|02,2013-01-04,WACA Ground,1,Sydney Thunder,Perth Scorchers,113,9,120,20.0,20,0,1,League
+571256,2012/13,BBL|02,2013-01-04,WACA Ground,2,Perth Scorchers,Sydney Thunder,117,1,80,13.2,20,0,1,League
+571258,2012/13,BBL|02,2013-01-06,Melbourne Cricket Ground,1,Melbourne Stars,Melbourne Renegades,146,9,120,20.0,20,0,1,League
+571258,2012/13,BBL|02,2013-01-06,Melbourne Cricket Ground,2,Melbourne Renegades,Melbourne Stars,147,1,113,18.5,20,0,1,League
+571259,2012/13,BBL|02,2013-01-07,The Gabba,1,Brisbane Heat,Sydney Sixers,127,9,120,20.0,20,0,1,League
+571259,2012/13,BBL|02,2013-01-07,The Gabba,2,Sydney Sixers,Brisbane Heat,128,5,114,19.0,20,0,1,League
+571260,2012/13,BBL|02,2013-01-08,Melbourne Cricket Ground,1,Melbourne Stars,Sydney Thunder,145,8,120,20.0,20,0,1,League
+571260,2012/13,BBL|02,2013-01-08,Melbourne Cricket Ground,2,Sydney Thunder,Melbourne Stars,132,10,118,19.4,20,1,1,League
+571262,2012/13,BBL|02,2013-01-10,Adelaide Oval,1,Perth Scorchers,Adelaide Strikers,189,4,120,20.0,20,0,1,League
+571262,2012/13,BBL|02,2013-01-10,Adelaide Oval,2,Adelaide Strikers,Perth Scorchers,91,10,111,18.3,20,1,1,League
+571264,2012/13,BBL|02,2013-01-15,Docklands Stadium,1,Brisbane Heat,Melbourne Renegades,183,3,120,20.0,20,0,1,Semi Final
+571264,2012/13,BBL|02,2013-01-15,Docklands Stadium,2,Melbourne Renegades,Brisbane Heat,168,9,120,20.0,20,0,1,Semi Final
+571265,2012/13,BBL|02,2013-01-16,WACA Ground,1,Melbourne Stars,Perth Scorchers,183,2,108,18.0,20,0,1,Semi Final
+571265,2012/13,BBL|02,2013-01-16,WACA Ground,2,Perth Scorchers,Melbourne Stars,142,2,78,13.0,13,0,0,Semi Final
+571266,2012/13,BBL|02,2013-01-19,WACA Ground,1,Brisbane Heat,Perth Scorchers,167,5,120,20.0,20,0,1,Final
+571266,2012/13,BBL|02,2013-01-19,WACA Ground,2,Perth Scorchers,Brisbane Heat,133,9,120,20.0,20,0,1,Final
+654031,2013/14,BBL|03,2013-12-20,Melbourne Cricket Ground,1,Melbourne Stars,Melbourne Renegades,208,7,120,20.0,20,0,1,League
+654031,2013/14,BBL|03,2013-12-20,Melbourne Cricket Ground,2,Melbourne Renegades,Melbourne Stars,132,10,105,17.3,20,1,1,League
+654033,2013/14,BBL|03,2013-12-21,Sydney Cricket Ground,1,Sydney Thunder,Sydney Sixers,166,6,120,20.0,20,0,1,League
+654033,2013/14,BBL|03,2013-12-21,Sydney Cricket Ground,2,Sydney Sixers,Sydney Thunder,167,4,110,18.2,20,0,1,League
+654035,2013/14,BBL|03,2013-12-22,Bellerive Oval,1,Adelaide Strikers,Hobart Hurricanes,87,1,36,6.0,20,0,1,League
+654037,2013/14,BBL|03,2013-12-22,The Gabba,1,Perth Scorchers,Brisbane Heat,151,7,120,20.0,20,0,1,League
+654037,2013/14,BBL|03,2013-12-22,The Gabba,2,Brisbane Heat,Perth Scorchers,152,7,118,19.4,20,0,1,League
+654039,2013/14,BBL|03,2013-12-26,WACA Ground,1,Perth Scorchers,Melbourne Renegades,117,7,120,20.0,20,0,1,League
+654039,2013/14,BBL|03,2013-12-26,WACA Ground,2,Melbourne Renegades,Perth Scorchers,111,8,120,20.0,20,0,1,League
+654041,2013/14,BBL|03,2013-12-27,Stadium Australia,1,Adelaide Strikers,Sydney Thunder,153,6,120,20.0,20,0,1,League
+654041,2013/14,BBL|03,2013-12-27,Stadium Australia,2,Sydney Thunder,Adelaide Strikers,147,6,120,20.0,20,0,1,League
+654043,2013/14,BBL|03,2013-12-28,The Gabba,1,Brisbane Heat,Hobart Hurricanes,209,3,120,20.0,20,0,1,League
+654043,2013/14,BBL|03,2013-12-28,The Gabba,2,Hobart Hurricanes,Brisbane Heat,210,7,116,19.2,20,0,1,League
+654045,2013/14,BBL|03,2013-12-29,Sydney Cricket Ground,1,Melbourne Stars,Sydney Sixers,200,5,120,20.0,20,0,1,League
+654045,2013/14,BBL|03,2013-12-29,Sydney Cricket Ground,2,Sydney Sixers,Melbourne Stars,123,9,120,20.0,20,0,1,League
+654047,2013/14,BBL|03,2013-12-30,Docklands Stadium,1,Melbourne Renegades,Brisbane Heat,210,3,120,20.0,20,0,1,League
+654047,2013/14,BBL|03,2013-12-30,Docklands Stadium,2,Brisbane Heat,Melbourne Renegades,153,10,116,19.2,20,1,1,League
+654051,2013/14,BBL|03,2014-01-01,Bellerive Oval,1,Melbourne Renegades,Hobart Hurricanes,162,8,120,20.0,20,0,1,League
+654051,2013/14,BBL|03,2014-01-01,Bellerive Oval,2,Hobart Hurricanes,Melbourne Renegades,111,10,103,17.1,20,1,1,League
+654053,2013/14,BBL|03,2014-01-01,Stadium Australia,1,Sydney Thunder,Melbourne Stars,155,6,120,20.0,20,0,1,League
+654053,2013/14,BBL|03,2014-01-01,Stadium Australia,2,Melbourne Stars,Sydney Thunder,156,3,115,19.1,20,0,1,League
+654055,2013/14,BBL|03,2014-01-02,The Gabba,1,Sydney Sixers,Brisbane Heat,140,8,120,20.0,20,0,1,League
+654055,2013/14,BBL|03,2014-01-02,The Gabba,2,Brisbane Heat,Sydney Sixers,136,7,120,20.0,20,0,1,League
+654057,2013/14,BBL|03,2014-01-03,WACA Ground,1,Sydney Thunder,Perth Scorchers,157,6,120,20.0,20,0,1,League
+654057,2013/14,BBL|03,2014-01-03,WACA Ground,2,Perth Scorchers,Sydney Thunder,161,4,116,19.2,20,0,1,League
+654059,2013/14,BBL|03,2014-01-04,Docklands Stadium,1,Melbourne Renegades,Melbourne Stars,163,5,120,20.0,20,0,1,League
+654059,2013/14,BBL|03,2014-01-04,Docklands Stadium,2,Melbourne Stars,Melbourne Renegades,167,1,98,16.2,20,0,1,League
+654061,2013/14,BBL|03,2014-01-05,Adelaide Oval,1,Adelaide Strikers,Sydney Sixers,149,7,120,20.0,20,0,1,League
+654061,2013/14,BBL|03,2014-01-05,Adelaide Oval,2,Sydney Sixers,Adelaide Strikers,150,4,115,19.1,20,0,1,League
+654063,2013/14,BBL|03,2014-01-07,WACA Ground,1,Perth Scorchers,Hobart Hurricanes,153,7,120,20.0,20,0,1,League
+654063,2013/14,BBL|03,2014-01-07,WACA Ground,2,Hobart Hurricanes,Perth Scorchers,147,7,120,20.0,20,0,1,League
+654065,2013/14,BBL|03,2014-01-08,Stadium Australia,1,Brisbane Heat,Sydney Thunder,165,5,120,20.0,20,0,1,League
+654065,2013/14,BBL|03,2014-01-08,Stadium Australia,2,Sydney Thunder,Brisbane Heat,117,10,104,17.2,20,1,1,League
+654067,2013/14,BBL|03,2014-01-09,Melbourne Cricket Ground,1,Adelaide Strikers,Melbourne Stars,90,9,120,20.0,20,0,1,League
+654067,2013/14,BBL|03,2014-01-09,Melbourne Cricket Ground,2,Melbourne Stars,Adelaide Strikers,91,2,45,7.3,20,0,1,League
+654069,2013/14,BBL|03,2014-01-10,Sydney Cricket Ground,1,Perth Scorchers,Sydney Sixers,153,5,120,20.0,20,0,1,League
+654069,2013/14,BBL|03,2014-01-10,Sydney Cricket Ground,2,Sydney Sixers,Perth Scorchers,153,9,120,20.0,20,0,1,League
+654071,2013/14,BBL|03,2014-01-11,Bellerive Oval,1,Hobart Hurricanes,Sydney Thunder,167,5,120,20.0,20,0,1,League
+654071,2013/14,BBL|03,2014-01-11,Bellerive Oval,2,Sydney Thunder,Hobart Hurricanes,94,10,100,16.4,20,1,1,League
+654073,2013/14,BBL|03,2014-01-11,The Gabba,1,Brisbane Heat,Melbourne Stars,144,7,120,20.0,20,0,1,League
+654073,2013/14,BBL|03,2014-01-11,The Gabba,2,Melbourne Stars,Brisbane Heat,149,7,118,19.4,20,0,1,League
+654075,2013/14,BBL|03,2014-01-14,Docklands Stadium,1,Melbourne Renegades,Sydney Thunder,104,10,111,18.3,20,1,1,League
+654075,2013/14,BBL|03,2014-01-14,Docklands Stadium,2,Sydney Thunder,Melbourne Renegades,105,1,69,11.3,20,0,1,League
+654077,2013/14,BBL|03,2014-01-15,Sydney Cricket Ground,1,Sydney Sixers,Hobart Hurricanes,179,6,120,20.0,20,0,1,League
+654077,2013/14,BBL|03,2014-01-15,Sydney Cricket Ground,2,Hobart Hurricanes,Sydney Sixers,172,8,120,20.0,20,0,1,League
+654079,2013/14,BBL|03,2014-01-16,WACA Ground,1,Perth Scorchers,Adelaide Strikers,203,7,120,20.0,20,0,1,League
+654079,2013/14,BBL|03,2014-01-16,WACA Ground,2,Adelaide Strikers,Perth Scorchers,198,6,120,20.0,20,0,1,League
+654081,2013/14,BBL|03,2014-01-18,Adelaide Oval,1,Brisbane Heat,Adelaide Strikers,129,7,120,20.0,20,0,1,League
+654081,2013/14,BBL|03,2014-01-18,Adelaide Oval,2,Adelaide Strikers,Brisbane Heat,97,10,110,18.2,20,1,1,League
+654083,2013/14,BBL|03,2014-01-18,Docklands Stadium,1,Sydney Sixers,Melbourne Renegades,151,6,120,20.0,20,0,1,League
+654083,2013/14,BBL|03,2014-01-18,Docklands Stadium,2,Melbourne Renegades,Sydney Sixers,149,5,120,20.0,20,0,1,League
+654085,2013/14,BBL|03,2014-01-21,Melbourne Cricket Ground,1,Hobart Hurricanes,Melbourne Stars,131,9,120,20.0,20,0,1,League
+654085,2013/14,BBL|03,2014-01-21,Melbourne Cricket Ground,2,Melbourne Stars,Hobart Hurricanes,135,5,115,19.1,20,0,1,League
+654087,2013/14,BBL|03,2014-01-22,Adelaide Oval,1,Melbourne Renegades,Adelaide Strikers,155,6,120,20.0,20,0,1,League
+654087,2013/14,BBL|03,2014-01-22,Adelaide Oval,2,Adelaide Strikers,Melbourne Renegades,154,7,120,20.0,20,0,1,League
+654089,2013/14,BBL|03,2014-01-23,Bellerive Oval,1,Hobart Hurricanes,Brisbane Heat,209,7,120,20.0,20,0,1,League
+654089,2013/14,BBL|03,2014-01-23,Bellerive Oval,2,Brisbane Heat,Hobart Hurricanes,169,8,120,20.0,20,0,1,League
+654091,2013/14,BBL|03,2014-01-25,Stadium Australia,1,Sydney Thunder,Sydney Sixers,128,6,120,20.0,20,0,1,League
+654091,2013/14,BBL|03,2014-01-25,Stadium Australia,2,Sydney Sixers,Sydney Thunder,131,2,116,19.2,20,0,1,League
+654093,2013/14,BBL|03,2014-01-27,Melbourne Cricket Ground,1,Melbourne Stars,Perth Scorchers,161,6,120,20.0,20,0,1,League
+654093,2013/14,BBL|03,2014-01-27,Melbourne Cricket Ground,2,Perth Scorchers,Melbourne Stars,141,9,120,20.0,20,0,1,League
+654095,2013/14,BBL|03,2014-02-04,Melbourne Cricket Ground,1,Melbourne Stars,Hobart Hurricanes,141,8,120,20.0,20,0,1,Semi Final
+654095,2013/14,BBL|03,2014-02-04,Melbourne Cricket Ground,2,Hobart Hurricanes,Melbourne Stars,142,3,109,18.1,20,0,1,Semi Final
+654097,2013/14,BBL|03,2014-02-05,Sydney Cricket Ground,1,Perth Scorchers,Sydney Sixers,193,5,120,20.0,20,0,1,Semi Final
+654097,2013/14,BBL|03,2014-02-05,Sydney Cricket Ground,2,Sydney Sixers,Perth Scorchers,48,6,30,5.0,5,0,0,Semi Final
+654099,2013/14,BBL|03,2014-02-07,WACA Ground,1,Perth Scorchers,Hobart Hurricanes,191,4,120,20.0,20,0,1,Final
+654099,2013/14,BBL|03,2014-02-07,WACA Ground,2,Hobart Hurricanes,Perth Scorchers,152,7,120,20.0,20,0,1,Final
+756735,2014/15,BBL|04,2014-12-18,Adelaide Oval,1,Melbourne Stars,Adelaide Strikers,148,7,120,20.0,20,0,1,League
+756735,2014/15,BBL|04,2014-12-18,Adelaide Oval,2,Adelaide Strikers,Melbourne Stars,149,2,75,12.3,20,0,1,League
+756737,2014/15,BBL|04,2014-12-19,Sydney Cricket Ground,1,Melbourne Renegades,Sydney Sixers,154,7,120,20.0,20,0,1,League
+756737,2014/15,BBL|04,2014-12-19,Sydney Cricket Ground,2,Sydney Sixers,Melbourne Renegades,155,2,113,18.5,20,0,1,League
+756739,2014/15,BBL|04,2014-12-20,Melbourne Cricket Ground,1,Hobart Hurricanes,Melbourne Stars,190,5,120,20.0,20,0,1,League
+756739,2014/15,BBL|04,2014-12-20,Melbourne Cricket Ground,2,Melbourne Stars,Hobart Hurricanes,138,9,120,20.0,20,0,1,League
+756741,2014/15,BBL|04,2014-12-21,Stadium Australia,1,Sydney Thunder,Brisbane Heat,208,1,120,20.0,20,0,1,League
+756741,2014/15,BBL|04,2014-12-21,Stadium Australia,2,Brisbane Heat,Sydney Thunder,152,10,107,17.5,20,1,1,League
+756743,2014/15,BBL|04,2014-12-22,WACA Ground,1,Perth Scorchers,Adelaide Strikers,146,7,120,20.0,20,0,1,League
+756743,2014/15,BBL|04,2014-12-22,WACA Ground,2,Adelaide Strikers,Perth Scorchers,147,9,118,19.4,20,0,1,League
+756745,2014/15,BBL|04,2014-12-23,Bellerive Oval,1,Hobart Hurricanes,Sydney Sixers,154,8,114,19.0,20,0,1,League
+756745,2014/15,BBL|04,2014-12-23,Bellerive Oval,2,Sydney Sixers,Hobart Hurricanes,158,3,109,18.1,19,0,0,League
+756747,2014/15,BBL|04,2014-12-26,WACA Ground,1,Perth Scorchers,Melbourne Renegades,192,3,120,20.0,20,0,1,League
+756747,2014/15,BBL|04,2014-12-26,WACA Ground,2,Melbourne Renegades,Perth Scorchers,157,9,120,20.0,20,0,1,League
+756749,2014/15,BBL|04,2014-12-27,Stadium Australia,1,Sydney Sixers,Sydney Thunder,180,7,120,20.0,20,0,1,League
+756749,2014/15,BBL|04,2014-12-27,Stadium Australia,2,Sydney Thunder,Sydney Sixers,164,5,120,20.0,20,0,1,League
+756751,2014/15,BBL|04,2014-12-28,The Gabba,1,Brisbane Heat,Melbourne Stars,164,8,120,20.0,20,0,1,League
+756751,2014/15,BBL|04,2014-12-28,The Gabba,2,Melbourne Stars,Brisbane Heat,163,7,120,20.0,20,0,1,League
+756753,2014/15,BBL|04,2014-12-29,Sydney Cricket Ground,1,Perth Scorchers,Sydney Sixers,135,7,120,20.0,20,0,1,League
+756753,2014/15,BBL|04,2014-12-29,Sydney Cricket Ground,2,Sydney Sixers,Perth Scorchers,99,10,105,17.3,20,1,1,League
+756755,2014/15,BBL|04,2014-12-30,Docklands Stadium,1,Sydney Thunder,Melbourne Renegades,114,6,120,20.0,20,0,1,League
+756755,2014/15,BBL|04,2014-12-30,Docklands Stadium,2,Melbourne Renegades,Sydney Thunder,118,2,83,13.5,20,0,1,League
+756757,2014/15,BBL|04,2014-12-31,Adelaide Oval,1,Hobart Hurricanes,Adelaide Strikers,136,8,120,20.0,20,0,1,League
+756757,2014/15,BBL|04,2014-12-31,Adelaide Oval,2,Adelaide Strikers,Hobart Hurricanes,141,2,87,14.3,20,0,1,League
+756759,2014/15,BBL|04,2015-01-01,WACA Ground,1,Sydney Thunder,Perth Scorchers,179,3,120,20.0,20,0,1,League
+756759,2014/15,BBL|04,2015-01-01,WACA Ground,2,Perth Scorchers,Sydney Thunder,159,5,120,20.0,20,0,1,League
+756761,2014/15,BBL|04,2015-01-02,Bellerive Oval,1,Brisbane Heat,Hobart Hurricanes,208,6,120,20.0,20,0,1,League
+756761,2014/15,BBL|04,2015-01-02,Bellerive Oval,2,Hobart Hurricanes,Brisbane Heat,209,4,114,19.0,20,0,1,League
+756763,2014/15,BBL|04,2015-01-03,Docklands Stadium,1,Melbourne Stars,Melbourne Renegades,169,6,120,20.0,20,0,1,League
+756763,2014/15,BBL|04,2015-01-03,Docklands Stadium,2,Melbourne Renegades,Melbourne Stars,57,10,76,12.4,20,1,1,League
+756765,2014/15,BBL|04,2015-01-04,The Gabba,1,Brisbane Heat,Adelaide Strikers,152,6,120,20.0,20,0,1,League
+756765,2014/15,BBL|04,2015-01-04,The Gabba,2,Adelaide Strikers,Brisbane Heat,158,5,113,18.5,20,0,1,League
+756767,2014/15,BBL|04,2015-01-05,Melbourne Cricket Ground,1,Sydney Sixers,Melbourne Stars,150,6,120,20.0,20,0,1,League
+756767,2014/15,BBL|04,2015-01-05,Melbourne Cricket Ground,2,Melbourne Stars,Sydney Sixers,150,4,120,20.0,20,0,1,League
+756769,2014/15,BBL|04,2015-01-06,Adelaide Oval,1,Perth Scorchers,Adelaide Strikers,133,6,120,20.0,20,0,1,League
+756769,2014/15,BBL|04,2015-01-06,Adelaide Oval,2,Adelaide Strikers,Perth Scorchers,115,10,117,19.3,20,1,1,League
+756773,2014/15,BBL|04,2015-01-08,WACA Ground,1,Brisbane Heat,Perth Scorchers,134,7,120,20.0,20,0,1,League
+756773,2014/15,BBL|04,2015-01-08,WACA Ground,2,Perth Scorchers,Brisbane Heat,137,2,95,15.5,20,0,1,League
+756775,2014/15,BBL|04,2015-01-22,Sydney Cricket Ground,1,Sydney Thunder,Sydney Sixers,154,4,120,20.0,20,0,1,League
+756775,2014/15,BBL|04,2015-01-22,Sydney Cricket Ground,2,Sydney Sixers,Sydney Thunder,155,6,120,20.0,20,0,1,League
+756777,2014/15,BBL|04,2015-01-10,Melbourne Cricket Ground,1,Melbourne Renegades,Melbourne Stars,153,6,120,20.0,20,0,1,League
+756777,2014/15,BBL|04,2015-01-10,Melbourne Cricket Ground,2,Melbourne Stars,Melbourne Renegades,154,7,120,20.0,20,0,1,League
+756779,2014/15,BBL|04,2015-01-11,Bellerive Oval,1,Perth Scorchers,Hobart Hurricanes,141,8,120,20.0,20,0,1,League
+756779,2014/15,BBL|04,2015-01-11,Bellerive Oval,2,Hobart Hurricanes,Perth Scorchers,123,7,120,20.0,20,0,1,League
+756781,2014/15,BBL|04,2015-01-11,The Gabba,1,Brisbane Heat,Sydney Sixers,147,6,120,20.0,20,0,1,League
+756781,2014/15,BBL|04,2015-01-11,The Gabba,2,Sydney Sixers,Brisbane Heat,148,4,106,17.4,20,0,1,League
+756783,2014/15,BBL|04,2015-01-12,Adelaide Oval,1,Adelaide Strikers,Sydney Thunder,119,5,60,10.0,20,0,1,League
+756783,2014/15,BBL|04,2015-01-12,Adelaide Oval,2,Sydney Thunder,Adelaide Strikers,18,0,6,1.0,10,0,0,League
+756785,2014/15,BBL|04,2015-01-13,Docklands Stadium,1,Brisbane Heat,Melbourne Renegades,80,10,105,17.3,20,1,1,League
+756785,2014/15,BBL|04,2015-01-13,Docklands Stadium,2,Melbourne Renegades,Brisbane Heat,81,5,84,14.0,20,0,1,League
+756787,2014/15,BBL|04,2015-01-14,Sydney Cricket Ground,1,Adelaide Strikers,Sydney Sixers,182,6,120,20.0,20,0,1,League
+756787,2014/15,BBL|04,2015-01-14,Sydney Cricket Ground,2,Sydney Sixers,Adelaide Strikers,159,10,118,19.4,20,1,1,League
+756789,2014/15,BBL|04,2015-01-07,Bellerive Oval,1,Melbourne Renegades,Hobart Hurricanes,163,7,120,20.0,20,0,1,League
+756789,2014/15,BBL|04,2015-01-07,Bellerive Oval,2,Hobart Hurricanes,Melbourne Renegades,126,10,116,19.2,20,1,1,League
+756791,2014/15,BBL|04,2015-01-17,Sydney Showground Stadium,1,Sydney Thunder,Melbourne Stars,106,8,120,20.0,20,0,1,League
+756791,2014/15,BBL|04,2015-01-17,Sydney Showground Stadium,2,Melbourne Stars,Sydney Thunder,107,2,87,14.3,20,0,1,League
+756793,2014/15,BBL|04,2015-01-19,Docklands Stadium,1,Adelaide Strikers,Melbourne Renegades,166,5,120,20.0,20,0,1,League
+756793,2014/15,BBL|04,2015-01-19,Docklands Stadium,2,Melbourne Renegades,Adelaide Strikers,144,7,120,20.0,20,0,1,League
+756795,2014/15,BBL|04,2015-01-21,Melbourne Cricket Ground,1,Perth Scorchers,Melbourne Stars,179,2,120,20.0,20,0,1,League
+756795,2014/15,BBL|04,2015-01-21,Melbourne Cricket Ground,2,Melbourne Stars,Perth Scorchers,182,7,117,19.3,20,0,1,League
+756797,2014/15,BBL|04,2015-01-15,The Gabba,1,Brisbane Heat,Hobart Hurricanes,198,6,120,20.0,20,0,1,League
+756797,2014/15,BBL|04,2015-01-15,The Gabba,2,Hobart Hurricanes,Brisbane Heat,180,8,120,20.0,20,0,1,League
+756799,2014/15,BBL|04,2015-01-24,Adelaide Oval,1,Sydney Sixers,Adelaide Strikers,181,4,120,20.0,20,0,1,Semi Final
+756799,2014/15,BBL|04,2015-01-24,Adelaide Oval,2,Adelaide Strikers,Sydney Sixers,94,10,87,14.3,20,1,1,Semi Final
+756801,2014/15,BBL|04,2015-01-25,WACA Ground,1,Perth Scorchers,Melbourne Stars,144,7,120,20.0,20,0,1,Semi Final
+756801,2014/15,BBL|04,2015-01-25,WACA Ground,2,Melbourne Stars,Perth Scorchers,126,10,119,19.5,20,1,1,Semi Final
+756803,2014/15,BBL|04,2015-01-28,Manuka Oval,1,Sydney Sixers,Perth Scorchers,147,5,120,20.0,20,0,1,Final
+756803,2014/15,BBL|04,2015-01-28,Manuka Oval,2,Perth Scorchers,Sydney Sixers,148,6,120,20.0,20,0,1,Final
+897697,2015/16,BBL|05,2015-12-18,Adelaide Oval,1,Adelaide Strikers,Melbourne Stars,187,5,120,20.0,20,0,1,League
+897697,2015/16,BBL|05,2015-12-18,Adelaide Oval,2,Melbourne Stars,Adelaide Strikers,168,7,120,20.0,20,0,1,League
+897699,2015/16,BBL|05,2015-12-19,The Gabba,1,Brisbane Heat,Melbourne Renegades,180,5,120,20.0,20,0,1,League
+897699,2015/16,BBL|05,2015-12-19,The Gabba,2,Melbourne Renegades,Brisbane Heat,184,3,117,19.3,20,0,1,League
+897701,2015/16,BBL|05,2015-12-20,Sydney Cricket Ground,1,Sydney Sixers,Hobart Hurricanes,186,7,120,20.0,20,0,1,League
+897701,2015/16,BBL|05,2015-12-20,Sydney Cricket Ground,2,Hobart Hurricanes,Sydney Sixers,91,10,95,15.5,20,1,1,League
+897705,2015/16,BBL|05,2015-12-21,WACA Ground,1,Perth Scorchers,Adelaide Strikers,151,6,120,20.0,20,0,1,League
+897705,2015/16,BBL|05,2015-12-21,WACA Ground,2,Adelaide Strikers,Perth Scorchers,152,6,115,19.1,20,0,1,League
+897707,2015/16,BBL|05,2015-12-22,Bellerive Oval,1,Hobart Hurricanes,Brisbane Heat,184,3,120,20.0,20,0,1,League
+897707,2015/16,BBL|05,2015-12-22,Bellerive Oval,2,Brisbane Heat,Hobart Hurricanes,164,8,120,20.0,20,0,1,League
+897709,2015/16,BBL|05,2015-12-23,Docklands Stadium,1,Melbourne Renegades,Sydney Sixers,172,4,120,20.0,20,0,1,League
+897709,2015/16,BBL|05,2015-12-23,Docklands Stadium,2,Sydney Sixers,Melbourne Renegades,174,7,113,18.5,20,0,1,League
+897711,2015/16,BBL|05,2015-12-26,WACA Ground,1,Brisbane Heat,Perth Scorchers,117,7,120,20.0,20,0,1,League
+897711,2015/16,BBL|05,2015-12-26,WACA Ground,2,Perth Scorchers,Brisbane Heat,118,1,91,15.1,20,0,1,League
+897713,2015/16,BBL|05,2015-12-27,Sydney Cricket Ground,1,Sydney Sixers,Melbourne Stars,139,6,120,20.0,20,0,1,League
+897713,2015/16,BBL|05,2015-12-27,Sydney Cricket Ground,2,Melbourne Stars,Sydney Sixers,143,5,112,18.4,20,0,1,League
+897715,2015/16,BBL|05,2015-12-28,Sydney Showground Stadium,1,Adelaide Strikers,Sydney Thunder,117,9,120,20.0,20,0,1,League
+897715,2015/16,BBL|05,2015-12-28,Sydney Showground Stadium,2,Sydney Thunder,Adelaide Strikers,121,3,99,16.3,20,0,1,League
+897717,2015/16,BBL|05,2015-12-29,The Gabba,1,Hobart Hurricanes,Brisbane Heat,194,4,120,20.0,20,0,1,League
+897717,2015/16,BBL|05,2015-12-29,The Gabba,2,Brisbane Heat,Hobart Hurricanes,179,9,120,20.0,20,0,1,League
+897719,2015/16,BBL|05,2015-12-30,Docklands Stadium,1,Melbourne Renegades,Perth Scorchers,170,4,120,20.0,20,0,1,League
+897719,2015/16,BBL|05,2015-12-30,Docklands Stadium,2,Perth Scorchers,Melbourne Renegades,171,0,112,18.4,20,0,1,League
+897721,2015/16,BBL|05,2015-12-31,Adelaide Oval,1,Sydney Sixers,Adelaide Strikers,176,5,120,20.0,20,0,1,League
+897721,2015/16,BBL|05,2015-12-31,Adelaide Oval,2,Adelaide Strikers,Sydney Sixers,182,5,117,19.3,20,0,1,League
+897723,2015/16,BBL|05,2016-01-01,Bellerive Oval,1,Hobart Hurricanes,Sydney Thunder,163,6,120,20.0,20,0,1,League
+897723,2015/16,BBL|05,2016-01-01,Bellerive Oval,2,Sydney Thunder,Hobart Hurricanes,152,9,120,20.0,20,0,1,League
+897725,2015/16,BBL|05,2016-01-02,Melbourne Cricket Ground,1,Melbourne Renegades,Melbourne Stars,161,7,120,20.0,20,0,1,League
+897725,2015/16,BBL|05,2016-01-02,Melbourne Cricket Ground,2,Melbourne Stars,Melbourne Renegades,163,3,115,19.1,20,0,1,League
+897727,2015/16,BBL|05,2016-01-02,WACA Ground,1,Sydney Sixers,Perth Scorchers,112,8,120,20.0,20,0,1,League
+897727,2015/16,BBL|05,2016-01-02,WACA Ground,2,Perth Scorchers,Sydney Sixers,114,1,87,14.3,20,0,1,League
+897729,2015/16,BBL|05,2016-01-03,The Gabba,1,Sydney Thunder,Brisbane Heat,186,5,120,20.0,20,0,1,League
+897729,2015/16,BBL|05,2016-01-03,The Gabba,2,Brisbane Heat,Sydney Thunder,189,4,117,19.3,20,0,1,League
+897731,2015/16,BBL|05,2016-01-04,Bellerive Oval,1,Hobart Hurricanes,Melbourne Renegades,140,5,120,20.0,20,0,1,League
+897731,2015/16,BBL|05,2016-01-04,Bellerive Oval,2,Melbourne Renegades,Hobart Hurricanes,144,5,84,14.0,20,0,1,League
+897733,2015/16,BBL|05,2016-01-05,Adelaide Oval,1,Adelaide Strikers,Perth Scorchers,174,2,120,20.0,20,0,1,League
+897733,2015/16,BBL|05,2016-01-05,Adelaide Oval,2,Perth Scorchers,Adelaide Strikers,138,10,105,17.3,20,1,1,League
+897735,2015/16,BBL|05,2016-01-06,Melbourne Cricket Ground,1,Hobart Hurricanes,Melbourne Stars,124,10,120,20.0,20,1,1,League
+897735,2015/16,BBL|05,2016-01-06,Melbourne Cricket Ground,2,Melbourne Stars,Hobart Hurricanes,126,2,90,15.0,20,0,1,League
+897737,2015/16,BBL|05,2016-01-07,Sydney Showground Stadium,1,Perth Scorchers,Sydney Thunder,175,5,120,20.0,20,0,1,League
+897737,2015/16,BBL|05,2016-01-07,Sydney Showground Stadium,2,Sydney Thunder,Perth Scorchers,145,9,120,20.0,20,0,1,League
+897739,2015/16,BBL|05,2016-01-08,The Gabba,1,Brisbane Heat,Adelaide Strikers,175,6,120,20.0,20,0,1,League
+897739,2015/16,BBL|05,2016-01-08,The Gabba,2,Adelaide Strikers,Brisbane Heat,179,2,112,18.4,20,0,1,League
+897741,2015/16,BBL|05,2016-01-09,Docklands Stadium,1,Melbourne Renegades,Melbourne Stars,155,6,120,20.0,20,0,1,League
+897741,2015/16,BBL|05,2016-01-09,Docklands Stadium,2,Melbourne Stars,Melbourne Renegades,156,2,108,18.0,20,0,1,League
+897743,2015/16,BBL|05,2016-01-10,Bellerive Oval,1,Perth Scorchers,Hobart Hurricanes,173,5,120,20.0,20,0,1,League
+897743,2015/16,BBL|05,2016-01-10,Bellerive Oval,2,Hobart Hurricanes,Perth Scorchers,172,6,120,20.0,20,0,1,League
+897745,2015/16,BBL|05,2016-01-10,Sydney Cricket Ground,1,Brisbane Heat,Sydney Sixers,162,8,120,20.0,20,0,1,League
+897745,2015/16,BBL|05,2016-01-10,Sydney Cricket Ground,2,Sydney Sixers,Brisbane Heat,156,8,120,20.0,20,0,1,League
+897747,2015/16,BBL|05,2016-01-11,Sydney Showground Stadium,1,Sydney Thunder,Melbourne Renegades,173,5,120,20.0,20,0,1,League
+897747,2015/16,BBL|05,2016-01-11,Sydney Showground Stadium,2,Melbourne Renegades,Sydney Thunder,176,5,116,19.2,20,0,1,League
+897749,2015/16,BBL|05,2016-01-13,Adelaide Oval,1,Hobart Hurricanes,Adelaide Strikers,143,10,117,19.3,20,1,1,League
+897749,2015/16,BBL|05,2016-01-13,Adelaide Oval,2,Adelaide Strikers,Hobart Hurricanes,146,4,120,20.0,20,0,1,League
+897751,2015/16,BBL|05,2016-01-14,Melbourne Cricket Ground,1,Brisbane Heat,Melbourne Stars,188,7,120,20.0,20,0,1,League
+897751,2015/16,BBL|05,2016-01-14,Melbourne Cricket Ground,2,Melbourne Stars,Brisbane Heat,132,9,120,20.0,20,0,1,League
+897753,2015/16,BBL|05,2016-01-16,Sydney Cricket Ground,1,Sydney Thunder,Sydney Sixers,202,5,120,20.0,20,0,1,League
+897753,2015/16,BBL|05,2016-01-16,Sydney Cricket Ground,2,Sydney Sixers,Sydney Thunder,156,10,105,17.3,20,1,1,League
+897757,2015/16,BBL|05,2016-01-18,Docklands Stadium,1,Adelaide Strikers,Melbourne Renegades,170,5,120,20.0,20,0,1,League
+897757,2015/16,BBL|05,2016-01-18,Docklands Stadium,2,Melbourne Renegades,Adelaide Strikers,143,10,93,15.3,20,1,1,League
+897759,2015/16,BBL|05,2016-01-21,Adelaide Oval,1,Adelaide Strikers,Sydney Thunder,159,7,120,20.0,20,0,1,Semi Final
+897759,2015/16,BBL|05,2016-01-21,Adelaide Oval,2,Sydney Thunder,Adelaide Strikers,160,2,106,17.4,20,0,1,Semi Final
+897761,2015/16,BBL|05,2016-01-22,Melbourne Cricket Ground,1,Perth Scorchers,Melbourne Stars,139,7,120,20.0,20,0,1,Semi Final
+897761,2015/16,BBL|05,2016-01-22,Melbourne Cricket Ground,2,Melbourne Stars,Perth Scorchers,140,3,109,18.1,20,0,1,Semi Final
+897763,2015/16,BBL|05,2016-01-24,Melbourne Cricket Ground,1,Melbourne Stars,Sydney Thunder,176,9,120,20.0,20,0,1,Final
+897763,2015/16,BBL|05,2016-01-24,Melbourne Cricket Ground,2,Sydney Thunder,Melbourne Stars,181,7,117,19.3,20,0,1,Final

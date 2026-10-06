@@ -1,0 +1,22 @@
+venue,city,state,lat,lon,tenant,tenant_colour,matches,first_season,last_season
+Adelaide Oval,Adelaide,SA,-34.9156,138.5961,Adelaide Strikers,#0085CA,83,2011/12,2025/26
+Melbourne Cricket Ground,Melbourne,VIC,-37.82,144.9834,Melbourne Stars,#00843D,75,2011/12,2025/26
+Docklands Stadium,Melbourne,VIC,-37.8165,144.9475,Melbourne Renegades,#E4002B,72,2011/12,2025/26
+Perth Stadium,Perth,WA,-31.9512,115.889,Perth Scorchers,#F58220,48,2017/18,2025/26
+WACA Ground,Perth,WA,-31.96,115.8797,Perth Scorchers,#F58220,35,2011/12,2017/18
+Sydney Cricket Ground,Sydney,NSW,-33.8915,151.2249,Sydney Sixers,#E5007E,70,2011/12,2025/26
+Sydney Showground Stadium,Sydney,NSW,-33.843,151.067,Sydney Thunder,#B5D334,41,2014/15,2025/26
+Stadium Australia,Sydney,NSW,-33.847,151.0634,Sydney Thunder,#B5D334,13,2011/12,2014/15
+Bellerive Oval,Hobart,TAS,-42.877,147.373,Hobart Hurricanes,#6A2C91,71,2011/12,2025/26
+York Park,Launceston,TAS,-41.4258,147.1388,Hobart Hurricanes,#6A2C91,11,2017/18,2023/24
+The Gabba,Brisbane,QLD,-27.4858,153.0381,Brisbane Heat,#00B2A9,67,2011/12,2025/26
+Carrara Oval,Gold Coast,QLD,-28.0063,153.3667,Brisbane Heat,#00B2A9,18,2018/19,2023/24
+Cazaly's Stadium,Cairns,QLD,-16.936,145.749,Brisbane Heat,#00B2A9,1,2022/23,2022/23
+Manuka Oval,Canberra,ACT,-35.3181,149.1347,Sydney Thunder,#B5D334,29,2014/15,2025/26
+Kardinia Park,Geelong,VIC,-38.158,144.3546,Melbourne Renegades,#E4002B,14,2017/18,2025/26
+Junction Oval,Melbourne,VIC,-37.8545,144.979,Melbourne Stars,#00843D,2,2021/22,2022/23
+Ted Summerton Reserve,Moe,VIC,-38.173,146.255,Melbourne Stars,#00843D,2,2018/19,2019/20
+C.ex Coffs International Stadium,Coffs Harbour,NSW,-30.3196,153.1003,Sydney Sixers,#E5007E,5,2019/20,2025/26
+North Sydney Oval,Sydney,NSW,-33.836,151.2075,Sydney Sixers,#E5007E,1,2022/23,2022/23
+Lavington Sports Oval,Albury,NSW,-36.0423,146.9417,Sydney Thunder,#B5D334,2,2022/23,2023/24
+Traeger Park,Alice Springs,NT,-23.704,133.872,Adelaide Strikers,#0085CA,2,2017/18,2019/20

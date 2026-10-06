@@ -1,0 +1,167 @@
+venue,season,season_label,lat,lon,tenant,matches
+Adelaide Oval,2011/12,BBL|01,-34.9156,138.5961,Adelaide Strikers,3
+Adelaide Oval,2012/13,BBL|02,-34.9156,138.5961,Adelaide Strikers,4
+Adelaide Oval,2013/14,BBL|03,-34.9156,138.5961,Adelaide Strikers,3
+Adelaide Oval,2014/15,BBL|04,-34.9156,138.5961,Adelaide Strikers,5
+Adelaide Oval,2015/16,BBL|05,-34.9156,138.5961,Adelaide Strikers,5
+Adelaide Oval,2016/17,BBL|06,-34.9156,138.5961,Adelaide Strikers,4
+Adelaide Oval,2017/18,BBL|07,-34.9156,138.5961,Adelaide Strikers,6
+Adelaide Oval,2018/19,BBL|08,-34.9156,138.5961,Adelaide Strikers,7
+Adelaide Oval,2019/20,BBL|09,-34.9156,138.5961,Adelaide Strikers,8
+Adelaide Oval,2020/21,BBL|10,-34.9156,138.5961,Adelaide Strikers,10
+Adelaide Oval,2021/22,BBL|11,-34.9156,138.5961,Adelaide Strikers,7
+Adelaide Oval,2022/23,BBL|12,-34.9156,138.5961,Adelaide Strikers,7
+Adelaide Oval,2023/24,BBL|13,-34.9156,138.5961,Adelaide Strikers,4
+Adelaide Oval,2024/25,BBL|14,-34.9156,138.5961,Adelaide Strikers,5
+Adelaide Oval,2025/26,BBL|15,-34.9156,138.5961,Adelaide Strikers,5
+Bellerive Oval,2011/12,BBL|01,-42.877,147.373,Hobart Hurricanes,5
+Bellerive Oval,2013/14,BBL|03,-42.877,147.373,Hobart Hurricanes,4
+Bellerive Oval,2014/15,BBL|04,-42.877,147.373,Hobart Hurricanes,4
+Bellerive Oval,2015/16,BBL|05,-42.877,147.373,Hobart Hurricanes,4
+Bellerive Oval,2016/17,BBL|06,-42.877,147.373,Hobart Hurricanes,4
+Bellerive Oval,2017/18,BBL|07,-42.877,147.373,Hobart Hurricanes,4
+Bellerive Oval,2018/19,BBL|08,-42.877,147.373,Hobart Hurricanes,6
+Bellerive Oval,2019/20,BBL|09,-42.877,147.373,Hobart Hurricanes,5
+Bellerive Oval,2020/21,BBL|10,-42.877,147.373,Hobart Hurricanes,8
+Bellerive Oval,2021/22,BBL|11,-42.877,147.373,Hobart Hurricanes,5
+Bellerive Oval,2022/23,BBL|12,-42.877,147.373,Hobart Hurricanes,5
+Bellerive Oval,2023/24,BBL|13,-42.877,147.373,Hobart Hurricanes,4
+Bellerive Oval,2024/25,BBL|14,-42.877,147.373,Hobart Hurricanes,7
+Bellerive Oval,2025/26,BBL|15,-42.877,147.373,Hobart Hurricanes,6
+C.ex Coffs International Stadium,2019/20,BBL|09,-30.3196,153.1003,Sydney Sixers,1
+C.ex Coffs International Stadium,2021/22,BBL|11,-30.3196,153.1003,Sydney Sixers,1
+C.ex Coffs International Stadium,2022/23,BBL|12,-30.3196,153.1003,Sydney Sixers,1
+C.ex Coffs International Stadium,2023/24,BBL|13,-30.3196,153.1003,Sydney Sixers,1
+C.ex Coffs International Stadium,2025/26,BBL|15,-30.3196,153.1003,Sydney Sixers,1
+Carrara Oval,2018/19,BBL|08,-28.0063,153.3667,Brisbane Heat,3
+Carrara Oval,2019/20,BBL|09,-28.0063,153.3667,Brisbane Heat,3
+Carrara Oval,2020/21,BBL|10,-28.0063,153.3667,Brisbane Heat,6
+Carrara Oval,2021/22,BBL|11,-28.0063,153.3667,Brisbane Heat,3
+Carrara Oval,2022/23,BBL|12,-28.0063,153.3667,Brisbane Heat,1
+Carrara Oval,2023/24,BBL|13,-28.0063,153.3667,Brisbane Heat,2
+Cazaly's Stadium,2022/23,BBL|12,-16.936,145.749,Brisbane Heat,1
+Docklands Stadium,2011/12,BBL|01,-37.8165,144.9475,Melbourne Renegades,3
+Docklands Stadium,2012/13,BBL|02,-37.8165,144.9475,Melbourne Renegades,5
+Docklands Stadium,2013/14,BBL|03,-37.8165,144.9475,Melbourne Renegades,4
+Docklands Stadium,2014/15,BBL|04,-37.8165,144.9475,Melbourne Renegades,4
+Docklands Stadium,2015/16,BBL|05,-37.8165,144.9475,Melbourne Renegades,4
+Docklands Stadium,2016/17,BBL|06,-37.8165,144.9475,Melbourne Renegades,4
+Docklands Stadium,2017/18,BBL|07,-37.8165,144.9475,Melbourne Renegades,4
+Docklands Stadium,2018/19,BBL|08,-37.8165,144.9475,Melbourne Renegades,7
+Docklands Stadium,2019/20,BBL|09,-37.8165,144.9475,Melbourne Renegades,5
+Docklands Stadium,2020/21,BBL|10,-37.8165,144.9475,Melbourne Renegades,4
+Docklands Stadium,2021/22,BBL|11,-37.8165,144.9475,Melbourne Renegades,11
+Docklands Stadium,2022/23,BBL|12,-37.8165,144.9475,Melbourne Renegades,6
+Docklands Stadium,2023/24,BBL|13,-37.8165,144.9475,Melbourne Renegades,4
+Docklands Stadium,2024/25,BBL|14,-37.8165,144.9475,Melbourne Renegades,4
+Docklands Stadium,2025/26,BBL|15,-37.8165,144.9475,Melbourne Renegades,3
+Junction Oval,2021/22,BBL|11,-37.8545,144.979,Melbourne Stars,1
+Junction Oval,2022/23,BBL|12,-37.8545,144.979,Melbourne Stars,1
+Kardinia Park,2017/18,BBL|07,-38.158,144.3546,Melbourne Renegades,1
+Kardinia Park,2018/19,BBL|08,-38.158,144.3546,Melbourne Renegades,2
+Kardinia Park,2019/20,BBL|09,-38.158,144.3546,Melbourne Renegades,2
+Kardinia Park,2021/22,BBL|11,-38.158,144.3546,Melbourne Renegades,3
+Kardinia Park,2022/23,BBL|12,-38.158,144.3546,Melbourne Renegades,2
+Kardinia Park,2023/24,BBL|13,-38.158,144.3546,Melbourne Renegades,1
+Kardinia Park,2024/25,BBL|14,-38.158,144.3546,Melbourne Renegades,1
+Kardinia Park,2025/26,BBL|15,-38.158,144.3546,Melbourne Renegades,2
+Lavington Sports Oval,2022/23,BBL|12,-36.0423,146.9417,Sydney Thunder,1
+Lavington Sports Oval,2023/24,BBL|13,-36.0423,146.9417,Sydney Thunder,1
+Manuka Oval,2014/15,BBL|04,-35.3181,149.1347,Sydney Thunder,1
+Manuka Oval,2017/18,BBL|07,-35.3181,149.1347,Sydney Thunder,1
+Manuka Oval,2018/19,BBL|08,-35.3181,149.1347,Sydney Thunder,2
+Manuka Oval,2019/20,BBL|09,-35.3181,149.1347,Sydney Thunder,2
+Manuka Oval,2020/21,BBL|10,-35.3181,149.1347,Sydney Thunder,13
+Manuka Oval,2021/22,BBL|11,-35.3181,149.1347,Sydney Thunder,2
+Manuka Oval,2022/23,BBL|12,-35.3181,149.1347,Sydney Thunder,2
+Manuka Oval,2023/24,BBL|13,-35.3181,149.1347,Sydney Thunder,2
+Manuka Oval,2024/25,BBL|14,-35.3181,149.1347,Sydney Thunder,2
+Manuka Oval,2025/26,BBL|15,-35.3181,149.1347,Sydney Thunder,2
+Melbourne Cricket Ground,2011/12,BBL|01,-37.82,144.9834,Melbourne Stars,3
+Melbourne Cricket Ground,2012/13,BBL|02,-37.82,144.9834,Melbourne Stars,3
+Melbourne Cricket Ground,2013/14,BBL|03,-37.82,144.9834,Melbourne Stars,5
+Melbourne Cricket Ground,2014/15,BBL|04,-37.82,144.9834,Melbourne Stars,4
+Melbourne Cricket Ground,2015/16,BBL|05,-37.82,144.9834,Melbourne Stars,5
+Melbourne Cricket Ground,2016/17,BBL|06,-37.82,144.9834,Melbourne Stars,4
+Melbourne Cricket Ground,2017/18,BBL|07,-37.82,144.9834,Melbourne Stars,5
+Melbourne Cricket Ground,2018/19,BBL|08,-37.82,144.9834,Melbourne Stars,5
+Melbourne Cricket Ground,2019/20,BBL|09,-37.82,144.9834,Melbourne Stars,7
+Melbourne Cricket Ground,2020/21,BBL|10,-37.82,144.9834,Melbourne Stars,6
+Melbourne Cricket Ground,2021/22,BBL|11,-37.82,144.9834,Melbourne Stars,10
+Melbourne Cricket Ground,2022/23,BBL|12,-37.82,144.9834,Melbourne Stars,6
+Melbourne Cricket Ground,2023/24,BBL|13,-37.82,144.9834,Melbourne Stars,4
+Melbourne Cricket Ground,2024/25,BBL|14,-37.82,144.9834,Melbourne Stars,4
+Melbourne Cricket Ground,2025/26,BBL|15,-37.82,144.9834,Melbourne Stars,4
+North Sydney Oval,2022/23,BBL|12,-33.836,151.2075,Sydney Sixers,1
+Perth Stadium,2017/18,BBL|07,-31.9512,115.889,Perth Scorchers,1
+Perth Stadium,2018/19,BBL|08,-31.9512,115.889,Perth Scorchers,7
+Perth Stadium,2019/20,BBL|09,-31.9512,115.889,Perth Scorchers,7
+Perth Stadium,2020/21,BBL|10,-31.9512,115.889,Perth Scorchers,5
+Perth Stadium,2021/22,BBL|11,-31.9512,115.889,Perth Scorchers,1
+Perth Stadium,2022/23,BBL|12,-31.9512,115.889,Perth Scorchers,9
+Perth Stadium,2023/24,BBL|13,-31.9512,115.889,Perth Scorchers,6
+Perth Stadium,2024/25,BBL|14,-31.9512,115.889,Perth Scorchers,5
+Perth Stadium,2025/26,BBL|15,-31.9512,115.889,Perth Scorchers,7
+Stadium Australia,2011/12,BBL|01,-33.847,151.0634,Sydney Thunder,3
+Stadium Australia,2012/13,BBL|02,-33.847,151.0634,Sydney Thunder,4
+Stadium Australia,2013/14,BBL|03,-33.847,151.0634,Sydney Thunder,4
+Stadium Australia,2014/15,BBL|04,-33.847,151.0634,Sydney Thunder,2
+Sydney Cricket Ground,2011/12,BBL|01,-33.8915,151.2249,Sydney Sixers,3
+Sydney Cricket Ground,2012/13,BBL|02,-33.8915,151.2249,Sydney Sixers,3
+Sydney Cricket Ground,2013/14,BBL|03,-33.8915,151.2249,Sydney Sixers,5
+Sydney Cricket Ground,2014/15,BBL|04,-33.8915,151.2249,Sydney Sixers,4
+Sydney Cricket Ground,2015/16,BBL|05,-33.8915,151.2249,Sydney Sixers,4
+Sydney Cricket Ground,2016/17,BBL|06,-33.8915,151.2249,Sydney Sixers,4
+Sydney Cricket Ground,2017/18,BBL|07,-33.8915,151.2249,Sydney Sixers,5
+Sydney Cricket Ground,2018/19,BBL|08,-33.8915,151.2249,Sydney Sixers,7
+Sydney Cricket Ground,2019/20,BBL|09,-33.8915,151.2249,Sydney Sixers,7
+Sydney Cricket Ground,2020/21,BBL|10,-33.8915,151.2249,Sydney Sixers,1
+Sydney Cricket Ground,2021/22,BBL|11,-33.8915,151.2249,Sydney Sixers,6
+Sydney Cricket Ground,2022/23,BBL|12,-33.8915,151.2249,Sydney Sixers,6
+Sydney Cricket Ground,2023/24,BBL|13,-33.8915,151.2249,Sydney Sixers,5
+Sydney Cricket Ground,2024/25,BBL|14,-33.8915,151.2249,Sydney Sixers,5
+Sydney Cricket Ground,2025/26,BBL|15,-33.8915,151.2249,Sydney Sixers,5
+Sydney Showground Stadium,2014/15,BBL|04,-33.843,151.067,Sydney Thunder,1
+Sydney Showground Stadium,2015/16,BBL|05,-33.843,151.067,Sydney Thunder,3
+Sydney Showground Stadium,2016/17,BBL|06,-33.843,151.067,Sydney Thunder,4
+Sydney Showground Stadium,2017/18,BBL|07,-33.843,151.067,Sydney Thunder,4
+Sydney Showground Stadium,2018/19,BBL|08,-33.843,151.067,Sydney Thunder,5
+Sydney Showground Stadium,2019/20,BBL|09,-33.843,151.067,Sydney Thunder,5
+Sydney Showground Stadium,2021/22,BBL|11,-33.843,151.067,Sydney Thunder,4
+Sydney Showground Stadium,2022/23,BBL|12,-33.843,151.067,Sydney Thunder,5
+Sydney Showground Stadium,2023/24,BBL|13,-33.843,151.067,Sydney Thunder,2
+Sydney Showground Stadium,2024/25,BBL|14,-33.843,151.067,Sydney Thunder,4
+Sydney Showground Stadium,2025/26,BBL|15,-33.843,151.067,Sydney Thunder,4
+Ted Summerton Reserve,2018/19,BBL|08,-38.173,146.255,Melbourne Stars,1
+Ted Summerton Reserve,2019/20,BBL|09,-38.173,146.255,Melbourne Stars,1
+The Gabba,2011/12,BBL|01,-27.4858,153.0381,Brisbane Heat,2
+The Gabba,2012/13,BBL|02,-27.4858,153.0381,Brisbane Heat,3
+The Gabba,2013/14,BBL|03,-27.4858,153.0381,Brisbane Heat,4
+The Gabba,2014/15,BBL|04,-27.4858,153.0381,Brisbane Heat,4
+The Gabba,2015/16,BBL|05,-27.4858,153.0381,Brisbane Heat,4
+The Gabba,2016/17,BBL|06,-27.4858,153.0381,Brisbane Heat,5
+The Gabba,2017/18,BBL|07,-27.4858,153.0381,Brisbane Heat,5
+The Gabba,2018/19,BBL|08,-27.4858,153.0381,Brisbane Heat,5
+The Gabba,2019/20,BBL|09,-27.4858,153.0381,Brisbane Heat,5
+The Gabba,2020/21,BBL|10,-27.4858,153.0381,Brisbane Heat,6
+The Gabba,2021/22,BBL|11,-27.4858,153.0381,Brisbane Heat,5
+The Gabba,2022/23,BBL|12,-27.4858,153.0381,Brisbane Heat,5
+The Gabba,2023/24,BBL|13,-27.4858,153.0381,Brisbane Heat,4
+The Gabba,2024/25,BBL|14,-27.4858,153.0381,Brisbane Heat,5
+The Gabba,2025/26,BBL|15,-27.4858,153.0381,Brisbane Heat,5
+Traeger Park,2017/18,BBL|07,-23.704,133.872,Adelaide Strikers,1
+Traeger Park,2019/20,BBL|09,-23.704,133.872,Adelaide Strikers,1
+WACA Ground,2011/12,BBL|01,-31.96,115.8797,Perth Scorchers,5
+WACA Ground,2012/13,BBL|02,-31.96,115.8797,Perth Scorchers,6
+WACA Ground,2013/14,BBL|03,-31.96,115.8797,Perth Scorchers,5
+WACA Ground,2014/15,BBL|04,-31.96,115.8797,Perth Scorchers,5
+WACA Ground,2015/16,BBL|05,-31.96,115.8797,Perth Scorchers,3
+WACA Ground,2016/17,BBL|06,-31.96,115.8797,Perth Scorchers,6
+WACA Ground,2017/18,BBL|07,-31.96,115.8797,Perth Scorchers,5
+York Park,2017/18,BBL|07,-41.4258,147.1388,Hobart Hurricanes,1
+York Park,2018/19,BBL|08,-41.4258,147.1388,Hobart Hurricanes,2
+York Park,2019/20,BBL|09,-41.4258,147.1388,Hobart Hurricanes,2
+York Park,2020/21,BBL|10,-41.4258,147.1388,Hobart Hurricanes,2
+York Park,2021/22,BBL|11,-41.4258,147.1388,Hobart Hurricanes,1
+York Park,2022/23,BBL|12,-41.4258,147.1388,Hobart Hurricanes,2
+York Park,2023/24,BBL|13,-41.4258,147.1388,Hobart Hurricanes,1

@@ -1,0 +1,9 @@
+team,abbrev,colour,home_played,home_won,home_win_pct,away_played,away_won,away_win_pct,gap_pct_points
+Adelaide Strikers,STR,#0085CA,81,45,55.6,74,29,39.2,16.4
+Brisbane Heat,HEA,#00B2A9,77,34,44.2,78,37,47.4,-3.3
+Hobart Hurricanes,HUR,#6A2C91,77,45,58.4,75,33,44.0,14.4
+Melbourne Renegades,REN,#E4002B,80,32,40.0,72,30,41.7,-1.7
+Melbourne Stars,STA,#00843D,74,39,52.7,87,39,44.8,7.9
+Perth Scorchers,SCO,#F58220,82,56,68.3,77,44,57.1,11.1
+Sydney Sixers,SIX,#E5007E,72,46,63.9,84,51,60.7,3.2
+Sydney Thunder,THU,#B5D334,76,33,43.4,72,26,36.1,7.3

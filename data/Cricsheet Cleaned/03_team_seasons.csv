@@ -1,0 +1,121 @@
+season,season_label,team,abbrev,league_played,league_won,league_lost,league_no_result,league_win_pct,finish,finish_rank
+2011/12,BBL|01,Adelaide Strikers,STR,6,1,5,0,16.7,Missed finals,1
+2011/12,BBL|01,Brisbane Heat,HEA,5,2,3,0,40.0,Missed finals,1
+2011/12,BBL|01,Hobart Hurricanes,HUR,6,5,1,0,83.3,Finals,2
+2011/12,BBL|01,Melbourne Renegades,REN,6,2,4,0,33.3,Missed finals,1
+2011/12,BBL|01,Melbourne Stars,STA,6,3,3,0,50.0,Finals,2
+2011/12,BBL|01,Perth Scorchers,SCO,6,4,2,0,66.7,Runner-up,3
+2011/12,BBL|01,Sydney Sixers,SIX,7,5,2,0,71.4,Champion,4
+2011/12,BBL|01,Sydney Thunder,THU,6,2,4,0,33.3,Missed finals,1
+2012/13,BBL|02,Adelaide Strikers,STR,7,3,4,0,42.9,Missed finals,1
+2012/13,BBL|02,Brisbane Heat,HEA,6,2,4,0,33.3,Champion,4
+2012/13,BBL|02,Hobart Hurricanes,HUR,4,2,2,0,50.0,Missed finals,1
+2012/13,BBL|02,Melbourne Renegades,REN,7,6,1,0,85.7,Finals,2
+2012/13,BBL|02,Melbourne Stars,STA,6,4,2,0,66.7,Finals,2
+2012/13,BBL|02,Perth Scorchers,SCO,7,5,2,0,71.4,Runner-up,3
+2012/13,BBL|02,Sydney Sixers,SIX,6,3,3,0,50.0,Missed finals,1
+2012/13,BBL|02,Sydney Thunder,THU,7,0,7,0,0.0,Missed finals,1
+2013/14,BBL|03,Adelaide Strikers,STR,7,1,5,1,16.7,Missed finals,1
+2013/14,BBL|03,Brisbane Heat,HEA,8,3,5,0,37.5,Missed finals,1
+2013/14,BBL|03,Hobart Hurricanes,HUR,8,3,4,1,42.9,Runner-up,3
+2013/14,BBL|03,Melbourne Renegades,REN,8,3,5,0,37.5,Missed finals,1
+2013/14,BBL|03,Melbourne Stars,STA,8,8,0,0,100.0,Finals,2
+2013/14,BBL|03,Perth Scorchers,SCO,7,5,2,0,71.4,Champion,4
+2013/14,BBL|03,Sydney Sixers,SIX,8,6,2,0,75.0,Finals,2
+2013/14,BBL|03,Sydney Thunder,THU,8,1,7,0,12.5,Missed finals,1
+2014/15,BBL|04,Adelaide Strikers,STR,8,6,1,1,85.7,Finals,2
+2014/15,BBL|04,Brisbane Heat,HEA,8,2,6,0,25.0,Missed finals,1
+2014/15,BBL|04,Hobart Hurricanes,HUR,7,2,5,0,28.6,Missed finals,1
+2014/15,BBL|04,Melbourne Renegades,REN,8,3,5,0,37.5,Missed finals,1
+2014/15,BBL|04,Melbourne Stars,STA,8,5,3,0,62.5,Finals,2
+2014/15,BBL|04,Perth Scorchers,SCO,8,5,3,0,62.5,Champion,4
+2014/15,BBL|04,Sydney Sixers,SIX,8,5,3,0,62.5,Runner-up,3
+2014/15,BBL|04,Sydney Thunder,THU,7,2,4,1,33.3,Missed finals,1
+2015/16,BBL|05,Adelaide Strikers,STR,8,7,1,0,87.5,Finals,2
+2015/16,BBL|05,Brisbane Heat,HEA,8,3,5,0,37.5,Missed finals,1
+2015/16,BBL|05,Hobart Hurricanes,HUR,8,3,5,0,37.5,Missed finals,1
+2015/16,BBL|05,Melbourne Renegades,REN,8,3,5,0,37.5,Missed finals,1
+2015/16,BBL|05,Melbourne Stars,STA,6,4,2,0,66.7,Runner-up,3
+2015/16,BBL|05,Perth Scorchers,SCO,7,5,2,0,71.4,Finals,2
+2015/16,BBL|05,Sydney Sixers,SIX,7,2,5,0,28.6,Missed finals,1
+2015/16,BBL|05,Sydney Thunder,THU,6,2,4,0,33.3,Champion,4
+2016/17,BBL|06,Adelaide Strikers,STR,8,3,5,0,37.5,Missed finals,1
+2016/17,BBL|06,Brisbane Heat,HEA,8,5,3,0,62.5,Finals,2
+2016/17,BBL|06,Hobart Hurricanes,HUR,8,3,5,0,37.5,Missed finals,1
+2016/17,BBL|06,Melbourne Renegades,REN,8,4,4,0,50.0,Missed finals,1
+2016/17,BBL|06,Melbourne Stars,STA,8,4,4,0,50.0,Finals,2
+2016/17,BBL|06,Perth Scorchers,SCO,8,5,3,0,62.5,Champion,4
+2016/17,BBL|06,Sydney Sixers,SIX,8,5,3,0,62.5,Runner-up,3
+2016/17,BBL|06,Sydney Thunder,THU,8,3,5,0,37.5,Missed finals,1
+2017/18,BBL|07,Adelaide Strikers,STR,10,7,3,0,70.0,Champion,4
+2017/18,BBL|07,Brisbane Heat,HEA,10,4,6,0,40.0,Missed finals,1
+2017/18,BBL|07,Hobart Hurricanes,HUR,10,5,5,0,50.0,Runner-up,3
+2017/18,BBL|07,Melbourne Renegades,REN,10,6,4,0,60.0,Finals,2
+2017/18,BBL|07,Melbourne Stars,STA,10,2,8,0,20.0,Missed finals,1
+2017/18,BBL|07,Perth Scorchers,SCO,10,8,2,0,80.0,Finals,2
+2017/18,BBL|07,Sydney Sixers,SIX,10,4,6,0,40.0,Missed finals,1
+2017/18,BBL|07,Sydney Thunder,THU,10,4,6,0,40.0,Missed finals,1
+2018/19,BBL|08,Adelaide Strikers,STR,14,6,8,0,42.9,Missed finals,1
+2018/19,BBL|08,Brisbane Heat,HEA,14,6,7,1,46.2,Missed finals,1
+2018/19,BBL|08,Hobart Hurricanes,HUR,14,10,4,0,71.4,Finals,2
+2018/19,BBL|08,Melbourne Renegades,REN,14,8,6,0,57.1,Champion,4
+2018/19,BBL|08,Melbourne Stars,STA,14,7,7,0,50.0,Runner-up,3
+2018/19,BBL|08,Perth Scorchers,SCO,14,4,10,0,28.6,Missed finals,1
+2018/19,BBL|08,Sydney Sixers,SIX,14,8,6,0,57.1,Finals,2
+2018/19,BBL|08,Sydney Thunder,THU,14,6,7,1,46.2,Missed finals,1
+2019/20,BBL|09,Adelaide Strikers,STR,14,8,5,1,61.5,Finals,2
+2019/20,BBL|09,Brisbane Heat,HEA,14,6,8,0,42.9,Missed finals,1
+2019/20,BBL|09,Hobart Hurricanes,HUR,14,6,7,1,46.2,Finals,2
+2019/20,BBL|09,Melbourne Renegades,REN,14,3,11,0,21.4,Missed finals,1
+2019/20,BBL|09,Melbourne Stars,STA,14,10,4,0,71.4,Runner-up,3
+2019/20,BBL|09,Perth Scorchers,SCO,14,6,8,0,42.9,Missed finals,1
+2019/20,BBL|09,Sydney Sixers,SIX,14,9,4,1,69.2,Champion,4
+2019/20,BBL|09,Sydney Thunder,THU,14,6,7,1,46.2,Finals,2
+2020/21,BBL|10,Adelaide Strikers,STR,14,7,7,0,50.0,Finals,2
+2020/21,BBL|10,Brisbane Heat,HEA,14,7,7,0,50.0,Finals,2
+2020/21,BBL|10,Hobart Hurricanes,HUR,14,7,7,0,50.0,Missed finals,1
+2020/21,BBL|10,Melbourne Renegades,REN,14,4,10,0,28.6,Missed finals,1
+2020/21,BBL|10,Melbourne Stars,STA,14,5,8,1,38.5,Missed finals,1
+2020/21,BBL|10,Perth Scorchers,SCO,14,8,5,1,61.5,Runner-up,3
+2020/21,BBL|10,Sydney Sixers,SIX,14,9,5,0,64.3,Champion,4
+2020/21,BBL|10,Sydney Thunder,THU,14,8,6,0,57.1,Finals,2
+2021/22,BBL|11,Adelaide Strikers,STR,14,6,8,0,42.9,Finals,2
+2021/22,BBL|11,Brisbane Heat,HEA,14,3,11,0,21.4,Missed finals,1
+2021/22,BBL|11,Hobart Hurricanes,HUR,14,7,7,0,50.0,Finals,2
+2021/22,BBL|11,Melbourne Renegades,REN,13,3,10,0,23.1,Missed finals,1
+2021/22,BBL|11,Melbourne Stars,STA,14,7,7,0,50.0,Missed finals,1
+2021/22,BBL|11,Perth Scorchers,SCO,14,11,3,0,78.6,Champion,4
+2021/22,BBL|11,Sydney Sixers,SIX,13,9,4,0,69.2,Runner-up,3
+2021/22,BBL|11,Sydney Thunder,THU,14,9,5,0,64.3,Finals,2
+2022/23,BBL|12,Adelaide Strikers,STR,14,5,9,0,35.7,Missed finals,1
+2022/23,BBL|12,Brisbane Heat,HEA,14,6,7,1,46.2,Runner-up,3
+2022/23,BBL|12,Hobart Hurricanes,HUR,14,6,8,0,42.9,Missed finals,1
+2022/23,BBL|12,Melbourne Renegades,REN,14,7,7,0,50.0,Finals,2
+2022/23,BBL|12,Melbourne Stars,STA,14,3,11,0,21.4,Missed finals,1
+2022/23,BBL|12,Perth Scorchers,SCO,14,11,3,0,78.6,Champion,4
+2022/23,BBL|12,Sydney Sixers,SIX,14,10,3,1,76.9,Finals,2
+2022/23,BBL|12,Sydney Thunder,THU,14,7,7,0,50.0,Finals,2
+2023/24,BBL|13,Adelaide Strikers,STR,9,5,4,0,55.6,Finals,2
+2023/24,BBL|13,Brisbane Heat,HEA,8,7,1,0,87.5,Champion,4
+2023/24,BBL|13,Hobart Hurricanes,HUR,10,4,6,0,40.0,Missed finals,1
+2023/24,BBL|13,Melbourne Renegades,REN,9,2,6,1,25.0,Missed finals,1
+2023/24,BBL|13,Melbourne Stars,STA,10,4,6,0,40.0,Missed finals,1
+2023/24,BBL|13,Perth Scorchers,SCO,10,6,3,1,66.7,Finals,2
+2023/24,BBL|13,Sydney Sixers,SIX,9,6,2,1,75.0,Runner-up,3
+2023/24,BBL|13,Sydney Thunder,THU,9,1,7,1,12.5,Missed finals,1
+2024/25,BBL|14,Adelaide Strikers,STR,10,3,7,0,30.0,Missed finals,1
+2024/25,BBL|14,Brisbane Heat,HEA,9,3,6,0,33.3,Missed finals,1
+2024/25,BBL|14,Hobart Hurricanes,HUR,9,7,2,0,77.8,Champion,4
+2024/25,BBL|14,Melbourne Renegades,REN,10,4,6,0,40.0,Missed finals,1
+2024/25,BBL|14,Melbourne Stars,STA,10,5,5,0,50.0,Finals,2
+2024/25,BBL|14,Perth Scorchers,SCO,10,4,6,0,40.0,Missed finals,1
+2024/25,BBL|14,Sydney Sixers,SIX,9,6,2,1,75.0,Finals,2
+2024/25,BBL|14,Sydney Thunder,THU,9,5,3,1,62.5,Runner-up,3
+2025/26,BBL|15,Adelaide Strikers,STR,10,4,6,0,40.0,Missed finals,1
+2025/26,BBL|15,Brisbane Heat,HEA,10,5,5,0,50.0,Missed finals,1
+2025/26,BBL|15,Hobart Hurricanes,HUR,10,6,3,1,66.7,Finals,2
+2025/26,BBL|15,Melbourne Renegades,REN,10,3,7,0,30.0,Missed finals,1
+2025/26,BBL|15,Melbourne Stars,STA,10,6,4,0,60.0,Finals,2
+2025/26,BBL|15,Perth Scorchers,SCO,10,7,3,0,70.0,Champion,4
+2025/26,BBL|15,Sydney Sixers,SIX,10,6,3,1,66.7,Runner-up,3
+2025/26,BBL|15,Sydney Thunder,THU,10,2,8,0,20.0,Missed finals,1
