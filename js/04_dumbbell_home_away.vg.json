@@ -1,0 +1,72 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Perth win away more often than five teams win at home",
+    "subtitle": "Win rate at home and away, BBL|01 to BBL|15. Teams sorted by the size of their home advantage.",
+    "anchor": "start"
+  },
+  "width": "container",
+  "height": 280,
+  "data": {
+    "url": "https://raw.githubusercontent.com/outerhuman-noise/bbl-performance/main/data/cric_cleaned/04_home_away.csv",
+    "format": {
+      "parse": {"gap_pct_points": "number", "home_win_pct": "number", "away_win_pct": "number"}
+    }
+  },
+  "transform": [
+    {"fold": ["home_win_pct", "away_win_pct"], "as": ["venue_type", "win_pct"]},
+    {"calculate": "datum.venue_type === 'home_win_pct' ? 'Home' : 'Away'", "as": "where"}
+  ],
+
+  "layer": [
+    {
+      "mark": {"type": "rule", "strokeDash": [4, 4], "color": "#8a919e"},
+      "encoding": {
+        "x": {"datum": 50, "scale": {"domain": [30, 75]}}
+      }
+    },
+
+    {
+      "mark": {"type": "rule", "color": "#b8bec9", "strokeWidth": 3},
+      "encoding": {
+        "y": {
+          "field": "team", "type": "nominal", "title": null,
+          "sort": {"field": "gap_pct_points", "op": "max", "order": "descending"}
+        },
+        "x": {"field": "win_pct", "aggregate": "min", "type": "quantitative",
+              "scale": {"domain": [30, 75]}},
+        "x2": {"field": "win_pct", "aggregate": "max"}
+      }
+    },
+
+    {
+      "mark": {"type": "point", "filled": true, "size": 140, "opacity": 1},
+      "encoding": {
+        "y": {
+          "field": "team", "type": "nominal", "title": null,
+          "sort": {"field": "gap_pct_points", "op": "max", "order": "descending"}
+        },
+        "x": {
+          "field": "win_pct", "type": "quantitative",
+          "title": "Win % (no-result matches excluded)",
+          "scale": {"domain": [30, 75]}
+        },
+        "color": {
+          "field": "where", "type": "nominal", "title": null,
+          "scale": {"domain": ["Home", "Away"], "range": ["#1f5fa8", "#e07b39"]},
+          "legend": {"orient": "top", "direction": "horizontal"}
+        },
+        "tooltip": [
+          {"field": "team", "title": "Team"},
+          {"field": "where", "title": "Where"},
+          {"field": "win_pct", "title": "Win %", "format": ".1f"},
+          {"field": "home_played", "title": "Home matches"},
+          {"field": "away_played", "title": "Away matches"},
+          {"field": "gap_pct_points", "title": "Home advantage (% points)", "format": "+.1f"}
+        ]
+      }
+    }
+  ],
+
+  "config": {"view": {"stroke": null}}
+}

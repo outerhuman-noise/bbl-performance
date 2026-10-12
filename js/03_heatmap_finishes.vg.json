@@ -1,0 +1,54 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Perth have played in 9 of 15 finals and won 6",
+    "subtitle": "Each cell shows how far a team went that season. Click a team to highlight it; double-click to reset.",
+  "anchor": "start"
+  },
+  "width": "container",
+  "height": 300,
+  "data": {"url": "https://raw.githubusercontent.com/outerhuman-noise/bbl-performance/main/data/cric_cleaned/03_team_seasons.csv"},
+  "encoding": {
+    "x": {
+      "field": "season_label", "type": "ordinal",
+      "title": "Season (01 = 2011/12, 15 = 2025/26)",
+      "axis": {"labelExpr": "replace(datum.label, 'BBL|', '')","labelAngle": 0, "orient": "top"}
+    },
+    "y": {
+      "field": "team", "type": "nominal", "title": null,
+      "sort": ["Perth Scorchers", "Sydney Sixers", "Brisbane Heat", "Hobart Hurricanes", "Sydney Thunder", "Adelaide Strikers", "Melbourne Renegades", "Melbourne Stars"]
+    }
+  },
+  "layer": [
+    {
+      "params": [
+      {"name": "pickTeam", "select": {"type": "point", "fields": ["team"], "on": "click", "clear": "dblclick"}}],
+      "mark": "rect",
+      "encoding": {
+        "color": {
+          "field": "finish",
+          "type": "ordinal",
+          "scale": {
+            "domain": ["Missed finals", "Finals", "Runner-Up", "Champion"],
+            "range": ["#e6e9ee", "#a9c4e4", "#4f86c6", "#173f73"]
+          }
+        },
+        "opacity": {
+          "condition": {"param": "pickTeam", "empty": true, "value": 1},
+          "value": 0.2
+        },
+        "tooltip": [
+          {"field": "team", "title": "Team"},
+          {"field": "season", "title": "Season"},
+          {"field": "finish", "title": "Finish"},
+          {"field": "league_won", "title": "League wins"},
+          {"field": "league_lost", "title": "League losses"}
+        ]
+      }
+    },
+    {
+      "transform": [{"filter": "datum.finish === 'Champion'"}],
+      "mark": {"type": "text", "text": "Won", "color": "white", "fontWeight": "bold"}
+    }
+  ]
+}
