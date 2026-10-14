@@ -1,10 +1,86 @@
-<div id="chart3" style="width:100%"></div>
-<div id="chart4" style="width:100%"></div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>What wins a Big Bash title?</title>
 
-<script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
-<script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
-<script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+  <!-- Fonts and layout -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Source+Sans+3:wght@400;600&display=swap">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/purecss@3.0.0/build/pure-min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/purecss@3.0.0/build/grids-responsive-min.css">
+
+  <!-- Vega libraries: load once, before any chart -->
+  <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+
+  <style>
+    body { margin: 0; background: #ffffff; color: #1f2430; font-family: "Source Sans 3", Helvetica, Arial, sans-serif; line-height: 1.55; }
+    .page { max-width: 1100px; margin: 0 auto; padding: 0 16px; }
+    header { padding: 48px 0 24px; }
+    h1, h2 { font-family: "Barlow Condensed", "Arial Narrow", sans-serif; letter-spacing: 0.01em; }
+    h1 { font-size: 2.6rem; margin: 0 0 8px; }
+    h2 { font-size: 1.8rem; margin: 48px 0 8px; border-top: 3px solid #1f2430; padding-top: 12px; }
+    .lede { font-size: 1.15rem; max-width: 70ch; color: #3b4250; }
+    section p { max-width: 70ch; }
+    .chart { width: 100%; margin: 16px 0 32px; }
+    .pad { padding-right: 24px; }
+    footer { margin: 64px 0 32px; padding-top: 16px; border-top: 1px solid #d5d9e0; font-size: 0.9rem; color: #5b6270; }
+    @media (max-width: 767px) { .pad { padding-right: 0; } }
+  </style>
+</head>
+
+<body>
+<div class="page">
+
+  <header>
+    <h1>What wins a Big Bash title?</h1>
+    <p class="lede">Fifteen seasons of the BBL, from where the games are played to who keeps lifting the trophy.</p>
+    <p>By YOUR NAME &middot; October 2026</p>
+  </header>
+
+  <section>
+    <h2>Where the Big Bash lives</h2>
+    <p>Short paragraph introducing the maps.</p>
+    <div id="chart1" class="chart"></div>
+    <p>Short paragraph linking the two maps.</p>
+    <div id="chart2" class="chart"></div>
+  </section>
+
+  <section>
+    <h2>Who wins, and does home matter?</h2>
+    <p>Short paragraph introducing this section.</p>
+    <div id="chart3" class="chart"></div>
+    <div id="chart4" class="chart"></div>
+    <div id="chart5" class="chart"></div>
+
+    <!-- Two charts side by side (use this for smaller charts, not maps):
+    <div class="pure-g">
+      <div class="pure-u-1 pure-u-md-1-2"><div class="pad"><div id="chartA" class="chart"></div></div></div>
+      <div class="pure-u-1 pure-u-md-1-2"><div id="chartB" class="chart"></div></div>
+    </div>
+    -->
+  </section>
+
+  <!-- Sections 3 and 4 (how the game has changed, BBL|15 in focus) go here as you build charts 6 to 12 -->
+
+  <footer>
+    <p><strong>Data:</strong> Cricsheet, Big Bash League match data (ODC-BY 1.0); Australian Bureau of Statistics, National, state and territory population, March 2026, and ASGS state boundaries (CC BY 4.0).</p>
+    <p><strong>AI use:</strong> Describe how you used AI tools here.</p>
+  </footer>
+
+</div>
+
+<!-- Draw every chart. One line per chart. -->
 <script>
-  vegaEmbed('#chart3', 'js/03_heatmap_finishes.vg.json', {actions: false});
-  vegaEmbed('#chart4', 'js/04_dumbbell_home_away.vg.json', {actions: false});
+  const opts = {actions: false};
+  vegaEmbed('#chart1', 'js/01_symbol_map_venues.vg.json', opts);
+  vegaEmbed('#chart2', 'js/02_choropleth_states.vg.json', opts);
+  vegaEmbed('#chart3', 'js/03_heatmap_finishes.vg.json', opts);
+  vegaEmbed('#chart4', 'js/04_dumbbell_home_away.vg.json', opts);
+  vegaEmbed('#chart5', 'js/05_flow_map_travel.vg.json', opts);
 </script>
+</body>
+</html>

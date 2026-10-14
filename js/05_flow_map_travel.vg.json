@@ -1,0 +1,249 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Perth's away trips are the longest in the league",
+    "subtitle": "Lines run from a team's home ground to each away ground it played at. Thicker lines mean more trips that season.",
+    "anchor": "start"
+  },
+  "width": "container",
+  "height": 420,
+  "params": [
+    {
+      "name": "teamPick",
+      "value": "Perth Scorchers",
+      "bind": {
+        "input": "select",
+        "name": "Team: ",
+        "options": [
+          "Adelaide Strikers",
+          "Brisbane Heat",
+          "Hobart Hurricanes",
+          "Melbourne Renegades",
+          "Melbourne Stars",
+          "Perth Scorchers",
+          "Sydney Sixers",
+          "Sydney Thunder"
+        ]
+      }
+    },
+    {
+      "name": "seasonPick",
+      "value": 15,
+      "bind": {
+        "input": "range",
+        "min": 1,
+        "max": 15,
+        "step": 1,
+        "name": "Season (BBL|): "
+      }
+    }
+  ],
+  "projection": {
+    "type": "conicEqualArea",
+    "parallels": [
+      -18,
+      -36
+    ],
+    "rotate": [
+      -132,
+      0
+    ]
+  },
+  "layer": [
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/outerhuman-noise/bbl-performance/main/data/aus_states.topojson",
+        "format": {
+          "type": "topojson",
+          "feature": "states"
+        }
+      },
+      "mark": {
+        "type": "geoshape",
+        "fill": "#eef0f3",
+        "stroke": "#ffffff",
+        "strokeWidth": 1.5
+      }
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/outerhuman-noise/bbl-performance/main/data/cric_cleaned/05_travel_flows.csv"
+      },
+      "transform": [
+        {
+          "calculate": "toNumber(slice(datum.season_label, 4))",
+          "as": "season_num"
+        },
+        {
+          "filter": "datum.team === teamPick && datum.season_num === seasonPick"
+        }
+      ],
+      "layer": [
+        {
+          "mark": {
+            "type": "rule",
+            "opacity": 0.8,
+            "strokeCap": "round"
+          },
+          "encoding": {
+            "longitude": {
+              "field": "home_lon",
+              "type": "quantitative"
+            },
+            "latitude": {
+              "field": "home_lat",
+              "type": "quantitative"
+            },
+            "longitude2": {
+              "field": "venue_lon"
+            },
+            "latitude2": {
+              "field": "venue_lat"
+            },
+            "strokeWidth": {
+              "field": "trips",
+              "type": "quantitative",
+              "title": "Trips",
+              "scale": {
+                "domain": [
+                  1,
+                  8
+                ],
+                "range": [
+                  1.5,
+                  10
+                ]
+              },
+              "legend": {
+                "orient": "bottom-left",
+                "values": [
+                  1,
+                  4,
+                  8
+                ],
+                "format": ".0f"
+              }
+            },
+            "color": {
+              "field": "colour",
+              "type": "nominal",
+              "scale": null
+            },
+            "tooltip": [
+              {
+                "field": "team",
+                "title": "Team"
+              },
+              {
+                "field": "venue",
+                "title": "Away ground"
+              },
+              {
+                "field": "trips",
+                "type": "quantitative",
+                "title": "Trips this season"
+              },
+              {
+                "field": "km_one_way",
+                "type": "quantitative",
+                "title": "Distance (km, one way)",
+                "format": ","
+              }
+            ]
+          }
+        },
+        {
+          "mark": {
+            "type": "circle",
+            "size": 60,
+            "color": "#3b4250"
+          },
+          "encoding": {
+            "longitude": {
+              "field": "venue_lon",
+              "type": "quantitative"
+            },
+            "latitude": {
+              "field": "venue_lat",
+              "type": "quantitative"
+            },
+            "tooltip": [
+              {
+                "field": "venue",
+                "title": "Away ground"
+              },
+              {
+                "field": "km_one_way",
+                "type": "quantitative",
+                "title": "Distance (km, one way)",
+                "format": ","
+              }
+            ]
+          }
+        },
+        {
+          "transform": [
+            {
+              "aggregate": [
+                {
+                  "op": "min",
+                  "field": "home_lon",
+                  "as": "home_lon"
+                },
+                {
+                  "op": "min",
+                  "field": "home_lat",
+                  "as": "home_lat"
+                },
+                {
+                  "op": "min",
+                  "field": "colour",
+                  "as": "colour"
+                },
+                {
+                  "op": "min",
+                  "field": "home_venue",
+                  "as": "home_venue"
+                }
+              ]
+            }
+          ],
+          "mark": {
+            "type": "point",
+            "shape": "circle",
+            "size": 220,
+            "filled": true,
+            "stroke": "#ffffff",
+            "strokeWidth": 2
+          },
+          "encoding": {
+            "longitude": {
+              "field": "home_lon",
+              "type": "quantitative"
+            },
+            "latitude": {
+              "field": "home_lat",
+              "type": "quantitative"
+            },
+            "fill": {
+              "field": "colour",
+              "type": "nominal",
+              "scale": null
+            },
+            "tooltip": [
+              {
+                "field": "home_venue",
+                "title": "Home ground"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "config": {
+    "view": {
+      "stroke": null
+    }
+  }
+}

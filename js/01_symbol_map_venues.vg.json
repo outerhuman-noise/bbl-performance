@@ -1,0 +1,201 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "The Big Bash is played in eight cities, plus a few regional visits",
+    "subtitle": "Each circle is a ground, sized by matches hosted (BBL|01 to BBL|15) and coloured by its home team",
+    "anchor": "start"
+  },
+  "width": "container",
+  "height": 420,
+  "params": [
+    {
+      "name": "teamPick",
+      "value": "All teams",
+      "bind": {
+        "input": "select",
+        "options": [
+          "All teams",
+          "Adelaide Strikers",
+          "Brisbane Heat",
+          "Hobart Hurricanes",
+          "Melbourne Renegades",
+          "Melbourne Stars",
+          "Perth Scorchers",
+          "Sydney Sixers",
+          "Sydney Thunder"
+        ],
+        "name": "Show grounds for: "
+      }
+    }
+  ],
+  "projection": {
+    "type": "conicEqualArea",
+    "parallels": [
+      -18,
+      -36
+    ],
+    "rotate": [
+      -132,
+      0
+    ]
+  },
+  "layer": [
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/outerhuman-noise/bbl-performance/main/data/aus_states.topojson",
+        "format": {
+          "type": "topojson",
+          "feature": "states"
+        }
+      },
+      "mark": {
+        "type": "geoshape",
+        "fill": "#eef0f3",
+        "stroke": "#ffffff",
+        "strokeWidth": 1.5
+      }
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/outerhuman-noise/bbl-performance/main/data/cric_cleaned/01_venues.csv"
+      },
+      "mark": {
+        "type": "point",
+        "shape": "circle",
+        "filled": false,
+        "strokeWidth": 2.5,
+        "opacity": 1
+      },
+      "encoding": {
+        "longitude": {
+          "field": "lon",
+          "type": "quantitative"
+        },
+        "latitude": {
+          "field": "lat",
+          "type": "quantitative"
+        },
+        "size": {
+          "field": "matches",
+          "type": "quantitative",
+          "title": "Matches hosted",
+          "scale": {
+            "range": [
+              20,
+              1400
+            ]
+          },
+          "legend": {
+            "orient": "bottom-left",
+            "values": [
+              10,
+              40,
+              80
+            ]
+          }
+        },
+        "color": {
+          "field": "tenant",
+          "type": "nominal",
+          "title": "Home team",
+          "scale": {
+            "domain": [
+              "Adelaide Strikers",
+              "Brisbane Heat",
+              "Hobart Hurricanes",
+              "Melbourne Renegades",
+              "Melbourne Stars",
+              "Perth Scorchers",
+              "Sydney Sixers",
+              "Sydney Thunder"
+            ],
+            "range": [
+              "#0085CA",
+              "#00B2A9",
+              "#6A2C91",
+              "#E4002B",
+              "#00843D",
+              "#F58220",
+              "#E5007E",
+              "#B5D334"
+            ]
+          },
+          "legend": {
+            "orient": "right"
+          }
+        },
+        "order": {
+          "field": "matches",
+          "sort": "descending"
+        },
+        "tooltip": [
+          {
+            "field": "venue",
+            "title": "Ground"
+          },
+          {
+            "field": "city",
+            "title": "City"
+          },
+          {
+            "field": "tenant",
+            "title": "Home team"
+          },
+          {
+            "field": "matches",
+            "type": "quantitative",
+            "title": "Matches hosted"
+          },
+          {
+            "field": "first_season",
+            "title": "First season"
+          },
+          {
+            "field": "last_season",
+            "title": "Most recent season"
+          }
+        ],
+        "fill": {
+          "field": "tenant",
+          "type": "nominal",
+          "scale": {
+            "domain": [
+              "Adelaide Strikers",
+              "Brisbane Heat",
+              "Hobart Hurricanes",
+              "Melbourne Renegades",
+              "Melbourne Stars",
+              "Perth Scorchers",
+              "Sydney Sixers",
+              "Sydney Thunder"
+            ],
+            "range": [
+              "#0085CA",
+              "#00B2A9",
+              "#6A2C91",
+              "#E4002B",
+              "#00843D",
+              "#F58220",
+              "#E5007E",
+              "#B5D334"
+            ]
+          },
+          "legend": null
+        },
+        "fillOpacity": {
+          "value": 0.15
+        }
+      },
+      "transform": [
+        {
+          "filter": "teamPick === 'All teams' || datum.tenant === teamPick"
+        }
+      ]
+    }
+  ],
+  "config": {
+    "view": {
+      "stroke": null
+    }
+  }
+}

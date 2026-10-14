@@ -1,0 +1,107 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Tasmania hosts the most Big Bash cricket for its size",
+    "subtitle": "BBL matches hosted per million residents, BBL|01 to BBL|15",
+    "anchor": "start"
+  },
+  "width": "container",
+  "height": 420,
+  "projection": {
+    "type": "conicEqualArea",
+    "parallels": [
+      -18,
+      -36
+    ],
+    "rotate": [
+      -132,
+      0
+    ]
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/outerhuman-noise/bbl-performance/main/data/aus_states.topojson",
+    "format": {
+      "type": "topojson",
+      "feature": "states"
+    }
+  },
+  "transform": [
+    {
+      "lookup": "properties.STE_NAME21",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/outerhuman-noise/bbl-performance/main/data/cric_cleaned/02_state_matches.csv"
+        },
+        "key": "state_name",
+        "fields": [
+          "state",
+          "matches",
+          "population",
+          "matches_per_million"
+        ]
+      }
+    }
+  ],
+  "mark": {
+    "type": "geoshape",
+    "stroke": "#ffffff",
+    "strokeWidth": 1.5
+  },
+  "encoding": {
+    "color": {
+      "field": "matches_per_million",
+      "type": "quantitative",
+      "title": "Matches per million residents",
+      "scale": {
+        "type": "threshold",
+        "domain": [
+          10,
+          20,
+          40,
+          80
+        ],
+        "range": [
+          "#dbe6f3",
+          "#a9c4e4",
+          "#6f9fd4",
+          "#3a6fb0",
+          "#173f73"
+        ]
+      },
+      "legend": {
+        "orient": "bottom",
+        "direction": "horizontal",
+        "format": ".0f",
+        "gradientLength": 260
+      }
+    },
+    "tooltip": [
+      {
+        "field": "properties.STE_NAME21",
+        "title": "State"
+      },
+      {
+        "field": "matches",
+        "type": "quantitative",
+        "title": "Matches hosted"
+      },
+      {
+        "field": "population",
+        "type": "quantitative",
+        "title": "Population (Mar 2026)",
+        "format": ","
+      },
+      {
+        "field": "matches_per_million",
+        "type": "quantitative",
+        "title": "Per million residents",
+        "format": ".1f"
+      }
+    ]
+  },
+  "config": {
+    "view": {
+      "stroke": null
+    }
+  }
+}
