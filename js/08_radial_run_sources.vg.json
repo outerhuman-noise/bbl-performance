@@ -1,0 +1,62 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Sixes are taking over from running between the wickets",
+    "subtitle": [
+      "Share of each season's runs by source. Each ring is a season: BBL|01 in the centre, BBL|15 on the outside.",
+      "The orange wedge (sixes) starts at 12 o'clock, so a wider wedge means more runs from sixes. Click the legend to highlight a source."
+    ],
+    "anchor": "start"
+  },
+  "width": "container",
+  "height": 480,
+  "data": {
+    "url": "https://raw.githubusercontent.com/outerhuman-noise/bbl-performance/main/data/cric_cleaned/08_run_sources.csv",
+    "format": {"parse": {"season_num": "number", "source_order": "number", "runs": "number", "share_pct": "number"}}
+  },
+  "transform": [
+    {
+      "window": [{"op": "sum", "field": "share_pct", "as": "end_pct"}],
+      "groupby": ["season_label"],
+      "sort": [{"field": "source_order"}],
+      "frame": [null, 0]
+    },
+    {"calculate": "datum.end_pct - datum.share_pct", "as": "start_pct"},
+    {"calculate": "datum.season_num", "as": "outer"},
+    {"calculate": "datum.season_num - 0.82", "as": "inner"}
+  ],
+  "layer": [
+    {
+      "params": [
+        {"name": "pickSource", "select": {"type": "point", "fields": ["source"]}, "bind": "legend"}
+      ],
+      "mark": {"type": "arc", "stroke": "#ffffff", "strokeWidth": 0.5},
+      "encoding": {
+        "theta": {"field": "start_pct", "type": "quantitative", "scale": {"domain": [0, 100]}, "stack": null},
+        "theta2": {"field": "end_pct"},
+        "radius": {"field": "outer", "type": "quantitative", "scale": {"domain": [-5, 15], "zero": false}},
+        "radius2": {"field": "inner"},
+        "color": {
+          "field": "source", "type": "nominal", "title": "Runs from",
+          "scale": {"domain": ["Sixes", "Fours", "Running", "Extras"],
+                    "range": ["#e07b39", "#4f86c6", "#c9d6e8", "#8a919e"]},
+          "legend": {"orient": "right"}
+        },
+        "opacity": {"condition": {"param": "pickSource", "value": 1}, "value": 0.25},
+        "tooltip": [
+          {"field": "season_label", "title": "Season"},
+          {"field": "source", "title": "Runs from"},
+          {"field": "share_pct", "title": "Share of runs (%)", "format": ".1f"},
+          {"field": "runs", "title": "Runs", "format": ","}
+        ]
+      }
+    },
+    {
+      "mark": {"type": "text", "align": "center", "baseline": "middle", "fontSize": 12, "fontWeight": "bold",
+               "lineHeight": 17, "color": "#1f2430",
+               "text": ["Runs from sixes", "19.4% → 24.1%", "BBL|01 → BBL|15"]},
+      "encoding": {"theta": {"value": 0}, "radius": {"value": 0}}
+    }
+  ],
+  "config": {"view": {"stroke": null}}
+}

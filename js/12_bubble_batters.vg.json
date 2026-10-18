@@ -1,0 +1,81 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Three of BBL|15's top five run-scorers played for Perth",
+    "subtitle": [
+      "Batters who faced at least 100 balls in BBL|15. Bubble size shows total runs. Dashed lines mark the median batter,",
+      "so the top-right corner holds batters who scored both faster and more reliably than most. Click the legend to pick a team."
+    ],
+    "anchor": "start"
+  },
+  "width": "container",
+  "height": 420,
+  "data": {
+    "url": "https://raw.githubusercontent.com/outerhuman-noise/bbl-performance/main/data/cric_cleaned/12_batters_by_season.csv",
+    "format": {"parse": {"runs": "number", "balls": "number", "outs": "number", "innings": "number",
+                         "average": "number", "strike_rate": "number", "fours": "number", "sixes": "number"}}
+  },
+  "transform": [
+    {"filter": "datum.season_label === 'BBL|15' && datum.balls >= 100"},
+    {"window": [{"op": "row_number", "as": "run_rank"}], "sort": [{"field": "runs", "order": "descending"}]}
+  ],
+  "encoding": {
+    "x": {"field": "average", "type": "quantitative", "title": "Batting average (runs per dismissal)", "scale": {"domain": [10, 100]}},
+    "y": {"field": "strike_rate", "type": "quantitative", "title": "Strike rate (runs per 100 balls)", "scale": {"domain": [95, 190]}}
+  },
+  "layer": [
+    {
+      "transform": [{"aggregate": [{"op": "median", "field": "average", "as": "med_avg"}]}],
+      "mark": {"type": "rule", "strokeDash": [4, 4], "color": "#8a919e"},
+      "encoding": {"x": {"field": "med_avg", "type": "quantitative"}, "y": null}
+    },
+    {
+      "transform": [{"aggregate": [{"op": "median", "field": "strike_rate", "as": "med_sr"}]}],
+      "mark": {"type": "rule", "strokeDash": [4, 4], "color": "#8a919e"},
+      "encoding": {"y": {"field": "med_sr", "type": "quantitative"}, "x": null}
+    },
+    {
+      "params": [{
+        "name": "pickTeam",
+        "select": {"type": "point", "fields": ["team"]},
+        "bind": "legend",
+        "value": [{"team": "Perth Scorchers"}]
+      }],
+      "mark": {"type": "circle", "stroke": "#ffffff", "strokeWidth": 1},
+      "encoding": {
+        "size": {
+          "field": "runs", "type": "quantitative", "title": "Runs",
+          "scale": {"range": [40, 900]},
+          "legend": {"orient": "right", "values": [150, 300, 450]}
+        },
+        "color": {
+          "field": "team", "type": "nominal", "title": "Team",
+          "scale": {
+            "domain": ["Adelaide Strikers", "Brisbane Heat", "Hobart Hurricanes", "Melbourne Renegades",
+                       "Melbourne Stars", "Perth Scorchers", "Sydney Sixers", "Sydney Thunder"],
+            "range": ["#0085CA", "#00B2A9", "#6A2C91", "#E4002B", "#00843D", "#F58220", "#E5007E", "#B5D334"]
+          },
+          "legend": {"orient": "right"}
+        },
+        "opacity": {"condition": {"param": "pickTeam", "value": 0.95}, "value": 0.2},
+        "order": {"field": "runs", "type": "quantitative", "sort": "descending"},
+        "tooltip": [
+          {"field": "batter", "title": "Batter"},
+          {"field": "team", "title": "Team"},
+          {"field": "runs", "title": "Runs"},
+          {"field": "balls", "title": "Balls faced"},
+          {"field": "average", "title": "Average", "format": ".1f"},
+          {"field": "strike_rate", "title": "Strike rate", "format": ".1f"},
+          {"field": "fours", "title": "Fours"},
+          {"field": "sixes", "title": "Sixes"}
+        ]
+      }
+    },
+    {
+      "transform": [{"filter": "datum.run_rank <= 5"}],
+      "mark": {"type": "text", "align": "left", "dx": 14, "fontSize": 11, "fontWeight": "bold", "color": "#1f2430"},
+      "encoding": {"text": {"field": "batter"}}
+    }
+  ],
+  "config": {"view": {"stroke": null}}
+}

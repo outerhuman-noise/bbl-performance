@@ -1,0 +1,95 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "The Sixers lost 8 wickets for 66 runs, and Perth cruised home with 15 balls to spare",
+    "subtitle": [
+      "BBL|15 final, Perth Stadium, 25 January 2026. Running score after each ball; dots mark wickets.",
+      "Hover over the chart to compare both teams at the same point of their innings."
+    ],
+    "anchor": "start"
+  },
+  "width": "container",
+  "height": 340,
+  "data": {
+    "url": "https://raw.githubusercontent.com/outerhuman-noise/bbl-performance/main/data/cric_cleaned/11_bbl15_final_worm.csv",
+    "format": {"parse": {"innings": "number", "ball_in_innings": "number", "cumulative_runs": "number",
+                         "wicket": "number", "cumulative_wickets": "number"}}
+  },
+  "transform": [
+    {"calculate": "datum.ball_in_innings / 6", "as": "overs"},
+    {"calculate": "floor(datum.ball_in_innings / 6) + '.' + (datum.ball_in_innings % 6)", "as": "over_ball"}
+  ],
+  "encoding": {
+    "x": {
+      "field": "overs", "type": "quantitative", "title": "Overs",
+      "scale": {"domain": [0, 20], "nice": false},
+      "axis": {"values": [0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20], "grid": false}
+    },
+    "y": {
+      "field": "cumulative_runs", "type": "quantitative", "title": "Runs",
+      "scale": {"domain": [0, 140]}
+    },
+    "color": {
+      "field": "team", "type": "nominal", "title": null,
+      "scale": {"domain": ["Sydney Sixers", "Perth Scorchers"], "range": ["#E5007E", "#F58220"]},
+      "legend": {"orient": "bottom", "direction": "horizontal"}
+    }
+  },
+  "layer": [
+    {
+      "data": {"values": [{"target": 133}]},
+      "mark": {"type": "rule", "strokeDash": [4, 4], "color": "#8a919e"},
+      "encoding": {
+        "y": {"field": "target", "type": "quantitative"},
+        "x": {"value": 0}, "x2": {"value": {"expr": "width"}}, "color": {"value": "#8a919e"}
+      }
+    },
+    {
+      "data": {"values": [{"target": 133, "label": "Target: 133"}]},
+      "mark": {"type": "text", "align": "left", "baseline": "bottom", "dx": 4, "dy": -3, "color": "#5b6270", "fontSize": 11},
+      "encoding": {
+        "y": {"field": "target", "type": "quantitative"},
+        "x": {"value": 0}, "text": {"field": "label"}, "color": {"value": "#5b6270"}
+      }
+    },
+    {
+      "mark": {"type": "line", "strokeWidth": 2.5, "interpolate": "step-after"}
+    },
+    {
+      "transform": [{"filter": "datum.wicket === 1"}],
+      "mark": {"type": "point", "filled": true, "size": 70, "stroke": "#ffffff", "strokeWidth": 1.5, "opacity": 1},
+      "encoding": {
+        "tooltip": [
+          {"field": "team", "title": "Batting"},
+          {"field": "player_out", "title": "Wicket"},
+          {"field": "bowler", "title": "Bowler"},
+          {"field": "over_ball", "title": "Over"},
+          {"field": "cumulative_runs", "title": "Score"},
+          {"field": "cumulative_wickets", "title": "Wickets down"}
+        ]
+      }
+    },
+    {
+      "params": [{
+        "name": "hoverBall",
+        "select": {"type": "point", "fields": ["ball_in_innings"], "on": "pointerover", "nearest": true, "clear": "pointerout"}
+      }],
+      "mark": {"type": "point", "size": 60, "filled": true},
+      "encoding": {
+        "opacity": {"condition": {"param": "hoverBall", "empty": false, "value": 1}, "value": 0},
+        "tooltip": [
+          {"field": "team", "title": "Batting"},
+          {"field": "over_ball", "title": "Over"},
+          {"field": "cumulative_runs", "title": "Runs"},
+          {"field": "cumulative_wickets", "title": "Wickets"}
+        ]
+      }
+    },
+    {
+      "transform": [{"filter": {"param": "hoverBall", "empty": false}}],
+      "mark": {"type": "rule", "color": "#b8bec9"},
+      "encoding": {"y": {"value": 0}, "y2": {"value": {"expr": "height"}}, "color": {"value": "#b8bec9"}}
+    }
+  ],
+  "config": {"view": {"stroke": null}}
+}

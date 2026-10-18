@@ -45,6 +45,7 @@
     <h2>Where the Big Bash lives</h2>
     <p>Short paragraph introducing the maps.</p>
     <div id="chart1" class="chart"></div>
+
     <p>Short paragraph linking the two maps.</p>
     <div id="chart2" class="chart"></div>
   </section>
@@ -53,7 +54,9 @@
     <h2>Who wins, and does home matter?</h2>
     <p>Short paragraph introducing this section.</p>
     <div id="chart3" class="chart"></div>
+
     <div id="chart4" class="chart"></div>
+
     <div id="chart5" class="chart"></div>
 
     <!-- Two charts side by side (use this for smaller charts, not maps):
@@ -78,6 +81,21 @@
     <div id="chart8" class="chart"></div>
   </section>
 
+  <section>
+    <h2>BBL|15 in focus</h2>
+    <p>Short paragraph: the 2025/26 season, and how Perth came from fifth to finish top.</p>
+    <div id="chart9" class="chart"></div>
+
+    <p>Short paragraph: what made them so hard to beat?</p>
+    <div id="chart10" class="chart"></div>
+
+    <p>Short paragraph: the final, and how Perth sealed their sixth title.</p>
+    <div id="chart11" class="chart"></div>
+
+    <p>Short paragraph: who scored Perth's runs?</p>
+    <div id="chart12" class="chart"></div>
+  </section>
+
   <footer>
     <p><strong>Data:</strong> Cricsheet, Big Bash League match data (ODC-BY 1.0); Australian Bureau of Statistics, National, state and territory population, March 2026, and ASGS state boundaries (CC BY 4.0).</p>
     <p><strong>AI use:</strong> Describe how you used AI tools here.</p>
@@ -96,6 +114,10 @@
   vegaEmbed('#chart6', 'js/06_ridgeline_totals.vg.json', opts);
   vegaEmbed('#chart7', 'js/07_heatmap_runs_per_over.vg.json', opts);
   vegaEmbed('#chart8', 'js/08_radial_run_sources.vg.json', opts);
+  vegaEmbed('#chart9', 'js/09_bump_ladder.vg.json', opts);
+  vegaEmbed('#chart10', 'js/10_parallel_team_styles.vg.json', opts);
+  vegaEmbed('#chart11', 'js/11_worm_final.vg.json', opts);
+  vegaEmbed('#chart12', 'js/12_bubble_batters.vg.json', opts);
 </script>
 </body>
 </html>

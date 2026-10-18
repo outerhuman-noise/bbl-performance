@@ -1,0 +1,81 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Perth were fifth after three games, then won six of their last seven to top the ladder",
+    "subtitle": [
+      "BBL|15 ladder position after each match day, from the first day every team had played (league stage only).",
+      "Click a line or the legend to follow a team; double-click to reset."
+    ],
+    "anchor": "start"
+  },
+  "width": "container",
+  "height": 340,
+  "data": {
+    "url": "https://raw.githubusercontent.com/outerhuman-noise/bbl-performance/main/data/cric_cleaned/09_bbl15_ladder_by_day.csv",
+    "format": {"parse": {"date": "date", "position": "number", "points": "number", "played": "number",
+                         "won": "number", "lost": "number", "nrr": "number"}}
+  },
+  "transform": [
+    {"joinaggregate": [{"op": "min", "field": "played", "as": "fewest_played"}], "groupby": ["date"]},
+    {"filter": "datum.fewest_played >= 1"}
+  ],
+  "encoding": {
+    "x": {
+      "field": "date", "type": "temporal", "title": null,
+      "axis": {"format": "%-d %b", "tickCount": 6, "grid": false}
+    },
+    "y": {
+      "field": "position", "type": "quantitative", "title": "Ladder position",
+      "scale": {"domain": [8.4, 0.6], "nice": false},
+      "axis": {"values": [1, 2, 3, 4, 5, 6, 7, 8], "grid": false, "domain": false, "ticks": false}
+    },
+    "color": {
+      "field": "team", "type": "nominal", "title": "Team",
+      "scale": {
+        "domain": ["Adelaide Strikers", "Brisbane Heat", "Hobart Hurricanes", "Melbourne Renegades",
+                   "Melbourne Stars", "Perth Scorchers", "Sydney Sixers", "Sydney Thunder"],
+        "range": ["#0085CA", "#00B2A9", "#6A2C91", "#E4002B", "#00843D", "#F58220", "#E5007E", "#B5D334"]
+      },
+      "legend": {"orient": "bottom", "direction": "horizontal", "columns": 4}
+    },
+    "opacity": {"condition": {"param": "pickTeam", "value": 1}, "value": 0.15}
+  },
+  "layer": [
+    {
+      "params": [{
+        "name": "pickTeam",
+        "select": {"type": "point", "fields": ["team"], "on": "click", "clear": "dblclick"},
+        "bind": "legend",
+        "value": [{"team": "Perth Scorchers"}]
+      }],
+      "mark": {"type": "line", "interpolate": "monotone", "strokeCap": "round"},
+      "encoding": {
+        "strokeWidth": {"condition": {"param": "pickTeam", "value": 4}, "value": 2}
+      }
+    },
+    {
+      "mark": {"type": "point", "filled": true, "size": 30},
+      "encoding": {
+        "tooltip": [
+          {"field": "team", "title": "Team"},
+          {"field": "date", "type": "temporal", "title": "After", "format": "%-d %B %Y"},
+          {"field": "position", "title": "Position"},
+          {"field": "points", "title": "Points"},
+          {"field": "played", "title": "Played"},
+          {"field": "won", "title": "Won"},
+          {"field": "lost", "title": "Lost"},
+          {"field": "nrr", "title": "Net run rate", "format": "+.3f"}
+        ]
+      }
+    },
+    {
+      "transform": [
+        {"joinaggregate": [{"op": "max", "field": "date", "as": "last_date"}]},
+        {"filter": "datum.date === datum.last_date"}
+      ],
+      "mark": {"type": "text", "align": "left", "dx": 8, "fontSize": 11, "fontWeight": "bold"},
+      "encoding": {"text": {"field": "abbrev"}}
+    }
+  ],
+  "config": {"view": {"stroke": null}}
+}

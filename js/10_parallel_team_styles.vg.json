@@ -1,0 +1,119 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Champions Perth were near the top on almost every measure in BBL|15",
+    "subtitle": [
+      "Each line is a team. Every axis runs from worst in the league (bottom) to best (top); bowling axes are flipped so lower economy sits higher.",
+      "Click a line or the legend to highlight a team; double-click to reset."
+    ],
+    "anchor": "start"
+  },
+  "width": "container",
+  "height": 360,
+  "data": {
+    "url": "https://raw.githubusercontent.com/outerhuman-noise/bbl-performance/main/data/cric_cleaned/10_bbl15_team_styles.csv",
+    "format": {"parse": {
+      "bat_rr_overs_1_6": "number", "bat_rr_overs_7_15": "number", "bat_rr_overs_16_20": "number",
+      "boundary_pct": "number", "bowl_economy": "number", "bowl_economy_overs_16_20": "number",
+      "wickets_per_match": "number"
+    }}
+  },
+  "transform": [
+    {
+      "fold": ["bat_rr_overs_1_6", "bat_rr_overs_7_15", "bat_rr_overs_16_20", "boundary_pct",
+               "bowl_economy", "bowl_economy_overs_16_20", "wickets_per_match"],
+      "as": ["measure", "value"]
+    },
+    {"joinaggregate": [{"op": "min", "field": "value", "as": "min"}, {"op": "max", "field": "value", "as": "max"}], "groupby": ["measure"]},
+    {"calculate": "indexof(['bowl_economy', 'bowl_economy_overs_16_20'], datum.measure) >= 0", "as": "lower_is_better"},
+    {"calculate": "(datum.value - datum.min) / (datum.max - datum.min)", "as": "raw_norm"},
+    {"calculate": "datum.lower_is_better ? 1 - datum.raw_norm : datum.raw_norm", "as": "score"},
+    {"calculate": "{'bat_rr_overs_1_6': 'Batting: overs 1-6', 'bat_rr_overs_7_15': 'Batting: overs 7-15', 'bat_rr_overs_16_20': 'Batting: overs 16-20', 'boundary_pct': 'Boundary %', 'bowl_economy': 'Bowling economy', 'bowl_economy_overs_16_20': 'Economy: overs 16-20', 'wickets_per_match': 'Wickets per match'}[datum.measure]", "as": "axis_label"}
+  ],
+  "encoding": {
+    "x": {
+      "field": "axis_label", "type": "nominal", "title": null,
+      "sort": ["Batting: overs 1-6", "Batting: overs 7-15", "Batting: overs 16-20", "Boundary %",
+               "Bowling economy", "Economy: overs 16-20", "Wickets per match"],
+      "axis": {"orient": "top", "labelAngle": 0, "domain": false, "ticks": false, "labelFontWeight": "bold", "labelPadding": 22}
+    }
+  },
+  "layer": [
+    {
+      "mark": {"type": "rule", "color": "#c3c9d3"},
+      "encoding": {
+        "y": {"datum": 0, "type": "quantitative", "scale": {"domain": [0, 1]}, "axis": null},
+        "y2": {"datum": 1}
+      }
+    },
+    {
+      "params": [{
+        "name": "pickTeam",
+        "select": {"type": "point", "fields": ["team"], "on": "click", "clear": "dblclick"},
+        "bind": "legend",
+        "value": [{"team": "Perth Scorchers"}]
+      }],
+      "mark": {"type": "line", "strokeCap": "round", "strokeJoin": "round"},
+      "encoding": {
+        "y": {"field": "score", "type": "quantitative", "scale": {"domain": [0, 1]}, "axis": null},
+        "detail": {"field": "team"},
+        "color": {
+          "field": "team", "type": "nominal", "title": "Team",
+          "scale": {
+            "domain": ["Adelaide Strikers", "Brisbane Heat", "Hobart Hurricanes", "Melbourne Renegades",
+                       "Melbourne Stars", "Perth Scorchers", "Sydney Sixers", "Sydney Thunder"],
+            "range": ["#0085CA", "#00B2A9", "#6A2C91", "#E4002B", "#00843D", "#F58220", "#E5007E", "#B5D334"]
+          },
+          "legend": {"orient": "bottom", "direction": "horizontal", "columns": 4}
+        },
+        "opacity": {"condition": {"param": "pickTeam", "value": 1}, "value": 0.18},
+        "strokeWidth": {"condition": {"param": "pickTeam", "value": 4}, "value": 1.5}
+      }
+    },
+    {
+      "mark": {"type": "point", "filled": true, "size": 45},
+      "encoding": {
+        "y": {"field": "score", "type": "quantitative", "scale": {"domain": [0, 1]}, "axis": null},
+        "color": {
+          "field": "team", "type": "nominal", "legend": null,
+          "scale": {
+            "domain": ["Adelaide Strikers", "Brisbane Heat", "Hobart Hurricanes", "Melbourne Renegades",
+                       "Melbourne Stars", "Perth Scorchers", "Sydney Sixers", "Sydney Thunder"],
+            "range": ["#0085CA", "#00B2A9", "#6A2C91", "#E4002B", "#00843D", "#F58220", "#E5007E", "#B5D334"]
+          }
+        },
+        "opacity": {"condition": {"param": "pickTeam", "value": 1}, "value": 0.25},
+        "tooltip": [
+          {"field": "team", "title": "Team"},
+          {"field": "axis_label", "title": "Measure"},
+          {"field": "value", "title": "Value", "format": ".2f"}
+        ]
+      }
+    },
+    {
+      "transform": [
+        {"aggregate": [{"op": "min", "field": "value", "as": "min"}, {"op": "max", "field": "value", "as": "max"},
+                       {"op": "max", "field": "lower_is_better", "as": "flip"}], "groupby": ["axis_label"]},
+        {"calculate": "'best ' + format(datum.flip ? datum.min : datum.max, '.1f')", "as": "best_label"}
+      ],
+      "mark": {"type": "text", "dy": -10, "fontSize": 10, "color": "#5b6270"},
+      "encoding": {
+        "y": {"datum": 1, "type": "quantitative", "scale": {"domain": [0, 1]}},
+        "text": {"field": "best_label"}
+      }
+    },
+    {
+      "transform": [
+        {"aggregate": [{"op": "min", "field": "value", "as": "min"}, {"op": "max", "field": "value", "as": "max"},
+                       {"op": "max", "field": "lower_is_better", "as": "flip"}], "groupby": ["axis_label"]},
+        {"calculate": "'worst ' + format(datum.flip ? datum.max : datum.min, '.1f')", "as": "worst_label"}
+      ],
+      "mark": {"type": "text", "dy": 12, "fontSize": 10, "color": "#5b6270"},
+      "encoding": {
+        "y": {"datum": 0, "type": "quantitative", "scale": {"domain": [0, 1]}},
+        "text": {"field": "worst_label"}
+      }
+    }
+  ],
+  "config": {"view": {"stroke": null}}
+}
