@@ -1,0 +1,56 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Since the powerplay was cut to four overs, the fast scoring comes earlier",
+    "subtitle": [
+      "Average runs per over (run rate) for every over of every season. Darker means faster scoring.",
+      "The orange line marks BBL|10, when the powerplay was cut from six overs to four and a two-over Power Surge was added."
+    ],
+    "anchor": "start"
+  },
+  "width": "container",
+  "height": 420,
+  "data": {
+    "url": "https://raw.githubusercontent.com/outerhuman-noise/bbl-performance/main/data/cric_cleaned/07_runs_per_over.csv",
+    "format": {"parse": {"over": "number", "run_rate": "number", "wickets_per_100_overs": "number", "overs_bowled": "number"}}
+  },
+  "encoding": {
+    "x": {
+      "field": "over", "type": "ordinal", "title": "Over",
+      "axis": {"labelAngle": 0, "orient": "top", "domain": false, "ticks": false}
+    },
+    "y": {
+      "field": "season_label", "type": "ordinal", "title": null,
+      "axis": {"domain": false, "ticks": false}
+    }
+  },
+  "layer": [
+    {
+      "mark": {"type": "rect", "stroke": "#ffffff", "strokeWidth": 1.5},
+      "encoding": {
+        "color": {
+          "field": "run_rate", "type": "quantitative", "title": "Runs per over",
+          "scale": {"scheme": "blues", "domain": [5.5, 12]},
+          "legend": {"orient": "bottom", "direction": "horizontal", "gradientLength": 260}
+        },
+        "tooltip": [
+          {"field": "season_label", "title": "Season"},
+          {"field": "over", "title": "Over"},
+          {"field": "run_rate", "title": "Runs per over", "format": ".1f"},
+          {"field": "wickets_per_100_overs", "title": "Wickets per 100 overs", "format": ".1f"},
+          {"field": "overs_bowled", "title": "Overs bowled"}
+        ]
+      }
+    },
+    {
+      "data": {"values": [{"season_label": "BBL|10"}]},
+      "mark": {"type": "rule", "color": "#e07b39", "strokeWidth": 2.5},
+      "encoding": {
+        "y": {"field": "season_label", "type": "ordinal", "bandPosition": 0},
+        "x": {"value": 0},
+        "x2": {"value": {"expr": "width"}}
+      }
+    }
+  ],
+  "config": {"view": {"stroke": null}}
+}

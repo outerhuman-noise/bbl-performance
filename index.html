@@ -66,6 +66,18 @@
 
   <!-- Sections 3 and 4 (how the game has changed, BBL|15 in focus) go here as you build charts 6 to 12 -->
 
+  <section>
+    <h2>How the game has changed</h2>
+    <p>Short paragraph: totals look the same as 2011, but the big scores are back.</p>
+    <div id="chart6" class="chart"></div>
+
+    <p>So where do the extra big scores come from? Look at when the runs are scored.</p>
+    <div id="chart7" class="chart"></div>
+
+    <p>And the runs themselves are coming differently: fewer are run, more are hit over the rope.</p>
+    <div id="chart8" class="chart"></div>
+  </section>
+
   <footer>
     <p><strong>Data:</strong> Cricsheet, Big Bash League match data (ODC-BY 1.0); Australian Bureau of Statistics, National, state and territory population, March 2026, and ASGS state boundaries (CC BY 4.0).</p>
     <p><strong>AI use:</strong> Describe how you used AI tools here.</p>
@@ -81,6 +93,9 @@
   vegaEmbed('#chart3', 'js/03_heatmap_finishes.vg.json', opts);
   vegaEmbed('#chart4', 'js/04_dumbbell_home_away.vg.json', opts);
   vegaEmbed('#chart5', 'js/05_flow_map_travel.vg.json', opts);
+  vegaEmbed('#chart6', 'js/06_ridgeline_totals.vg.json', opts);
+  vegaEmbed('#chart7', 'js/07_heatmap_runs_per_over.vg.json', opts);
+  vegaEmbed('#chart8', 'js/08_radial_run_sources.vg.json', opts);
 </script>
 </body>
 </html>
