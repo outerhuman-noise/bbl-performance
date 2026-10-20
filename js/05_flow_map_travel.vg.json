@@ -60,7 +60,7 @@
       },
       "mark": {
         "type": "geoshape",
-        "fill": "#eef0f3",
+        "fill": "#cfcfcf",
         "stroke": "#ffffff",
         "strokeWidth": 1.5
       }

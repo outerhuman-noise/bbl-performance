@@ -44,7 +44,7 @@
   ],
   "mark": {
     "type": "geoshape",
-    "stroke": "#ffffff",
+    "stroke": "#cfcfcf",
     "strokeWidth": 1.5
   },
   "encoding": {
