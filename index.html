@@ -34,6 +34,7 @@
     h2 { font-size: 1.7rem; margin: 10px 0 8px; }
     .lede { font-size: 1.15rem; max-width: 60ch; color: var(--muted); margin: 0 0 12px; }
     .byline { color: var(--faint); font-size: 0.9rem; margin: 0; }
+    .intro { max-width: 70ch; margin: 24px 0 0; }
 
     section { margin-top: 56px; }
     section > p { max-width: 70ch; color: var(--muted); }
@@ -44,7 +45,7 @@
     .bento { display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 16px; margin-top: 20px; }
     .card { background: var(--tint); border: 1px solid var(--border); border-top: 4px solid var(--accent); border-radius: 12px; padding: 24px; box-shadow: 0 2px 8px rgba(17, 24, 39, 0.08); min-width: 0; }
     .card p { margin: 0 0 12px; color: var(--muted); }
-    .card.text { display: flex; flex-direction: column; justify-content: flex-end; background: var(--accent); border-color: var(--accent); }
+    .card.text { display: flex; flex-direction: column; justify-content: flex-start; text-align: left; background: var(--accent); border-color: var(--accent); }
     .card.text p { font-size: 1.1rem; font-weight: 500; color: #ffffff; }
     .eyebrow { font-family: "IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--accent); margin-bottom: 8px; }
     .span-2 { grid-column: span 2; }
@@ -67,20 +68,23 @@
     <h1>What wins a Big Bash title?</h1>
     <p class="lede">Fifteen seasons of the BBL, from where the games are played to who keeps lifting the trophy.</p>
     <p class="byline">By Ethan Chuen &middot; October 2026</p>
+    <p class="intro">Over fifteen seasons of competition between eight teams, the Perth Scorchers have lifted the Big Bash trophy six times, more than any other club. What factors come into consideration when analysing the explanation for their performance? These graphs explore where the league is played, who wins and whether home ground matters, how the game itself has changed, and how Perth claimed their sixth title in BBL 15. The charts are interactive: hover over any mark for the details, and click a team in a legend to highlight it.</p>
   </header>
 
   <section>
     <span class="tag">Part 1</span>
     <h2>Where the Big Bash lives</h2>
     <div class="bento">
+      <div class="card text span-6">
+        <p>The Big Bash is played mostly in the eight home cities, with occasional trips to regional grounds such as Coffs Harbour, Alice Springs and Cairns. In all, 21 grounds have hosted a BBL match. Some cities have two teams belonging to them, so the dropdown below can be used to show a single team's grounds.</p>
+        <p>Counting matches by state would mostly map where people live, so this map divides matches by population instead. On that measure Tasmania stands out: it hosts 141 matches per million residents, roughly nine times the rate in New South Wales and Queensland (about 15 each).</p>
+      </div>
       <div class="card span-3">
         <div class="eyebrow">Fig. 1</div>
-        <p>Short paragraph introducing the maps.</p>
         <div id="chart1" class="chart"></div>
       </div>
       <div class="card span-3">
         <div class="eyebrow">Fig. 2</div>
-        <p>Short paragraph linking the two maps.</p>
         <div id="chart2" class="chart"></div>
       </div>
     </div>
@@ -89,7 +93,6 @@
   <section>
     <span class="tag">Part 2</span>
     <h2>Who wins, and does home matter?</h2>
-    <p>Short paragraph introducing this section.</p>
     <div class="bento">
       <div class="card span-3">
         <div class="eyebrow">Fig. 3</div>
@@ -99,12 +102,15 @@
         <div class="eyebrow">Fig. 4</div>
         <div id="chart4" class="chart"></div>
       </div>
-      <div class="card span-4">
+      <div class="card text span-6">
+        <p>Perth have won more titles than anyone. Is it because they win at home, or is something else going on?</p>
+        <p>One team dominates the finishing table. Perth have reached nine finals and won six of them. The contrast is the Melbourne Stars, who reached three finals and lost every one.</p>
+        <p>Home advantage is real for most teams. Adelaide win 16 percentage points more often at home than away, and Hobart 14. The Brisbane Heat and Melbourne Renegades are the exceptions, with little or no home edge. Perth stand out in a different way, with a 57% winrate for their away games, a better rate than five teams manage at home.</p>
+        <p>That away record is more striking given how far Perth travel. In BBL 15 the Scorchers covered about 29,000 km, the longest trips in the league, against about 7,000 km for the Sydney Thunder.</p>
+      </div>
+      <div class="card span-6">
         <div class="eyebrow">Fig. 5</div>
         <div id="chart5" class="chart"></div>
-      </div>
-      <div class="card text span-2">
-        <p>Short paragraph explaining the travel map.</p>
       </div>
     </div>
 
@@ -124,16 +130,16 @@
     <div class="bento">
       <div class="card span-3">
         <div class="eyebrow">Fig. 6</div>
-        <p>Short paragraph: totals look the same as 2011, but the big scores are back.</p>
         <div id="chart6" class="chart"></div>
       </div>
       <div class="card span-3">
         <div class="eyebrow">Fig. 7</div>
-        <p>So where do the extra big scores come from? Look at when the runs are scored.</p>
         <div id="chart7" class="chart"></div>
       </div>
       <div class="card text span-2">
-        <p>And the runs themselves are coming differently: fewer are run, more are hit over the rope.</p>
+        <p>The typical first-innings score is about where it was in 2011, with a median of around 165. What has changed is the top end: the share of first innings reaching 200 or more has roughly doubled, from 7.5% to 14%. Only completed innings are counted, so cut-short innings don&rsquo;t drag the totals down.</p>
+        <p>Some of the change comes from the rules, and it shows up in the data. From BBL 10 the opening powerplay was cut to four overs, and the burst of fast scoring moved with it, into overs 3 and 4.</p>
+        <p>The runs themselves are coming differently too. Sixes rose from 19.4% of all runs in BBL 01 to 24.1% in BBL15, while running between the wickets fell from about 45% to 39%.</p>
       </div>
       <div class="card span-4">
         <div class="eyebrow">Fig. 8</div>
@@ -144,34 +150,44 @@
 
   <section>
     <span class="tag">Part 4</span>
-    <h2>BBL|15 in focus</h2>
+    <h2>BBL 15 in focus</h2>
     <div class="bento">
       <div class="card span-6">
         <div class="eyebrow">Fig. 9</div>
-        <p>Short paragraph: the 2025/26 season, and how Perth came from fifth to finish top.</p>
         <div id="chart9" class="chart"></div>
+      </div>
+      <div class="card text span-6">
+        <p>Perth's sixth title did not look likely early on. After three games of BBL 15 they sat fifth on the ladder, then won six of their last seven to finish on top.</p>
       </div>
       <div class="card span-6">
         <div class="eyebrow">Fig. 10</div>
-        <p>Short paragraph: what made them so hard to beat?</p>
         <div id="chart10" class="chart"></div>
+      </div>
+      <div class="card text span-6">
+        <p>What made them so hard to beat? Not one standout strength, but very few weaknesses. Perth sat at or near the top on almost every measure.</p>
+        <p>The final showed how hard they were to beat. The Sydney Sixers reached 66/2, then lost eight wickets for 66 runs and were all out for 132. Perth chased the target with 15 balls to spare.</p>
+        <p>Their batting also had depth. Three of the league's top five run-scorers played for Perth, and Finn Allen scored faster than any other batter in BBL 15.</p>
       </div>
       <div class="card span-3">
         <div class="eyebrow">Fig. 11</div>
-        <p>Short paragraph: the final, and how Perth sealed their sixth title.</p>
         <div id="chart11" class="chart"></div>
       </div>
       <div class="card span-3">
         <div class="eyebrow">Fig. 12</div>
-        <p>Short paragraph: who scored Perth's runs?</p>
         <div id="chart12" class="chart"></div>
       </div>
     </div>
   </section>
 
+  <section>
+    <span class="tag">Conclusion</span>
+    <h2>So, what wins a Big Bash title?</h2>
+    <p>On fifteen seasons of evidence, Perth's answer has three parts. First, like most teams they are strong at home, but unlike most they keep winning away, despite travelling further than anyone. Second, they build sides without weak spots rather than leaning on one strength. Third, their batters hit sixes in an era when the game rewards sixes more than ever. Unfortunately it's difficult to determine whether these factors are causation or correlation. Perth's record may also reflect things the data can't see, such as list management or coaching, however what this information does tell us is that Perth has good reason to be the most successful team.</p>
+  </section>
+
   <footer>
     <p><strong>Data:</strong> Cricsheet, Big Bash League match data (ODC-BY 1.0); Australian Bureau of Statistics, National, state and territory population, March 2026, and ASGS state boundaries (CC BY 4.0).</p>
-    <p><strong>AI use:</strong> Describe how you used AI tools here.</p>
+    <p><strong>AI use:</strong> AI was used to understand the background information of the topic, identify possible data sources, and help with adapting open source ui elements to the design of this site.</p>
   </footer>
 
 </div>
