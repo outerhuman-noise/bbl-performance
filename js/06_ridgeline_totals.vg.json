@@ -1,10 +1,5 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": {
-    "text": "The typical score has barely moved, but 200-plus totals have doubled",
-    "subtitle": "How often each first-innings total was made, by season. Ticks mark the median (middle) score. Hover a season to highlight it.",
-    "anchor": "start"
-  },
   "width": "container",
   "height": 460,
   "data": {
@@ -13,6 +8,7 @@
                          "all_out": "number", "legal_balls": "number"}}
   },
   "transform": [
+    {"calculate": "replace(datum.season_label, '|', ' ')", "as": "season_label"},
     {"filter": "datum.innings === 1 && datum.full_20_overs === 1 && (datum.all_out === 1 || datum.legal_balls === 120)"},
     {"calculate": "toNumber(slice(datum.season_label, 4))", "as": "season_num"}
   ],
@@ -42,7 +38,7 @@
           "scale": {"domain": [0.6, 17.2]},
           "axis": {
             "values": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
-            "labelExpr": "'BBL|' + format(16 - datum.value, '02d')",
+            "labelExpr": "'BBL ' + format(16 - datum.value, '02d')",
             "labelOverlap": false, "grid": false, "domain": false, "ticks": false
           }
         },
@@ -71,7 +67,7 @@
           "scale": {"domain": [0.6, 17.2]},
           "axis": {
             "values": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
-            "labelExpr": "'BBL|' + format(16 - datum.value, '02d')",
+            "labelExpr": "'BBL ' + format(16 - datum.value, '02d')",
             "labelOverlap": false, "grid": false, "domain": false, "ticks": false
           }
         },

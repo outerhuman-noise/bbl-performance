@@ -1,15 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": {
-    "text": "The Sixers lost 8 wickets for 66 runs, and Perth cruised home with 15 balls to spare",
-    "subtitle": [
-      "BBL|15 final, Perth Stadium, 25 January 2026. Running score after each ball; dots mark wickets.",
-      "Hover over the chart to compare both teams at the same point of their innings."
-    ],
-    "anchor": "start"
-  },
   "width": "container",
-  "height": 340,
+  "height": 420,
   "data": {
     "url": "https://raw.githubusercontent.com/outerhuman-noise/bbl-performance/main/data/cric_cleaned/11_bbl15_final_worm.csv",
     "format": {"parse": {"innings": "number", "ball_in_innings": "number", "cumulative_runs": "number",

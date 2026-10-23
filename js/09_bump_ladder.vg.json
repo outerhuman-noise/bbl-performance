@@ -1,13 +1,5 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": {
-    "text": "Perth were fifth after three games, then won six of their last seven to top the ladder",
-    "subtitle": [
-      "BBL|15 ladder position after each match day, from the first day every team had played (league stage only).",
-      "Click a line or the legend to follow a team; double-click to reset."
-    ],
-    "anchor": "start"
-  },
   "width": "container",
   "height": 340,
   "data": {

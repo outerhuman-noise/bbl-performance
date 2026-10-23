@@ -47,6 +47,8 @@
     .card p { margin: 0 0 12px; color: var(--muted); }
     .card.text { display: flex; flex-direction: column; justify-content: flex-start; text-align: left; background: var(--accent); border-color: var(--accent); }
     .card.text p { font-size: 1.1rem; font-weight: 500; color: #ffffff; }
+    .chart-title { font-size: 1.05rem; font-weight: 700; line-height: 1.3; letter-spacing: -0.01em; margin: 0 0 4px; color: var(--ink); }
+    .card p.chart-sub { font-size: 0.9rem; line-height: 1.45; margin: 0 0 12px; }
     .eyebrow { font-family: "IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--accent); margin-bottom: 8px; }
     .span-2 { grid-column: span 2; }
     .span-3 { grid-column: span 3; }
@@ -81,10 +83,14 @@
       </div>
       <div class="card span-3">
         <div class="eyebrow">Fig. 1</div>
+        <h3 class="chart-title">The Big Bash is played in eight cities, plus a few regional visits</h3>
+        <p class="chart-sub">Each circle is a ground, sized by matches hosted (BBL 01 to BBL 15) and coloured by its home team</p>
         <div id="chart1" class="chart"></div>
       </div>
       <div class="card span-3">
         <div class="eyebrow">Fig. 2</div>
+        <h3 class="chart-title">Tasmania hosts the most Big Bash cricket for its size</h3>
+        <p class="chart-sub">BBL matches hosted per million residents, BBL 01 to BBL 15</p>
         <div id="chart2" class="chart"></div>
       </div>
     </div>
@@ -96,10 +102,14 @@
     <div class="bento">
       <div class="card span-3">
         <div class="eyebrow">Fig. 3</div>
+        <h3 class="chart-title">Perth have played in 9 of 15 finals and won 6</h3>
+        <p class="chart-sub">Each cell shows how far a team went that season. Click a team to highlight it; double-click to reset.</p>
         <div id="chart3" class="chart"></div>
       </div>
       <div class="card span-3">
         <div class="eyebrow">Fig. 4</div>
+        <h3 class="chart-title">Perth win away more often than five teams win at home</h3>
+        <p class="chart-sub">Win rate at home and away, BBL 01 to BBL 15. Teams sorted by the size of their home advantage.</p>
         <div id="chart4" class="chart"></div>
       </div>
       <div class="card text span-6">
@@ -110,6 +120,8 @@
       </div>
       <div class="card span-6">
         <div class="eyebrow">Fig. 5</div>
+        <h3 class="chart-title">Perth's away trips are the longest in the league</h3>
+        <p class="chart-sub">Lines run from a team's home ground to each away ground it played at. Thicker lines mean more trips that season.</p>
         <div id="chart5" class="chart"></div>
       </div>
     </div>
@@ -130,10 +142,14 @@
     <div class="bento">
       <div class="card span-3">
         <div class="eyebrow">Fig. 6</div>
+        <h3 class="chart-title">The typical score has barely moved, but 200-plus totals have doubled</h3>
+        <p class="chart-sub">How often each first-innings total was made, by season. Ticks mark the median (middle) score. Hover a season to highlight it.</p>
         <div id="chart6" class="chart"></div>
       </div>
       <div class="card span-3">
         <div class="eyebrow">Fig. 7</div>
+        <h3 class="chart-title">Since the powerplay was cut to four overs, the fast scoring comes earlier</h3>
+        <p class="chart-sub">Average runs per over (run rate) for every over of every season. Darker means faster scoring. The orange line marks BBL 10, when the powerplay was cut from six overs to four and a two-over Power Surge was added.</p>
         <div id="chart7" class="chart"></div>
       </div>
       <div class="card text span-2">
@@ -143,6 +159,8 @@
       </div>
       <div class="card span-4">
         <div class="eyebrow">Fig. 8</div>
+        <h3 class="chart-title">Sixes are taking over from running between the wickets</h3>
+        <p class="chart-sub">Share of each season's runs by source. Each ring is a season: BBL 01 in the centre, BBL 15 on the outside. The orange wedge (sixes) starts at 12 o'clock, so a wider wedge means more runs from sixes. Click the legend to highlight a source.</p>
         <div id="chart8" class="chart"></div>
       </div>
     </div>
@@ -154,6 +172,8 @@
     <div class="bento">
       <div class="card span-6">
         <div class="eyebrow">Fig. 9</div>
+        <h3 class="chart-title">Perth were fifth after three games, then won six of their last seven to top the ladder</h3>
+        <p class="chart-sub">BBL 15 ladder position after each match day, from the first day every team had played (league stage only). Click a line or the legend to follow a team; double-click to reset.</p>
         <div id="chart9" class="chart"></div>
       </div>
       <div class="card text span-6">
@@ -161,6 +181,8 @@
       </div>
       <div class="card span-6">
         <div class="eyebrow">Fig. 10</div>
+        <h3 class="chart-title">Champions Perth were near the top on almost every measure in BBL 15</h3>
+        <p class="chart-sub">Each line is a team. Every axis runs from worst in the league (bottom) to best (top); bowling axes are flipped so lower economy sits higher. Click a line or the legend to highlight a team; double-click to reset.</p>
         <div id="chart10" class="chart"></div>
       </div>
       <div class="card text span-6">
@@ -170,10 +192,14 @@
       </div>
       <div class="card span-3">
         <div class="eyebrow">Fig. 11</div>
+        <h3 class="chart-title">The Sixers lost 8 wickets for 66 runs, and Perth cruised home with 15 balls to spare</h3>
+        <p class="chart-sub">BBL 15 final, Perth Stadium, 25 January 2026. Running score after each ball; dots mark wickets. Hover over the chart to compare both teams at the same point of their innings.</p>
         <div id="chart11" class="chart"></div>
       </div>
       <div class="card span-3">
         <div class="eyebrow">Fig. 12</div>
+        <h3 class="chart-title">Three of BBL 15's top five run-scorers played for Perth</h3>
+        <p class="chart-sub">Batters who faced at least 100 balls in BBL 15. Bubble size shows total runs. Dashed lines mark the median batter, so the top-right corner holds batters who scored both faster and more reliably than most. Click the legend to pick a team.</p>
         <div id="chart12" class="chart"></div>
       </div>
     </div>
@@ -194,19 +220,22 @@
 
 <!-- Draw every chart. One line per chart. -->
 <script>
-  const opts = {actions: false, config: {font: "Inter", background: "transparent"}};
-  vegaEmbed('#chart1', 'js/01_symbol_map_venues.vg.json', opts);
-  vegaEmbed('#chart2', 'js/02_choropleth_states.vg.json', opts);
-  vegaEmbed('#chart3', 'js/03_heatmap_finishes.vg.json', opts);
-  vegaEmbed('#chart4', 'js/04_dumbbell_home_away.vg.json', opts);
-  vegaEmbed('#chart5', 'js/05_flow_map_travel.vg.json', opts);
-  vegaEmbed('#chart6', 'js/06_ridgeline_totals.vg.json', opts);
-  vegaEmbed('#chart7', 'js/07_heatmap_runs_per_over.vg.json', opts);
-  vegaEmbed('#chart8', 'js/08_radial_run_sources.vg.json', opts);
-  vegaEmbed('#chart9', 'js/09_bump_ladder.vg.json', opts);
-  vegaEmbed('#chart10', 'js/10_parallel_team_styles.vg.json', opts);
-  vegaEmbed('#chart11', 'js/11_worm_final.vg.json', opts);
-  vegaEmbed('#chart12', 'js/12_bubble_batters.vg.json', opts);
+  // Charts use the page font (Inter). SVG text follows the web font; waiting for it avoids a fallback-font first draw.
+  const opts = {actions: false, renderer: "svg", config: {font: "Inter, Helvetica, Arial, sans-serif", background: "transparent"}};
+  document.fonts.ready.then(() => {
+    vegaEmbed('#chart1', 'js/01_symbol_map_venues.vg.json', opts);
+    vegaEmbed('#chart2', 'js/02_choropleth_states.vg.json', opts);
+    vegaEmbed('#chart3', 'js/03_heatmap_finishes.vg.json', opts);
+    vegaEmbed('#chart4', 'js/04_dumbbell_home_away.vg.json', opts);
+    vegaEmbed('#chart5', 'js/05_flow_map_travel.vg.json', opts);
+    vegaEmbed('#chart6', 'js/06_ridgeline_totals.vg.json', opts);
+    vegaEmbed('#chart7', 'js/07_heatmap_runs_per_over.vg.json', opts);
+    vegaEmbed('#chart8', 'js/08_radial_run_sources.vg.json', opts);
+    vegaEmbed('#chart9', 'js/09_bump_ladder.vg.json', opts);
+    vegaEmbed('#chart10', 'js/10_parallel_team_styles.vg.json', opts);
+    vegaEmbed('#chart11', 'js/11_worm_final.vg.json', opts);
+    vegaEmbed('#chart12', 'js/12_bubble_batters.vg.json', opts);
+  });
 </script>
 </body>
 </html>

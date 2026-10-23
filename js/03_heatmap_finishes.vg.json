@@ -1,10 +1,5 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": {
-    "text": "Perth have played in 9 of 15 finals and won 6",
-    "subtitle": "Each cell shows how far a team went that season. Click a team to highlight it; double-click to reset.",
-  "anchor": "start"
-  },
   "width": "container",
   "height": 300,
   "data": {"url": "https://raw.githubusercontent.com/outerhuman-noise/bbl-performance/main/data/cric_cleaned/03_team_seasons.csv"},

@@ -1,13 +1,5 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": {
-    "text": "Sixes are taking over from running between the wickets",
-    "subtitle": [
-      "Share of each season's runs by source. Each ring is a season: BBL|01 in the centre, BBL|15 on the outside.",
-      "The orange wedge (sixes) starts at 12 o'clock, so a wider wedge means more runs from sixes. Click the legend to highlight a source."
-    ],
-    "anchor": "start"
-  },
   "width": "container",
   "height": 480,
   "data": {
@@ -15,6 +7,7 @@
     "format": {"parse": {"season_num": "number", "source_order": "number", "runs": "number", "share_pct": "number"}}
   },
   "transform": [
+    {"calculate": "replace(datum.season_label, '|', ' ')", "as": "season_label"},
     {
       "window": [{"op": "sum", "field": "share_pct", "as": "end_pct"}],
       "groupby": ["season_label"],
@@ -54,9 +47,9 @@
     {
       "mark": {"type": "text", "align": "center", "baseline": "middle", "fontSize": 12, "fontWeight": "bold",
                "lineHeight": 17, "color": "#1f2430",
-               "text": ["Runs from sixes", "19.4% → 24.1%", "BBL|01 → BBL|15"]},
+               "text": ["Runs from sixes", "19.4% → 24.1%", "BBL 01 → BBL 15"]},
       "encoding": {"theta": {"value": 0}, "radius": {"value": 0}}
     }
   ],
-  "config": {"view": {"stroke": null}}
+  "config": {"view": {"stroke": null}, "legend": {"layout": {"right": {"anchor": "end"}}}}
 }

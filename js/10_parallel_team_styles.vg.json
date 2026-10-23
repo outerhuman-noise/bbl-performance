@@ -1,13 +1,5 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": {
-    "text": "Champions Perth were near the top on almost every measure in BBL|15",
-    "subtitle": [
-      "Each line is a team. Every axis runs from worst in the league (bottom) to best (top); bowling axes are flipped so lower economy sits higher.",
-      "Click a line or the legend to highlight a team; double-click to reset."
-    ],
-    "anchor": "start"
-  },
   "width": "container",
   "height": 360,
   "data": {

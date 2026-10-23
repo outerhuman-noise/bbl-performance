@@ -1,13 +1,5 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": {
-    "text": "Since the powerplay was cut to four overs, the fast scoring comes earlier",
-    "subtitle": [
-      "Average runs per over (run rate) for every over of every season. Darker means faster scoring.",
-      "The orange line marks BBL|10, when the powerplay was cut from six overs to four and a two-over Power Surge was added."
-    ],
-    "anchor": "start"
-  },
   "width": "container",
   "height": 420,
   "data": {
@@ -24,6 +16,9 @@
       "axis": {"domain": false, "ticks": false}
     }
   },
+  "transform": [
+    {"calculate": "replace(datum.season_label, '|', ' ')", "as": "season_label"}
+  ],
   "layer": [
     {
       "mark": {"type": "rect", "stroke": "#ffffff", "strokeWidth": 1.5},
@@ -43,7 +38,7 @@
       }
     },
     {
-      "data": {"values": [{"season_label": "BBL|10"}]},
+      "data": {"values": [{"season_label": "BBL 10"}]},
       "mark": {"type": "rule", "color": "#e07b39", "strokeWidth": 2.5},
       "encoding": {
         "y": {"field": "season_label", "type": "ordinal", "bandPosition": 0},

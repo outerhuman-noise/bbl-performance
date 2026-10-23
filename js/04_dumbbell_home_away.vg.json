@@ -1,10 +1,5 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": {
-    "text": "Perth win away more often than five teams win at home",
-    "subtitle": "Win rate at home and away, BBL|01 to BBL|15. Teams sorted by the size of their home advantage.",
-    "anchor": "start"
-  },
   "width": "container",
   "height": 280,
   "data": {

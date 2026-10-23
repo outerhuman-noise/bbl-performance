@@ -1,10 +1,5 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": {
-    "text": "Perth's away trips are the longest in the league",
-    "subtitle": "Lines run from a team's home ground to each away ground it played at. Thicker lines mean more trips that season.",
-    "anchor": "start"
-  },
   "width": "container",
   "height": 420,
   "params": [
@@ -34,7 +29,7 @@
         "min": 1,
         "max": 15,
         "step": 1,
-        "name": "Season (BBL|): "
+        "name": "Season (BBL): "
       }
     }
   ],

@@ -1,13 +1,5 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": {
-    "text": "Three of BBL|15's top five run-scorers played for Perth",
-    "subtitle": [
-      "Batters who faced at least 100 balls in BBL|15. Bubble size shows total runs. Dashed lines mark the median batter,",
-      "so the top-right corner holds batters who scored both faster and more reliably than most. Click the legend to pick a team."
-    ],
-    "anchor": "start"
-  },
   "width": "container",
   "height": 420,
   "data": {
@@ -46,7 +38,7 @@
         "size": {
           "field": "runs", "type": "quantitative", "title": "Runs",
           "scale": {"range": [40, 900]},
-          "legend": {"orient": "right", "values": [150, 300, 450]}
+          "legend": {"orient": "bottom", "direction": "horizontal", "values": [150, 300, 450]}
         },
         "color": {
           "field": "team", "type": "nominal", "title": "Team",
@@ -55,7 +47,7 @@
                        "Melbourne Stars", "Perth Scorchers", "Sydney Sixers", "Sydney Thunder"],
             "range": ["#0085CA", "#00B2A9", "#6A2C91", "#E4002B", "#00843D", "#F58220", "#E5007E", "#B5D334"]
           },
-          "legend": {"orient": "right"}
+          "legend": {"orient": "bottom", "direction": "horizontal", "columns": 2}
         },
         "opacity": {"condition": {"param": "pickTeam", "value": 0.95}, "value": 0.2},
         "order": {"field": "runs", "type": "quantitative", "sort": "descending"},
@@ -72,10 +64,18 @@
       }
     },
     {
-      "transform": [{"filter": "datum.run_rank <= 5"}],
+      "transform": [{"filter": "datum.run_rank <= 5 && datum.average <= 70"}],
       "mark": {"type": "text", "align": "left", "dx": 14, "fontSize": 11, "fontWeight": "bold", "color": "#1f2430"},
+      "encoding": {"text": {"field": "batter"}}
+    },
+    {
+      "transform": [{"filter": "datum.run_rank <= 5 && datum.average > 70"}],
+      "mark": {"type": "text", "align": "center", "baseline": "bottom", "dy": -14, "fontSize": 11, "fontWeight": "bold", "color": "#1f2430"},
       "encoding": {"text": {"field": "batter"}}
     }
   ],
-  "config": {"view": {"stroke": null}}
+  "config": {
+    "view": {"stroke": null},
+    "legend": {"layout": {"bottom": {"direction": "vertical", "anchor": "start", "margin": 12}}}
+  }
 }

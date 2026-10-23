@@ -1,10 +1,5 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": {
-    "text": "The Big Bash is played in eight cities, plus a few regional visits",
-    "subtitle": "Each circle is a ground, sized by matches hosted (BBL|01 to BBL|15) and coloured by its home team",
-    "anchor": "start"
-  },
   "width": "container",
   "height": 420,
   "params": [
@@ -196,6 +191,9 @@
   "config": {
     "view": {
       "stroke": null
+    },
+    "legend": {
+      "layout": {"right": {"anchor": "end"}}
     }
   }
 }
