@@ -32,7 +32,7 @@
         "color": {
           "field": "source", "type": "nominal", "title": "Runs from",
           "scale": {"domain": ["Sixes", "Fours", "Running", "Extras"],
-                    "range": ["#173f73", "#4f86c6", "#c9d6e8", "#8a919e"]},
+                    "range": ["#7a0c12", "#cf3a3a", "#f2c4c4", "#8a919e"]},
           "legend": {"orient": "right"}
         },
         "opacity": {"condition": {"param": "pickSource", "value": 1}, "value": 0.25},

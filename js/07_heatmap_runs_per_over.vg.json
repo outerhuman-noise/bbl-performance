@@ -25,7 +25,7 @@
       "encoding": {
         "color": {
           "field": "run_rate", "type": "quantitative", "title": "Runs per over",
-          "scale": {"scheme": "blues", "domain": [5.5, 12]},
+          "scale": {"scheme": "reds", "domain": [5.5, 12]},
           "legend": {"orient": "bottom", "direction": "horizontal", "gradientLength": 260}
         },
         "tooltip": [
@@ -39,7 +39,7 @@
     },
     {
       "data": {"values": [{"season_label": "BBL 10"}]},
-      "mark": {"type": "rule", "color": "#e07b39", "strokeWidth": 2.5},
+      "mark": {"type": "rule", "color": "#1f2430", "strokeWidth": 2.5},
       "encoding": {
         "y": {"field": "season_label", "type": "ordinal", "bandPosition": 0},
         "x": {"value": 0},

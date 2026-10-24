@@ -25,7 +25,7 @@
           "type": "ordinal",
           "scale": {
             "domain": ["Missed finals", "Finals", "Runner-Up", "Champion"],
-            "range": ["#e6e9ee", "#a9c4e4", "#4f86c6", "#173f73"]
+            "range": ["#e6e9ee", "#eba3a3", "#cf3a3a", "#7a0c12"]
           }
         },
         "opacity": {

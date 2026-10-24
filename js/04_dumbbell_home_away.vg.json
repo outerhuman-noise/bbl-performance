@@ -48,7 +48,7 @@
         },
         "color": {
           "field": "where", "type": "nominal", "title": null,
-          "scale": {"domain": ["Home", "Away"], "range": ["#173f73", "#8fb8e0"]},
+          "scale": {"domain": ["Home", "Away"], "range": ["#7a0c12", "#e48a8a"]},
           "legend": {"orient": "top", "direction": "horizontal"}
         },
         "tooltip": [

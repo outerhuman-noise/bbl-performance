@@ -44,7 +44,7 @@
         },
         "y2": {"field": "base"},
         "detail": {"field": "season_label"},
-        "fill": {"condition": {"param": "hoverSeason", "empty": false, "value": "#173f73"}, "value": "#6f9fd4"},
+        "fill": {"condition": {"param": "hoverSeason", "empty": false, "value": "#7a0c12"}, "value": "#dc6464"},
         "fillOpacity": {"condition": {"param": "hoverSeason", "empty": false, "value": 1}, "value": 0.75},
         "tooltip": [{"field": "season_label", "title": "Season"}]
       }
